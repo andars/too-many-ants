@@ -1,5 +1,5 @@
 class Scout(multiprocessing.Process):
-    def __init__(self, group, assignment, keywords, threshold, queue):
+    def __init__(self, group, assignment, keywords, threshold, queue, start):
         super(Scout, self).__init__()
         
         self.group = group
@@ -29,14 +29,14 @@ class Scout(multiprocessing.Process):
                 for word in keywords:
                     goodness += line.count(word)
                 if goodness > threshold:
-                    self.send_message("is_good")
+                    self.send_message((self.get_index(), "is_good"))
 
             
     def get_index(self):
-        return self.index
+        return self.index + start
 
     def run(self, **args):
-        self.traverse_assignment()
+        traverse_assignment()
         self.queue.put((self.group, self.messages))
         self.clear_messages()
         
