@@ -1,6 +1,10 @@
 class Scout(multiprocessing.Process):
-    def __init__(self, group, assignment, keywords, threshold):
+    def __init__(self, group, assignment, keywords, threshold, queue):
+        super(Scout, self).__init__()
+        
         self.group = group
+        self.queue = queue
+
         self.index = 0
         self.assignment = assignment
         self.keywords = keywords
@@ -13,12 +17,11 @@ class Scout(multiprocessing.Process):
     def clear_messages(self):
         self.messages = []
 
-    def run(self, **args):
-        for target in assignment:
-            self.search_file(target)    
+    def traverse_assignment(self):
+        for target_document in self.assignment:
+            self.search_file(target_document)    
             self.index += 1
-        pass
-        
+
     def search_file(self, filePath):
         with open(filePath, "r") as file:
             for line in file:
@@ -32,5 +35,6 @@ class Scout(multiprocessing.Process):
     def get_index(self):
         return self.index
 
-    def get_assignment(self):
-        return self.assignment
+    def run(self, **args):
+        self.queue.put(self.messages)
+        
