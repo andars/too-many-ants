@@ -1,18 +1,16 @@
 from os import listdir
+from multiprocessing import Queue
 
 empty = None
 
 class WorkerController():
     def __init__(self):
         self.workers = []
+        self.worker_message_queue = Queue()
 
     def read_worker_messages(self):
         worker_messages = {}
-        for worker in self.workers:
-            if worker_messages[worker.group] is empty:
-                worker_messages[worker.group] = []
-            worker_messages[worker.group].append(worker.messages)
-            worker.clear_essage
+        
 
         return worker_messages
 

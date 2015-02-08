@@ -37,4 +37,5 @@ class Scout(multiprocessing.Process):
 
     def run(self, **args):
         self.queue.put(self.messages)
+        self.clear_messages()
         
