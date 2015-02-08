@@ -1,2 +1,0 @@
-defmodule Ants do
-end
