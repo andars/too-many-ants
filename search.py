@@ -2,30 +2,45 @@ from os import listdir
 from multiprocessing import Queue
 
 empty = None
+from workers.scout import Scout
 
-class WorkerController():
+class ScoutController():
     def __init__(self):
-        self.workers = []
-        self.worker_message_queue = Queue()
+        self.scouts = []
+        self.scout_message_queue = Queue()
 
-    def read_worker_messages(self):
-        worker_messages = {}
-        for worker in self.workers:
-            worker_message = self.worker_message_queue.get()
+    def execute(self, terms):
+        assignments = self.get_document_list("data/")
+        print(assignments)
+        for assignment in assignments:
+            self.scouts.append(Scout("", assignment[0], terms, 0, self.scout_message_queue, assignment[1])) 
+
+        for scout in self.scouts:
+            scout.run()
+
+        for scout in self.scouts:
+            print(self.scout_message_queue.get())
+
+    def read_scout_messages(self):
+        scout_messages = {}
+        for scout in self.scouts:
+            scout_message = self.scout_message_queue.get()
             
 
-        return worker_messages
+        return scout_messages
 
 
     def get_document_list(self, documentPath):
         documents = listdir(documentPath)
         num_docs = len(documents)
-        worker_loads = [documents[i:i+3] for i in range(0,len(documents),3)]
-        return worker_loads
+        scout_loads = [(documents[i:i+3],i) for i in range(0,len(documents),3)]
+        return scout_loads
 
-search_worker_controller = WorkerController()
+search_scout_controller = ScoutController()
 
-worker_loads = search_worker_controller.get_document_list("data/")
+scout_loads = search_scout_controller.get_document_list("data/")
 
-print(worker_loads)
+print(scout_loads)
+
+search_scout_controller.execute("Wowoverymuch")
 

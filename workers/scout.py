@@ -28,13 +28,12 @@ class Scout(multiprocessing.Process):
         self.clear_messages()
 
     def search_file(self, filePath):
-        with open(filePath, "r") as file:
+        with open("data/"+filePath, "r") as file:
             goodness = 0
             for line in file:
                 for word in self.keywords:
                     goodness = goodness + line.count(word)
             self.send_message((self.get_index(), goodness > self.threshold))
-
             
     def get_index(self):
         return self.index + self.start
@@ -42,12 +41,12 @@ class Scout(multiprocessing.Process):
     def run(self, **args):
         self.traverse_assignment()
         
-queue = multiprocessing.Queue()
-scouts = []
+#queue = multiprocessing.Queue()
+#scouts = []
 
-scouts.append(Scout("Year 2038", ["../data/Year_2038_problem", "../data/Winterval"], ["Unix"], 0, queue, 0))
-for scout in scouts:
-    scout.run()
+#scouts.append(Scout("Year 2038", ["../data/Year_2038_problem", "../data/Winterval"], ["Unix"], 0, queue, 0))
+#for scout in scouts:
+#    scout.run()
 
-for scout in scouts:
-    print queue.get()
+#for scout in scouts:
+#    print queue.get()
