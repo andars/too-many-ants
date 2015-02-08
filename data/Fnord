@@ -1,0 +1,799 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Fnord - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.25wmf15" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Fnord" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Fnord&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Fnord&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Fnord" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/Fnord" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.rtlcite%2Cwikihiero%2CwikimediaBadges%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Fnord","wgTitle":"Fnord","wgCurRevisionId":644430195,"wgRevisionId":644430195,"wgArticleId":38217,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from April 2014","All articles needing additional references","All articles with unsourced statements","Articles with unsourced statements from April 2014","Articles to be expanded from April 2014","All articles to be expanded","Wikipedia articles needing clarification from April 2014","Computing terminology","Conspiracy","Discordianism","Neologisms","Placeholder names"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Fnord","wgRelevantArticleId":38217,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":4096,"namespacesWithSubpages":{"6":0,"8":0,"1":true,"2":true,"3":true,"4":true,"5":true,"7":true,"9":true,"10":true,"11":true,"12":true,"13":true,"14":true,"15":true,"100":true,"101":true,"102":true,"103":true,"104":true,"105":true,"106":true,"107":true,"108":true,"109":true,"110":true,"111":true,"830":true,"831":true,"447":true,"2600":false,"828":true,"829":true}},"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q8582"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});},{},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:94007ea073e20ad4a3cdce36b2f2e369 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf15/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Fnord skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Fnord</span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="metadata plainlinks ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="262" data-file-height="204" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Fnord&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing/1" title="Help:Introduction to referencing/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(April 2014)</i></small></span></td>
+</tr>
+</table>
+<p><b>Fnord</b> is a word used in <a href="/wiki/Newsgroup" title="Newsgroup" class="mw-redirect">newsgroup</a> and <a href="/wiki/Hacker_(programmer_subculture)" title="Hacker (programmer subculture)">hacker</a> culture to indicate that someone is being ironic, humorous or surreal.<sup id="cite_ref-Ray_1-0" class="reference"><a href="#cite_note-Ray-1"><span>[</span>1<span>]</span></a></sup> Often placed at the end of a statement in brackets (<i>fnord</i>) to make the ironic purpose clear, it is a label that may be applied to any random or surreal sentence, coercive subtext, or anything jarringly out of context (intentionally or not). It is sometimes used as a <a href="/wiki/Metasyntactic_variable" title="Metasyntactic variable">metasyntactic variable</a> in programming.<sup id="cite_ref-Bautts_2-0" class="reference"><a href="#cite_note-Bautts-2"><span>[</span>2<span>]</span></a></sup> It appears in the <a href="/wiki/Church_of_the_SubGenius" title="Church of the SubGenius">Church of the SubGenius</a> recruitment film <i>Arise!</i> and has been used in the SubGenius newsgroup <a href="/wiki/Alt.slack" title="Alt.slack" class="mw-redirect">alt.slack</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (April 2014)">citation needed</span></a></i>]</sup> The word was coined in 1965 by <a href="/wiki/Kerry_Thornley" title="Kerry Thornley" class="mw-redirect">Kerry Thornley</a> and <a href="/wiki/Gregory_Hill_(writer)" title="Gregory Hill (writer)" class="mw-redirect">Greg Hill</a> in the <i><a href="/wiki/Principia_Discordia" title="Principia Discordia">Principia Discordia</a></i> and it was popularized following its use in <i><a href="/wiki/The_Illuminatus!_Trilogy" title="The Illuminatus! Trilogy">The Illuminatus! Trilogy</a></i>, 1975.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Origins"><span class="tocnumber">1</span> <span class="toctext">Origins</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Ironic.2C_humorous_or_surreal_use"><span class="tocnumber">2</span> <span class="toctext">Ironic, humorous or surreal use</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Use_in_computing"><span class="tocnumber">3</span> <span class="toctext">Use in computing</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Further_reading"><span class="tocnumber">6</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Origins">Origins</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fnord&amp;action=edit&amp;section=1" title="Edit section: Origins">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The word was coined as a nonsensical term with religious undertones in the Discordian <a href="/wiki/Religious_text" title="Religious text">religious text</a> <i>Principia Discordia</i> (1965) by Kerry Thornley and Greg Hill, but was popularized by <i><a href="/wiki/The_Illuminatus!_Trilogy" title="The Illuminatus! Trilogy">The Illuminatus! Trilogy</a></i> (1975) of <a href="/wiki/Satire" title="Satire">satirical</a> <a href="/wiki/Conspiracy_fiction" title="Conspiracy fiction">conspiracy fiction</a> novels by <a href="/wiki/Robert_Shea" title="Robert Shea">Robert Shea</a> and <a href="/wiki/Robert_Anton_Wilson" title="Robert Anton Wilson">Robert Anton Wilson</a>.<sup id="cite_ref-illuminatus_website_3-0" class="reference"><a href="#cite_note-illuminatus_website-3"><span>[</span>3<span>]</span></a></sup> <i>Illuminatus!</i> was produced, in the United Kingdom, as a cycle of plays by anarchic theatre director <a href="/wiki/Ken_Campbell#Theatre_director_and_playwright" title="Ken Campbell">Ken Campbell</a> and his <a href="/wiki/Jungian" title="Jungian" class="mw-redirect">Jungian</a> Science Fiction Theatre of Liverpool. The plays popularized the term.</p>
+<p>In these novels, the interjection "fnord" is given <a href="/wiki/Hypnotism" title="Hypnotism" class="mw-redirect">hypnotic power</a> over the unenlightened. Under the <a href="/wiki/Illuminati" title="Illuminati">Illuminati</a> program, children in grade school are taught to be unable to consciously see the word "fnord". For the rest of their lives, every appearance of the word subconsciously generates a feeling of uneasiness and confusion, and prevents rational consideration of the subject. This results in a perpetual low-grade state of fear in the populace. The government acts on the premise that a fearful populace keeps them in power.</p>
+<p>In the Shea/Wilson construct, fnords are scattered liberally in the text of newspapers and magazines, causing fear and anxiety in those following current events. However, there are no fnords in the advertisements, encouraging a <a href="/wiki/Consumerism" title="Consumerism">consumerist</a> society. It is implied in the books that <i>fnord</i> is not the actual word used for this task, but merely a substitute, since most readers would be unable to see the actual word.</p>
+<p>To "see the fnords" means to be unaffected by the supposed hypnotic power of the word or, more loosely, of other <a href="/wiki/Fighting_words" title="Fighting words">fighting words</a>. The term may also be used to refer to the experience of becoming aware of a phenomenon's ubiquity after first observing it. The phrase "I have seen the fnords" was graffitied on a British railway bridge throughout the 1980s and 1990s, until the bridge was upgraded. The bridge is known locally as "Anarchy Bridge". It is located between Earlsdon and Coventry city centre. The bridge and the phrase were mentioned in the novel <i>A Touch of Love</i> by <a href="/wiki/Jonathan_Coe" title="Jonathan Coe">Jonathan Coe</a>.</p>
+<h2><span class="mw-headline" id="Ironic.2C_humorous_or_surreal_use">Ironic, humorous or surreal use</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fnord&amp;action=edit&amp;section=2" title="Edit section: Ironic, humorous or surreal use">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a href="/wiki/File:Fnord_logo.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a7/Fnord_logo.JPG/200px-Fnord_logo.JPG" width="200" height="93" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a7/Fnord_logo.JPG/300px-Fnord_logo.JPG 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a7/Fnord_logo.JPG/400px-Fnord_logo.JPG 2x" data-file-width="530" data-file-height="246" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Fnord_logo.JPG" class="internal" title="Enlarge"></a></div>
+A <a href="/wiki/Subvertising" title="Subvertising">subvertisement</a> of the <a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford logo</a></div>
+</div>
+</div>
+<table class="metadata plainlinks ambox mbox-small-left ambox-content" role="presentation">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Wiki_letter_w_cropped.svg" class="image"><img alt="[icon]" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/20px-Wiki_letter_w_cropped.svg.png" width="20" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/30px-Wiki_letter_w_cropped.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/40px-Wiki_letter_w_cropped.svg.png 2x" data-file-width="44" data-file-height="31" /></a></td>
+<td class="mbox-text"><span class="mbox-text-span">This section requires <a class="external text" href="//en.wikipedia.org/w/index.php?title=Fnord&amp;action=edit">expansion</a>. <small><i>(April 2014)</i></small></span></td>
+</tr>
+</table>
+<p>The word is sometimes appended to statements intended to be understood ironically, humorously, or as surreal.<sup id="cite_ref-Ray_1-1" class="reference"><a href="#cite_note-Ray-1"><span>[</span>1<span>]</span></a></sup><sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="The text in the vicinity of this tag needs examples for clarification (April 2014)">examples needed</span></a></i>]</sup></p>
+<h2><span class="mw-headline" id="Use_in_computing">Use in computing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fnord&amp;action=edit&amp;section=3" title="Edit section: Use in computing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="metadata plainlinks ambox mbox-small-left ambox-content" role="presentation">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Wiki_letter_w_cropped.svg" class="image"><img alt="[icon]" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/20px-Wiki_letter_w_cropped.svg.png" width="20" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/30px-Wiki_letter_w_cropped.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/40px-Wiki_letter_w_cropped.svg.png 2x" data-file-width="44" data-file-height="31" /></a></td>
+<td class="mbox-text"><span class="mbox-text-span">This section requires <a class="external text" href="//en.wikipedia.org/w/index.php?title=Fnord&amp;action=edit">expansion</a>. <small><i>(April 2014)</i></small></span></td>
+</tr>
+</table>
+<p>The lack of a clear definition of the word, and its popularity among certain groups on the internet, allowed it to be appropriated as a <a href="/wiki/Placeholder_name" title="Placeholder name">placeholder word</a> (a metasyntactic variable) in computer programming,<sup id="cite_ref-Bautts_2-1" class="reference"><a href="#cite_note-Bautts-2"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-Deckard2005_4-0" class="reference"><a href="#cite_note-Deckard2005-4"><span>[</span>4<span>]</span></a></sup> particularly by those with ties to <a href="/wiki/Discordianism" title="Discordianism">Discordianism</a> or the <a href="/wiki/Church_of_the_SubGenius" title="Church of the SubGenius">Church of the SubGenius</a>.<sup id="cite_ref-Ray_1-2" class="reference"><a href="#cite_note-Ray-1"><span>[</span>1<span>]</span></a></sup> It has also been found useful as the name for a "techno cultural" conference,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> computer programs,<sup id="cite_ref-Raucci1997_6-0" class="reference"><a href="#cite_note-Raucci1997-6"><span>[</span>6<span>]</span></a></sup> and as a general placeholder word in computing literature.<sup id="cite_ref-Linnhoff-PopienHegering2000_7-0" class="reference"><a href="#cite_note-Linnhoff-PopienHegering2000-7"><span>[</span>7<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fnord&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Culture_of_fear" title="Culture of fear">Culture of fear</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fnord&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Ray-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Ray_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Ray_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Ray_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Raymond, Eric S. (1996) <a rel="nofollow" class="external text" href="http://books.google.de/books?id=g80P_4v4QbIC&amp;lpg=PA196&amp;dq=fnord&amp;pg=PA196#v=onepage&amp;q=fnord&amp;f=false"><i>The New Hacker's Dictionary.</i></a> MIT Press, p. 196. <a href="/wiki/Special:BookSources/9780262680929" class="internal mw-magiclink-isbn">ISBN 9780262680929</a></span></li>
+<li id="cite_note-Bautts-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Bautts_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Bautts_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Bautts, T., Dawson, T. &amp; Purdy G. (2005) <a rel="nofollow" class="external text" href="http://books.google.co.uk/books?id=T8V02u2jDP0C&amp;pg=PT88&amp;dq=fnord#v=onepage&amp;q=fnord&amp;f=false"><i>Linux Network Administrator's Guide</i>.</a> <a href="/wiki/O%27Reilly_Media" title="O'Reilly Media">O'Reilly</a>, p. 64. <a href="/wiki/Special:BookSources/9780596005481" class="internal mw-magiclink-isbn">ISBN 9780596005481</a></span></li>
+<li id="cite_note-illuminatus_website-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-illuminatus_website_3-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.rawilson.com/illuminatus.html#fnord">FNORD</a>, excerpt from <a href="/wiki/The_Illuminatus!_Trilogy" title="The Illuminatus! Trilogy">The Illuminatus! Trilogy</a> by Robert Anton Wilson and Robert Shea. 'Suddenly I saw Hagbard's eyes burning into me and heard his voice: ``Your heart will remain calm. Your adrenalin gland will remain calm. Calm, all-over calm. You will not panic. you will look at the fnord and see it. You will not evade it or black it out. You will stay calm and face it. <i>And further back, way back: my first-grade teacher writing FNORD on the blackboard, while a wheel with a spiral design turned and turned on his desk, turned and turned, and his voice droned on, IF YOU DON'T SEE THE FNORD IT CAN'T</i> EAT YOU, DON'T SEE THE FNORD, DON'T SEE THE FNORD . . .'</span></li>
+<li id="cite_note-Deckard2005-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Deckard2005_4-0">^</a></b></span> <span class="reference-text"><span class="citation book">Jason Deckard (29 January 2005). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=NYyKhOqOCF8C&amp;pg=PA283"><i>Buffer Overflow Attacks: Detect, Exploit, Prevent</i></a>. Syngress. p.&#160;283. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-08-048842-4" title="Special:BookSources/978-0-08-048842-4">978-0-08-048842-4</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFnord&amp;rft.au=Jason+Deckard&amp;rft.aulast=Jason+Deckard&amp;rft.btitle=Buffer+Overflow+Attacks%3A+Detect%2C+Exploit%2C+Prevent&amp;rft.date=29+January+2005&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DNYyKhOqOCF8C%26pg%3DPA283&amp;rft.isbn=978-0-08-048842-4&amp;rft.pages=283&amp;rft.pub=Syngress&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.knowafest.com/2014/02/fnord-2014-northern-india-engineering-college-techno-cultural-festival-delhi.html">"FNORD 2014, Northern India Engineering College, Delhi, Techno Cultural Festival, Delhi, March 5-7 2014"</a>. Knowafest.com. 2014-02-13<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-04-26</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFnord&amp;rft.btitle=FNORD+2014%2C+Northern+India+Engineering+College%2C+Delhi%2C+Techno+Cultural+Festival%2C+Delhi%2C+March+5-7+2014&amp;rft.date=2014-02-13&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.knowafest.com%2F2014%2F02%2Ffnord-2014-northern-india-engineering-college-techno-cultural-festival-delhi.html&amp;rft.pub=Knowafest.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Raucci1997-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Raucci1997_6-0">^</a></b></span> <span class="reference-text"><span class="citation book">Richard Raucci (1 January 1997). <a rel="nofollow" class="external text" href="http://books.google.co.uk/books?id=5f3mlM-JKUAC&amp;lpg=PA50&amp;dq=fnord&amp;pg=PA50#v=onepage&amp;q=fnord&amp;f=false"><i>A Windows NTTM Guide to the Web: Covering Browsers, Servers, and Related Software</i></a>. Taylor &amp; Francis. p.&#160;50. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-387-94792-1" title="Special:BookSources/978-0-387-94792-1">978-0-387-94792-1</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFnord&amp;rft.aulast=Richard+Raucci&amp;rft.au=Richard+Raucci&amp;rft.btitle=A+Windows+NTTM+Guide+to+the+Web%3A+Covering+Browsers%2C+Servers%2C+and+Related+Software&amp;rft.date=1+January+1997&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.co.uk%2Fbooks%3Fid%3D5f3mlM-JKUAC%26lpg%3DPA50%26dq%3Dfnord%26pg%3DPA50%23v%3Donepage%26q%3Dfnord%26f%3Dfalse&amp;rft.isbn=978-0-387-94792-1&amp;rft.pages=50&amp;rft.pub=Taylor+%26+Francis&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Linnhoff-PopienHegering2000-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-Linnhoff-PopienHegering2000_7-0">^</a></b></span> <span class="reference-text"><span class="citation book">Claudia Linnhoff-Popien; Heinz-Gerd Hegering (1 September 2000). <a rel="nofollow" class="external text" href="http://books.google.co.uk/books?id=BrZEP2exU00C&amp;lpg=PA62&amp;dq=fnord&amp;pg=PA62#v=onepage&amp;q=fnord&amp;f=false"><i>Trends in Distributed Systems: Towards a Universal Service Market: Third International IFIP/GI Working Conference, USM 2000 Munich, Germany, September 12-14, 2000 Proceedings</i></a>. Springer. p.&#160;62. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-3-540-41024-9" title="Special:BookSources/978-3-540-41024-9">978-3-540-41024-9</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFnord&amp;rft.au=Claudia+Linnhoff-Popien&amp;rft.au=Heinz-Gerd+Hegering&amp;rft.aulast=Claudia+Linnhoff-Popien&amp;rft.btitle=Trends+in+Distributed+Systems%3A+Towards+a+Universal+Service+Market%3A+Third+International+IFIP%2FGI+Working+Conference%2C+USM+2000+Munich%2C+Germany%2C+September+12-14%2C+2000+Proceedings&amp;rft.date=1+September+2000&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.co.uk%2Fbooks%3Fid%3DBrZEP2exU00C%26lpg%3DPA62%26dq%3Dfnord%26pg%3DPA62%23v%3Donepage%26q%3Dfnord%26f%3Dfalse&amp;rft.isbn=978-3-540-41024-9&amp;rft.pages=62&amp;rft.pub=Springer&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fnord&amp;action=edit&amp;section=6" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><i><a href="/wiki/The_Illuminatus!_Trilogy" title="The Illuminatus! Trilogy">The Illuminatus! Trilogy</a></i> by <a href="/wiki/Robert_Shea" title="Robert Shea">Robert Shea</a> and <a href="/wiki/Robert_Anton_Wilson" title="Robert Anton Wilson">Robert Anton Wilson</a>, <a href="/wiki/Special:BookSources/1567312373" class="internal mw-magiclink-isbn">ISBN 1-56731-237-3</a> (hardback collected edition) &amp; <a href="/wiki/Special:BookSources/1854875744" class="internal mw-magiclink-isbn">ISBN 1-85487-574-4</a> (paperback collected edition)</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fnord&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png" width="37" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/55px-Wiktionary-logo-en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/73px-Wiktionary-logo-en.svg.png 2x" data-file-width="1000" data-file-height="1089" /></td>
+<td class="mbox-text plainlist">Look up <i><b><a href="//en.wiktionary.org/wiki/Special:Search/fnord" class="extiw" title="wiktionary:Special:Search/fnord">fnord</a></b></i> in Wiktionary, the free dictionary.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://jubal.westnet.com/hyperdiscordia/fnording_dollar_bills.html">"A Short Discourse on the Ancient and Accepted Discordian Practice of Fnording Dollar Bills" Ol' Sam, U:M, PS!, A/B.</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.sjgames.com/misc/fnord.html">Steve Jackson Games: Fnorder</a>, a program for generating "fnord" sentences</li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible uncollapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Discordianism" title="Template:Discordianism"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Discordianism" title="Template talk:Discordianism"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Discordianism&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Discordianism" title="Discordianism">Discordian religion</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">People</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Malaclypse_the_Younger" title="Malaclypse the Younger">Malaclypse the Younger</a></li>
+<li><a href="/wiki/Kerry_Wendell_Thornley" title="Kerry Wendell Thornley">Omar Khayyam Ravenhurst</a></li>
+<li><a href="/wiki/Robert_Anton_Wilson" title="Robert Anton Wilson">Robert Anton Wilson</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Organizations and titles</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Discordianism#Popes" title="Discordianism">Pope</a></li>
+<li><a href="/wiki/Discordianism#Episkopos" title="Discordianism">Episkopos</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Symbols and<br />
+mythological personas</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Eris_(mythology)" title="Eris (mythology)">Eris (aka Discordia)</a></li>
+<li><a href="/wiki/Principia_Discordia#Mythology" title="Principia Discordia">Aneris</a> (aka <a href="/wiki/Harmonia_(mythology)" title="Harmonia (mythology)">Harmonia</a>)</li>
+<li><a href="/wiki/Apple_of_Discord" title="Apple of Discord">Apple of Discord</a></li>
+<li><a href="/wiki/Discordianism#Sacred_Chao" title="Discordianism">Sacred Chao</a></li>
+<li><strong class="selflink">Fnord</strong></li>
+<li><a href="/wiki/Hand_of_Eris" title="Hand of Eris">Hand of Eris</a></li>
+<li><a href="/wiki/Hung_Mung" title="Hung Mung" class="mw-redirect">Hung Mung</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Foundations</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Principia_Discordia" title="Principia Discordia">Principia Discordia</a></i></li>
+<li><a href="/wiki/List_of_Discordian_works" title="List of Discordian works">Discordian works</a></li>
+<li><a href="/wiki/Discordian_calendar" title="Discordian calendar">Discordian calendar</a></li>
+<li><a href="/wiki/Operation_Mindfuck" title="Operation Mindfuck">Operation Mindfuck</a></li>
+<li><a href="/wiki/Discordianism#Law_of_Fives" title="Discordianism">Law of Fives</a></li>
+<li><a href="/wiki/Discordianism#Original_Snub" title="Discordianism">Original Snub</a></li>
+<li><a href="/wiki/Discordianism#Curse_of_Greyface" title="Discordianism">Curse of Greyface</a></li>
+<li><a href="/wiki/Discordianism#Pentabarf" title="Discordianism">Pentabarf</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Events</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Devival" title="Devival">Devival</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Robert_Anton_Wilson" title="Template:Robert Anton Wilson"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/w/index.php?title=Template_talk:Robert_Anton_Wilson&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Robert Anton Wilson (page does not exist)"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Robert_Anton_Wilson&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Robert_Anton_Wilson" title="Robert Anton Wilson">Robert Anton Wilson</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/Robert_Anton_Wilson#Bibliography" title="Robert Anton Wilson">Bibliography</a></li>
+<li><a href="/wiki/Robert_Anton_Wilson#Discography" title="Robert Anton Wilson">Discography</a></li>
+<li><a href="/wiki/Robert_Anton_Wilson#Filmography" title="Robert Anton Wilson">Filmography</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Life</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Robert_Anton_Wilson#Early_Life" title="Robert Anton Wilson">Early life</a></li>
+<li><a href="/wiki/Discordianism#Episkopos" title="Discordianism">Episkopos</a> <a href="/wiki/Discordianism" title="Discordianism">of Discordianism</a>
+<ul>
+<li><a href="/wiki/Operation_Mindfuck" title="Operation Mindfuck">Operation Mindfuck</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Guerrilla_ontology" title="Guerrilla ontology">Guerrilla ontology</a></li>
+<li><strong class="selflink">Fnord</strong></li>
+<li><a href="/wiki/Robert_Anton_Wilson#Death" title="Robert Anton Wilson">Death</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Fiction</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/The_Sex_Magicians" title="The Sex Magicians">The Sex Magicians</a></i> <small>(1973)</small></li>
+<li><i><a href="/wiki/The_Illuminatus!_Trilogy" title="The Illuminatus! Trilogy">The Illuminatus! Trilogy</a></i> <small>(1975, <i>The Eye in the Pyramid</i>, <i>The Golden Apple</i>, <i>Leviathan</i>, with <a href="/wiki/Robert_Shea" title="Robert Shea">Robert Shea</a>)</small></li>
+<li><i><a href="/wiki/Schr%C3%B6dinger%27s_Cat_Trilogy" title="Schrödinger's Cat Trilogy">Schrödinger's Cat Trilogy</a></i> <small>(1979–1981, <i>The Universe Next Door</i>, <i>The Trick Top Hat</i>, <i>The Homing Pigeons</i>)</small></li>
+<li><i><a href="/wiki/Masks_of_the_Illuminati" title="Masks of the Illuminati">Masks of the Illuminati</a></i> <small>(1981)</small></li>
+<li><i><a href="/wiki/The_Historical_Illuminatus_Chronicles" title="The Historical Illuminatus Chronicles">The Historical Illuminatus Chronicles</a></i> <small>(<i>The Earth Will Shake</i> 1982, <i>The Widow's Son</i> 1985, <i>Nature's God</i> 1991)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Philosophical<br />
+and non-fiction</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Cosmic_Trigger_I:_The_Final_Secret_of_the_Illuminati" title="Cosmic Trigger I: The Final Secret of the Illuminati">Cosmic Trigger I: The Final Secret of the Illuminati</a></i> <small>(1977)</small></li>
+<li><i><a href="/wiki/Cosmic_Trigger_II:_Down_to_Earth" title="Cosmic Trigger II: Down to Earth">Cosmic Trigger II: Down to Earth</a></i> <small>(1992)</small></li>
+<li><i><a href="/wiki/Cosmic_Trigger_III:_My_Life_After_Death" title="Cosmic Trigger III: My Life After Death">Cosmic Trigger III: My Life After Death</a></i> <small>(1995)</small></li>
+<li><i><a href="/wiki/Playboy%27s_Book_of_Forbidden_Words" title="Playboy's Book of Forbidden Words">Playboy's Book of Forbidden Words</a></i> <small>(1972)</small></li>
+<li><i><a href="/wiki/Sex,_Drugs_and_Magick" title="Sex, Drugs and Magick">Sex and Drugs: A Journey Beyond Limits</a></i> <small>(1973,</small> <i><a href="/wiki/Sex,_Drugs_and_Magick" title="Sex, Drugs and Magick">Sex, Drugs and Magick</a></i> <small>1988 revision)</small></li>
+<li><i><a href="/wiki/The_Book_of_the_Breast" title="The Book of the Breast" class="mw-redirect">The Book of the Breast</a></i> <small>(1974)</small></li>
+<li><i><a href="/wiki/Neuropolitics" title="Neuropolitics">Neuropolitics</a></i> <small>(1978, with <a href="/wiki/Timothy_Leary" title="Timothy Leary">Timothy Leary</a> and <a href="/wiki/George_Koopman" title="George Koopman" class="mw-redirect">George Koopman</a>)</small></li>
+<li><i>The Game of Life</i> <small>(1979, with <a href="/wiki/Timothy_Leary" title="Timothy Leary">Timothy Leary</a>)</small></li>
+<li><i><a href="/wiki/Prometheus_Rising" title="Prometheus Rising">Prometheus Rising</a></i> <small>(1983)</small></li>
+<li><i><a href="/wiki/The_New_Inquisition" title="The New Inquisition">The New Inquisition</a></i> <small>(1986)</small></li>
+<li><i><a href="/wiki/Natural_Law,_or_Don%27t_Put_a_Rubber_on_Your_Willy" title="Natural Law, or Don't Put a Rubber on Your Willy">Natural Law, or Don't Put a Rubber on Your Willy</a></i> <small>(1987)</small></li>
+<li><i><a href="/wiki/Ishtar_Rising" title="Ishtar Rising">Ishtar Rising</a></i> <small>(1989)</small></li>
+<li><i><a href="/wiki/Quantum_Psychology" title="Quantum Psychology">Quantum Psychology</a></i> <small>(1990)</small></li>
+<li><i><a href="/wiki/Everything_Is_Under_Control:_Conspiracies,_Cults_and_Cover-ups" title="Everything Is Under Control: Conspiracies, Cults and Cover-ups">Everything Is Under Control: Conspiracies, Cults and Cover-ups</a></i> <small>(1998, with Miriam Joan Hill)</small></li>
+<li><i><a href="/wiki/TSOG:_The_Thing_That_Ate_the_Constitution" title="TSOG: The Thing That Ate the Constitution">TSOG: The Thing That Ate the Constitution</a></i> <small>(2002)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Plays and<br />
+screenplays</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Wilhelm_Reich_in_Hell" title="Wilhelm Reich in Hell">Wilhelm Reich in Hell</a></i> <small>(1987)</small></li>
+<li><i><a href="/wiki/Reality_Is_What_You_Can_Get_Away_With" title="Reality Is What You Can Get Away With">Reality Is What You Can Get Away With</a></i> <small>(1992)</small></li>
+<li><i><a href="/wiki/The_Walls_Came_Tumbling_Down" title="The Walls Came Tumbling Down">The Walls Came Tumbling Down</a></i> <small>(1997)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Essays</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/The_Illuminati_Papers" title="The Illuminati Papers">The Illuminati Papers</a></i> <small>(1980)</small></li>
+<li><i><a href="/wiki/Right_Where_You_Are_Sitting_Now" title="Right Where You Are Sitting Now">Right Where You Are Sitting Now</a></i> <small>(1983)</small></li>
+<li><i><a href="/wiki/Coincidance:_A_Head_Test" title="Coincidance: A Head Test">Coincidance: A Head Test</a> <small>(1988)</small></i></li>
+<li><i>Email to the universe and other alterations of consciousness</i> <small>(2005)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Editor</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Semiotext(e)_SF" title="Semiotext(e) SF">Semiotext(e) SF</a></i> <small>(1989, with <a href="/wiki/Rudy_Rucker" title="Rudy Rucker">Rudy Rucker</a> and <a href="/wiki/Peter_Lamborn_Wilson" title="Peter Lamborn Wilson">Peter Lamborn Wilson</a>)</small></li>
+<li><i>Chaos and Beyond</i> <small>(1994, editor, primary author)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Legacy<br />
+and honors</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Prometheus_Award#Hall_of_Fame_Award_recipients" title="Prometheus Award">Prometheus Hall of Fame Award</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Influences</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aleister_Crowley" title="Aleister Crowley">Aleister Crowley</a></li>
+<li><a href="/wiki/Buckminster_Fuller" title="Buckminster Fuller">Buckminster Fuller</a></li>
+<li><a href="/wiki/George_Gurdjieff" title="George Gurdjieff">George Gurdjieff</a></li>
+<li><a href="/wiki/James_Joyce" title="James Joyce">James Joyce</a></li>
+<li><a href="/wiki/Timothy_Leary" title="Timothy Leary">Timothy Leary</a>
+<ul>
+<li><a href="/wiki/8-Circuit_Model_of_Consciousness" title="8-Circuit Model of Consciousness" class="mw-redirect">8-Circuit Model of Consciousness</a></li>
+</ul>
+</li>
+<li><a href="/wiki/H._P._Lovecraft" title="H. P. Lovecraft">H. P. Lovecraft</a></li>
+<li><a href="/wiki/Alfred_Korzybski" title="Alfred Korzybski">Alfred Korzybski</a>
+<ul>
+<li><a href="/wiki/E-Prime" title="E-Prime">E-Prime</a></li>
+<li><a href="/wiki/General_semantics" title="General semantics">General semantics</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Malaclypse_the_Younger" title="Malaclypse the Younger">Malaclypse the Younger</a>
+<ul>
+<li><i><a href="/wiki/Principia_Discordia" title="Principia Discordia">Principia Discordia</a></i></li>
+</ul>
+</li>
+<li><a href="/wiki/Ezra_Pound" title="Ezra Pound">Ezra Pound</a></li>
+<li><a href="/wiki/Wilhelm_Reich" title="Wilhelm Reich">Wilhelm Reich</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Family</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Arlen Riley Wilson <small>(wife)</small></li>
+<li>Christina Wilson Pearson <small>(daughter)</small></li>
+<li>Patricia Luna Wilson <small>(daughter)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Related</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Celine%27s_laws" title="Celine's laws">Celine's laws</a></li>
+<li><a href="/wiki/Reality_tunnel" title="Reality tunnel">Reality tunnel</a></li>
+<li><a href="/wiki/23_Enigma" title="23 Enigma" class="mw-redirect">23 Enigma</a></li>
+<li><a href="/wiki/Chaos_magic" title="Chaos magic">Chaos magic</a></li>
+<li><a href="/wiki/Church_of_the_Subgenius" title="Church of the Subgenius" class="mw-redirect">Church of the Subgenius</a>
+<ul>
+<li><a href="/wiki/Ivan_Stang" title="Ivan Stang">Ivan Stang</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Ken_Campbell#Theatre_director_and_playwright" title="Ken Campbell">Ken Campbell plays</a></li>
+<li><a href="/wiki/List_of_Discordian_works" title="List of Discordian works">Discordian works</a></li>
+<li><a href="/wiki/Space_colonization" title="Space colonization">Space colonization</a></li>
+<li><a href="/wiki/Life_extension" title="Life extension">Life extension</a></li>
+<li><a href="/wiki/Association_for_Consciousness_Exploration" title="Association for Consciousness Exploration">Association for Consciousness Exploration</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <a href="//commons.wikimedia.org/wiki/Special:Search/Robert_Anton_Wilson" class="extiw" title="commons:Special:Search/Robert Anton Wilson"><b>Commons</b></a></li>
+<li><img alt="Wikiquote page" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/13px-Wikiquote-logo.svg.png" title="Wikiquote page" width="13" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/20px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/27px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /> <a href="//en.wikiquote.org/wiki/Special:Search/Robert_Anton_Wilson" class="extiw" title="wikiquote:Special:Search/Robert Anton Wilson"><b>Wikiquote</b></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Hidden_messages" title="Template:Hidden messages"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Hidden_messages" title="Template talk:Hidden messages"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Hidden_messages&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Hidden_message" title="Hidden message">Hidden messages</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Main</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hidden_message" title="Hidden message">Hidden messages</a></li>
+<li><a href="/wiki/Subliminal_stimuli" title="Subliminal stimuli">Subliminal message</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Audio</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Backmasking" title="Backmasking">Backmasking</a></li>
+<li><a href="/wiki/Reverse_speech" title="Reverse speech">Reverse speech</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Numeric</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Numerology" title="Numerology">Numerology</a></li>
+<li><a href="/wiki/Theomatics" title="Theomatics">Theomatics</a></li>
+<li><a href="/wiki/Bible_code" title="Bible code">Bible code</a></li>
+<li><a href="/wiki/Cryptography" title="Cryptography">Cryptology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Visual</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><strong class="selflink">Fnord</strong></li>
+<li><a href="/wiki/Paranoiac-critical_method" title="Paranoiac-critical method">Paranoiac-critical method</a></li>
+<li><a href="/wiki/Pareidolia" title="Pareidolia">Pareidolia</a></li>
+<li><a href="/wiki/Sacred_geometry" title="Sacred geometry">Sacred geometry</a></li>
+<li><a href="/wiki/Steganography" title="Steganography">Steganography</a></li>
+<li><a href="/wiki/Visual_cryptography" title="Visual cryptography">Visual cryptography</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anagram" title="Anagram">Anagram</a></li>
+<li><a href="/wiki/Apophenia" title="Apophenia">Apophenia</a></li>
+<li><a href="/wiki/Asemic_writing" title="Asemic writing">Asemic writing</a></li>
+<li><a href="/wiki/Easter_egg_(media)" title="Easter egg (media)">Easter egg</a></li>
+<li><a href="/wiki/Clustering_illusion" title="Clustering illusion">Clustering illusion</a></li>
+<li><a href="/wiki/Observer-expectancy_effect" title="Observer-expectancy effect">Observer-expectancy effect</a></li>
+<li><a href="/wiki/Pattern_recognition_(psychology)" title="Pattern recognition (psychology)">Pattern recognition</a></li>
+<li><a href="/wiki/Palindrome" title="Palindrome">Palindrome</a></li>
+<li><a href="/wiki/Unconscious_mind" title="Unconscious mind">Unconscious mind</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1023
+CPU time usage: 0.388 seconds
+Real time usage: 0.497 seconds
+Preprocessor visited node count: 1145/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 61831/2097152 bytes
+Template argument size: 1004/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 4/500
+Lua time usage: 0.116/10.000 seconds
+Lua memory usage: 2.5 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  327.408      1 - -total
+ 22.09%   72.318      1 - Template:Ref_improve
+ 21.47%   70.287      1 - Template:Reflist
+ 20.51%   67.139      2 - Template:Fix
+ 20.49%   67.072      1 - Template:Citation_required
+ 16.62%   54.430      3 - Template:Ambox
+ 14.62%   47.854      3 - Template:Navbox
+ 12.36%   40.479      3 - Template:Cite_book
+  8.39%   27.462      1 - Template:Robert_Anton_Wilson
+  8.02%   26.270      4 - Template:Category_handler
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:38217-0!*!0!!en!4!* and timestamp 20150202163705 and revision id 644430195
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from &quot;<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Fnord&amp;oldid=644430195">http://en.wikipedia.org/w/index.php?title=Fnord&amp;oldid=644430195</a>&quot;					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Computing_terminology" title="Category:Computing terminology">Computing terminology</a></li><li><a href="/wiki/Category:Conspiracy" title="Category:Conspiracy">Conspiracy</a></li><li><a href="/wiki/Category:Discordianism" title="Category:Discordianism">Discordianism</a></li><li><a href="/wiki/Category:Neologisms" title="Category:Neologisms">Neologisms</a></li><li><a href="/wiki/Category:Placeholder_names" title="Category:Placeholder names">Placeholder names</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_April_2014" title="Category:Articles needing additional references from April 2014">Articles needing additional references from April 2014</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_April_2014" title="Category:Articles with unsourced statements from April 2014">Articles with unsourced statements from April 2014</a></li><li><a href="/wiki/Category:Articles_to_be_expanded_from_April_2014" title="Category:Articles to be expanded from April 2014">Articles to be expanded from April 2014</a></li><li><a href="/wiki/Category:All_articles_to_be_expanded" title="Category:All articles to be expanded">All articles to be expanded</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_April_2014" title="Category:Wikipedia articles needing clarification from April 2014">Wikipedia articles needing clarification from April 2014</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Fnord&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Fnord" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Fnord"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Fnord"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Fnord" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Fnord&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Fnord&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Fnord" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Fnord" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Fnord&amp;oldid=644430195" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Fnord&amp;action=info" title="More information about this page">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q8582" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Fnord&amp;id=644430195" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Fnord">Create a book</a></li>
+													<li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Fnord&amp;oldid=644430195&amp;writer=rdf2latex">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Fnord&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D9%81%D9%86%D9%88%D8%B1%D8%AF" title="فنورد – Arabic" lang="ar" hreflang="ar">العربية</a></li>
+													<li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Fnord" title="Fnord – Czech" lang="cs" hreflang="cs">Čeština</a></li>
+													<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Fnord" title="Fnord – German" lang="de" hreflang="de">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Fnord" title="Fnord – Spanish" lang="es" hreflang="es">Español</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Fnord" title="Fnord – Italian" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-oc"><a href="//oc.wikipedia.org/wiki/Fnord" title="Fnord – Occitan" lang="oc" hreflang="oc">Occitan</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Fnord" title="Fnord – Polish" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Fnord" title="Fnord – Portuguese" lang="pt" hreflang="pt">Português</a></li>
+													<li class="interlanguage-link interwiki-simple"><a href="//simple.wikipedia.org/wiki/Fnord" title="Fnord – Simple English" lang="simple" hreflang="simple">Simple English</a></li>
+													<li class="interlanguage-link interwiki-sr"><a href="//sr.wikipedia.org/wiki/Fnord" title="Fnord – Serbian" lang="sr" hreflang="sr">Српски / srpski</a></li>
+													<li class="interlanguage-link interwiki-sh"><a href="//sh.wikipedia.org/wiki/Fnord" title="Fnord – Serbo-Croatian" lang="sh" hreflang="sh">Srpskohrvatski / српскохрватски</a></li>
+													<li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Fnord" title="Fnord – Swedish" lang="sv" hreflang="sv">Svenska</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q8582#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 27 January 2015, at 17:32.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Fnord&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" srcset="//bits.wikimedia.org/images/wikimedia-button-1.5x.png 1.5x, //bits.wikimedia.org/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.25wmf15/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.eventLogging.subscriber","ext.wikimediaEvents.statsd","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":79,"wgHostname":"mw1247"});
+}</script>
+	</body>
+</html>

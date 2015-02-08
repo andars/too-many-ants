@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Ulam spiral - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.25wmf15" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Ulam_spiral" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Ulam_spiral&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Ulam_spiral&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Ulam_spiral" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/Ulam_spiral" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.math.styles%7Cext.rtlcite%2Cwikihiero%2CwikimediaBadges%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Ulam_spiral","wgTitle":"Ulam spiral","wgCurRevisionId":627549144,"wgRevisionId":627549144,"wgArticleId":67378,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Prime numbers","Spirals"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Ulam_spiral","wgRelevantArticleId":67378,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":4096,"namespacesWithSubpages":{"6":0,"8":0,"1":true,"2":true,"3":true,"4":true,"5":true,"7":true,"9":true,"10":true,"11":true,"12":true,"13":true,"14":true,"15":true,"100":true,"101":true,"102":true,"103":true,"104":true,"105":true,"106":true,"107":true,"108":true,"109":true,"110":true,"111":true,"830":true,"831":true,"447":true,"2600":false,"828":true,"829":true}},"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q842172"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});},{},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:94007ea073e20ad4a3cdce36b2f2e369 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf15/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Ulam_spiral skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Ulam spiral</span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Ulam_1.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Ulam_1.png/220px-Ulam_1.png" width="220" height="220" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Ulam_1.png/330px-Ulam_1.png 1.5x, //upload.wikimedia.org/wikipedia/commons/6/69/Ulam_1.png 2x" data-file-width="400" data-file-height="400" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Ulam_1.png" class="internal" title="Enlarge"></a></div>
+Ulam spiral of size 200×200. Black dots represent prime numbers. Diagonal, vertical, and horizontal lines with a high density of prime numbers are clearly visible.</div>
+</div>
+</div>
+<p>The <b>Ulam spiral</b>, or <b>prime spiral</b> (in other languages also called the <b>Ulam Cloth</b>) is a simple method of visualizing the <a href="/wiki/Prime_number" title="Prime number">prime numbers</a> that reveals the apparent tendency of certain quadratic polynomials to generate unusually large numbers of primes. It was discovered by the <a href="/wiki/Mathematician" title="Mathematician">mathematician</a> <a href="/wiki/Stanislaw_Ulam" title="Stanislaw Ulam">Stanislaw Ulam</a> in 1963, while he was <a href="/wiki/Doodle" title="Doodle">doodling</a> during the presentation of a "long and very boring paper"<sup id="cite_ref-FOOTNOTEGardner1964122_1-0" class="reference"><a href="#cite_note-FOOTNOTEGardner1964122-1"><span>[</span>1<span>]</span></a></sup> at a scientific meeting. Shortly afterwards, in an early application of computer graphics, Ulam with collaborators Myron Stein and Mark Wells used <a href="/wiki/MANIAC_II" title="MANIAC II">MANIAC II</a> at <a href="/wiki/Los_Alamos_National_Laboratory" title="Los Alamos National Laboratory">Los Alamos Scientific Laboratory</a> to produce pictures of the spiral for numbers up to 65,000.<sup id="cite_ref-FOOTNOTESteinUlamWells1964520_2-0" class="reference"><a href="#cite_note-FOOTNOTESteinUlamWells1964520-2"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-FOOTNOTEGardner1964122_1-1" class="reference"><a href="#cite_note-FOOTNOTEGardner1964122-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-FOOTNOTEHoffman198841_3-0" class="reference"><a href="#cite_note-FOOTNOTEHoffman198841-3"><span>[</span>3<span>]</span></a></sup> In March of the following year, <a href="/wiki/Martin_Gardner" title="Martin Gardner">Martin Gardner</a> wrote about the Ulam spiral in his <i><a href="/wiki/Recreational_mathematics" title="Recreational mathematics">Mathematical Games</a></i> column;<sup id="cite_ref-FOOTNOTEGardner1964122_1-2" class="reference"><a href="#cite_note-FOOTNOTEGardner1964122-1"><span>[</span>1<span>]</span></a></sup> the Ulam spiral featured on the front cover of the issue of <i><a href="/wiki/Scientific_American" title="Scientific American">Scientific American</a></i> in which the column appeared.</p>
+<p>In an addendum to the <i>Scientific American</i> column,<sup id="cite_ref-FOOTNOTEGardner197188_4-0" class="reference"><a href="#cite_note-FOOTNOTEGardner197188-4"><span>[</span>4<span>]</span></a></sup> Gardner mentions work of the <a href="/wiki/Herpetologist" title="Herpetologist" class="mw-redirect">herpetologist</a> <a href="/wiki/Laurence_Monroe_Klauber" title="Laurence Monroe Klauber">Laurence M. Klauber</a> on two dimensional arrays of prime numbers for finding prime-rich quadratic polynomials which was presented at a meeting of the <a href="/wiki/Mathematical_Association_of_America" title="Mathematical Association of America">Mathematical Association of America</a> in 1932—more than thirty years prior to Ulam's discovery. Unlike Ulam's array, Klauber's was not a spiral. Its shape was also triangular rather than square.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Construction"><span class="tocnumber">1</span> <span class="toctext">Construction</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Hardy_and_Littlewood.27s_Conjecture_F"><span class="tocnumber">2</span> <span class="toctext">Hardy and Littlewood's Conjecture F</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Variants"><span class="tocnumber">3</span> <span class="toctext">Variants</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes"><span class="tocnumber">4</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Construction">Construction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ulam_spiral&amp;action=edit&amp;section=1" title="Edit section: Construction">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Ulam constructed the spiral by writing down a regular <a href="/wiki/Rectangle" title="Rectangle">rectangular</a> <a href="/wiki/Lattice_graph" title="Lattice graph">grid</a> of numbers, starting with 1 at the center, and <a href="/wiki/Spiral" title="Spiral">spiraling</a> out:</p>
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:Ulam_spiral_howto_all_numbers.svg" class="image" title="Numbers from 1 to 49 placed in spiral order"><img alt="Numbers from 1 to 49 placed in spiral order" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Ulam_spiral_howto_all_numbers.svg/200px-Ulam_spiral_howto_all_numbers.svg.png" width="200" height="189" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Ulam_spiral_howto_all_numbers.svg/300px-Ulam_spiral_howto_all_numbers.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Ulam_spiral_howto_all_numbers.svg/400px-Ulam_spiral_howto_all_numbers.svg.png 2x" data-file-width="266" data-file-height="252" /></a></div>
+</div>
+<p>He then circled all of the prime numbers and he got the following picture:</p>
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:Ulam_spiral_howto_primes_only.svg" class="image" title="Small Ulam spiral"><img alt="Small Ulam spiral" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ulam_spiral_howto_primes_only.svg/200px-Ulam_spiral_howto_primes_only.svg.png" width="200" height="189" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ulam_spiral_howto_primes_only.svg/300px-Ulam_spiral_howto_primes_only.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ulam_spiral_howto_primes_only.svg/400px-Ulam_spiral_howto_primes_only.svg.png 2x" data-file-width="266" data-file-height="252" /></a></div>
+</div>
+<p>To his surprise, the circled numbers tended to line up along <a href="/wiki/Diagonal" title="Diagonal">diagonal</a> lines. In the 200×200 Ulam spiral shown above, diagonal lines are clearly visible, confirming the pattern. Horizontal and vertical lines, while less prominent, are also evident.</p>
+<p>All prime numbers, except for the number 2, are odd numbers. Since in the Ulam spiral adjacent diagonals are alternatively odd and even numbers, it is no surprise that all prime numbers lie in alternate diagonals of the Ulam spiral. What is startling is the tendency of prime numbers to lie on some diagonals more than others.</p>
+<p>Tests so far confirm that there are diagonal lines even when <a href="/wiki/File:Ulam4004001.png" title="File:Ulam4004001.png">many numbers are plotted</a>. The pattern also seems to appear even if the number at the center is not 1 (and can, in fact, be much larger than 1). This implies that there are many integer constants <i>b</i> and <i>c</i> such that the <a href="/wiki/Function_(mathematics)" title="Function (mathematics)">function</a>:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="f(n) = 4 n^2 + b n + c" src="//upload.wikimedia.org/math/d/7/e/d7e7962010fbe975166aa242006e826b.png" /></dd>
+</dl>
+<p>generates, as <i>n</i> counts up {1, 2, 3, ...}, a number of primes that is large by comparison with the proportion of primes among numbers of similar magnitude.</p>
+<p>Remarkably, in a passage from his 1956 novel <i><a href="/wiki/The_City_and_the_Stars" title="The City and the Stars">The City and the Stars</a></i>, author <a href="/wiki/Arthur_C._Clarke" title="Arthur C. Clarke">Arthur C. Clarke</a> describes the prime spiral seven years before it was discovered by Ulam. Apparently, Clarke did not notice the pattern revealed by the Prime Spiral because he "never actually performed this thought experiment."<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Hardy_and_Littlewood.27s_Conjecture_F">Hardy and Littlewood's Conjecture F</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ulam_spiral&amp;action=edit&amp;section=2" title="Edit section: Hardy and Littlewood&#039;s Conjecture F">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In their 1923 paper on the <a href="/wiki/Goldbach%27s_conjecture" title="Goldbach's conjecture">Goldbach Conjecture</a>, <a href="/wiki/G._H._Hardy" title="G. H. Hardy">Hardy</a> and <a href="/wiki/John_Edensor_Littlewood" title="John Edensor Littlewood">Littlewood</a> stated a series of conjectures, one of which, if true, would explain some of the striking features of the Ulam spiral. This conjecture, which Hardy and Littlewood called "Conjecture F", is a special case of the <a href="/wiki/Bateman%E2%80%93Horn_conjecture" title="Bateman–Horn conjecture">Bateman–Horn conjecture</a> and asserts an asymptotic formula for the number of primes of the form <i>ax</i><sup>2</sup> + <i>bx</i> + <i>c</i>. Rays emanating from the central region of the Ulam spiral making angles of 45° with the horizontal and vertical correspond to numbers of the form 4<i>x</i><sup>2</sup> + <i>bx</i> + <i>c</i> with <i>b</i> even; horizontal and vertical rays correspond to numbers of the same form with <i>b</i> odd. Conjecture F provides a formula that can be used to estimate the density of primes along such rays. It implies that there will be considerable variability in the density along different rays. In particular, the density is highly sensitive to the <a href="/wiki/Discriminant" title="Discriminant">discriminant</a> of the polynomial, <i>b</i><sup>2</sup> − 16<i>c</i>.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:Ulam_2.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Ulam_2.png/250px-Ulam_2.png" width="250" height="250" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/7/75/Ulam_2.png 1.5x, //upload.wikimedia.org/wikipedia/commons/7/75/Ulam_2.png 2x" data-file-width="345" data-file-height="345" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Ulam_2.png" class="internal" title="Enlarge"></a></div>
+The primes of the form 4<i>x</i><sup>2</sup> − 2<i>x</i> + 41 with <i>x</i> = 0, 1, 2, ... have been highlighted. The prominent parallel line in the lower half of the figure corresponds to 4<i>x</i><sup>2</sup> + 2<i>x</i> + 41 or, equivalently, to negative values of <i>x</i>.</div>
+</div>
+</div>
+<p>Conjecture F is concerned with polynomials of the form <i>ax</i><sup>2</sup> + <i>bx</i> + <i>c</i> where <i>a</i>, <i>b</i>, and <i>c</i> are integers and <i>a</i> is positive. If the coefficients contain a common factor greater than 1 or if the discriminant Δ = <i>b</i><sup>2</sup> − 4<i>ac</i> is a <a href="/wiki/Square_number" title="Square number">perfect square</a>, the polynomial factorizes and therefore produces <a href="/wiki/Composite_numbers" title="Composite numbers" class="mw-redirect">composite numbers</a> as <i>x</i> takes the values 0, 1, 2, ... (except possibly for one or two values of <i>x</i> where one of the factors equals 1). Moreover, if <i>a</i> + <i>b</i> and <i>c</i> are both even, the polynomial produces only even values, and is therefore composite except possibly for the value 2. Hardy and Littlewood assert that, apart from these situations, <i>ax</i><sup>2</sup> + <i>bx</i> + <i>c</i> takes prime values infinitely often as <i>x</i> takes the values 0, 1, 2, ... This statement is a special case of an earlier <a href="/wiki/Bunyakovsky_conjecture" title="Bunyakovsky conjecture">conjecture of Bunyakovsky</a> and remains open. Hardy and Littlewood further assert that, asymptotically, the number <i>P</i>(<i>n</i>) of primes of the form <i>ax</i><sup>2</sup> + <i>bx</i> + <i>c</i> and less than <i>n</i> is given by</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="P(n)\sim A\frac{1}{\sqrt{a}}\frac{\sqrt{n}}{\log n}" src="//upload.wikimedia.org/math/c/e/c/cec05dcd13023f0c371f71fb61455e0d.png" /></dd>
+</dl>
+<p>where <i>A</i> depends on <i>a</i>, <i>b</i>, and <i>c</i> but not on <i>n</i>. By the <a href="/wiki/Prime_number_theorem" title="Prime number theorem">prime number theorem</a>, this formula with <i>A</i> set equal to one is the asymptotic number of primes less than <i>n</i> expected in a random set of numbers having the same density as the set of numbers of the form <i>ax</i><sup>2</sup> + <i>bx</i> + <i>c</i>. But since <i>A</i> can take values bigger or smaller than 1, some polynomials, according to the conjecture, will be especially rich in primes, and others especially poor. An unusually rich polynomial is 4<i>x</i><sup>2</sup> − 2<i>x</i> + 41 which forms a visible line in the Ulam spiral. The constant <i>A</i> for this polynomial is approximately 6.6, meaning that the numbers it generates are almost seven times as likely to be prime as random numbers of comparable size, according to the conjecture. This particular polynomial is related to Euler's <a href="/wiki/Formula_for_primes#Prime_formulas_and_polynomial_functions" title="Formula for primes">prime-generating polynomial</a> <i>x</i><sup>2</sup> − <i>x</i> + 41 by replacing <i>x</i> with 2<i>x</i>, or equivalently, by restricting <i>x</i> to the even numbers. Hardy and Littlewood's formula for the constant <i>A</i> is</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="A=\varepsilon\prod_p\left(\frac{p}{p-1}\right)\prod_{\varpi}\left(1-\frac{1}{\varpi-1}\left(\frac{\Delta}{\varpi}\right)\right)." src="//upload.wikimedia.org/math/1/c/d/1cdcbb20dd6d4ef0189e879a290619f0.png" /></dd>
+</dl>
+<p>In the first product, <i>p</i> is an odd prime dividing both <i>a</i> and <i>b</i>; in the second product, <img class="mwe-math-fallback-image-inline tex" alt="\varpi" src="//upload.wikimedia.org/math/5/8/f/58f07d7c83fe18c437ba3b47b089ef77.png" /> is an odd prime not dividing <i>a</i>. The quantity ε is defined to be 1 if <i>a</i> + <i>b</i> is odd and 2 if <i>a</i> + <i>b</i> is even. The symbol <img class="mwe-math-fallback-image-inline tex" alt="\left(\frac{\Delta}{\varpi}\right)" src="//upload.wikimedia.org/math/4/4/9/449a70a6b3631237eaf8da12707883cf.png" /> is the <a href="/wiki/Legendre_symbol" title="Legendre symbol">Legendre symbol</a>. A quadratic polynomial with <i>A</i> ≈ 11.3, currently the highest known value, has been discovered by Jacobson and Williams.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Variants">Variants</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ulam_spiral&amp;action=edit&amp;section=3" title="Edit section: Variants">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:KlauberTriangle.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/KlauberTriangle.png/220px-KlauberTriangle.png" width="220" height="110" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/KlauberTriangle.png/330px-KlauberTriangle.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/KlauberTriangle.png/440px-KlauberTriangle.png 2x" data-file-width="598" data-file-height="300" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:KlauberTriangle.png" class="internal" title="Enlarge"></a></div>
+Klauber triangle with prime numbers generated by Euler's polynomial <i>x</i><sup>2</sup>  −  <i>x</i>  +  41 highlighted.</div>
+</div>
+</div>
+<p>Klauber's 1932 paper describes a triangle in which row <i>n</i> contains the numbers (<i>n</i>  −  1)<sup>2</sup> + 1 through <i>n</i><sup>2</sup>. As in the Ulam spiral, quadratic polynomials generate numbers that lie in straight lines. Vertical lines correspond to numbers of the form <i>k</i><sup>2</sup> − <i>k</i> + <i>M</i>. Vertical and diagonal lines with a high density of prime numbers are evident in the figure.</p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:152px;"><a href="/wiki/File:Sacks_spiral.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Sacks_spiral.svg/150px-Sacks_spiral.svg.png" width="150" height="150" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Sacks_spiral.svg/225px-Sacks_spiral.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Sacks_spiral.svg/300px-Sacks_spiral.svg.png 2x" data-file-width="800" data-file-height="800" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Sacks_spiral.svg" class="internal" title="Enlarge"></a></div>
+Sacks spiral</div>
+</div>
+</div>
+<p>Robert Sacks devised a variant of the Ulam spiral in 1994. In the Sacks spiral the non-negative integers are plotted on an <a href="/wiki/Archimedean_spiral" title="Archimedean spiral">Archimedean spiral</a> rather than the square spiral used by Ulam, and are spaced so that one <a href="/wiki/Square_number" title="Square number">perfect square</a> occurs in each full rotation. (In the Ulam spiral, two squares occur in each rotation.) Euler's prime-generating polynomial, <i>x</i><sup>2</sup> − <i>x</i> + 41, now appears as a single curve as <i>x</i> takes the values 0, 1, 2, ... This curve asymptotically approaches a horizontal line in the left half of the figure. (In the Ulam spiral, Euler's polynomial forms two diagonal lines, one in the top half of the figure, corresponding to even values of <i>x</i> in the sequence, the other in the bottom half of the figure corresponding to odd values of <i>x</i> in the sequence.)</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:152px;"><a href="/wiki/File:Spirale_Ulam_150.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Spirale_Ulam_150.jpg/150px-Spirale_Ulam_150.jpg" width="150" height="150" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Spirale_Ulam_150.jpg/225px-Spirale_Ulam_150.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/34/Spirale_Ulam_150.jpg/300px-Spirale_Ulam_150.jpg 2x" data-file-width="750" data-file-height="752" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Spirale_Ulam_150.jpg" class="internal" title="Enlarge"></a></div>
+Ulam spiral of size 150×150 showing both prime and composite numbers.</div>
+</div>
+</div>
+<p>Additional structure may be seen when <a href="/wiki/Composite_number" title="Composite number">composite numbers</a> are also included in the Ulam spiral. The number 1 has only a single factor, itself; each prime number has two factors, itself and 1; composite numbers are divisible by at least three different factors. Using the size of the dot representing an integer to indicate the number of factors and coloring prime numbers red and composite numbers blue produces the figure shown.</p>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ulam_spiral&amp;action=edit&amp;section=4" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-FOOTNOTEGardner1964122-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTEGardner1964122_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTEGardner1964122_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-FOOTNOTEGardner1964122_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFGardner1964">Gardner 1964</a>, p.&#160;122.</span></li>
+<li id="cite_note-FOOTNOTESteinUlamWells1964520-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTESteinUlamWells1964520_2-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFSteinUlamWells1964">Stein, Ulam &amp; Wells 1964</a>, p.&#160;520.</span></li>
+<li id="cite_note-FOOTNOTEHoffman198841-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEHoffman198841_3-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFHoffman1988">Hoffman 1988</a>, p.&#160;41.</span></li>
+<li id="cite_note-FOOTNOTEGardner197188-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEGardner197188_4-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFGardner1971">Gardner 1971</a>, p.&#160;88.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><span id="CITEREFHartwig2013" class="citation">Hartwig, Daniel (2013), <a rel="nofollow" class="external text" href="http://www.oac.cdlib.org/findaid/ark:/13030/kt6s20356s/"><i>Guide to the Martin Gardner papers</i></a>, The Online Archive of California, p.&#160;117</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUlam+spiral&amp;rft.aufirst=Daniel&amp;rft.au=Hartwig%2C+Daniel&amp;rft.aulast=Hartwig&amp;rft.btitle=Guide+to+the+Martin+Gardner+papers&amp;rft.date=2013&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.oac.cdlib.org%2Ffindaid%2Fark%3A%2F13030%2Fkt6s20356s%2F&amp;rft.pages=117&amp;rft.pub=The+Online+Archive+of+California&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span>.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><span class="citation mathworld" id="Reference-Mathworld-Prime_Spiral"><a href="/wiki/Eric_W._Weisstein" title="Eric W. Weisstein">Weisstein, Eric W.</a>, <a rel="nofollow" class="external text" href="http://mathworld.wolfram.com/PrimeSpiral.html">"Prime Spiral"</a>, <i><a href="/wiki/MathWorld" title="MathWorld">MathWorld</a></i>.</span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><span id="CITEREFJacobson_Jr.Williams2003" class="citation">Jacobson Jr., M. J.; Williams, H. C (2003), "New quadratic polynomials with high densities of prime values", <i><a href="/wiki/Mathematics_of_Computation" title="Mathematics of Computation">Mathematics of Computation</a></i> <b>72</b> (241): 499–519, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1090%2FS0025-5718-02-01418-7">10.1090/S0025-5718-02-01418-7</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUlam+spiral&amp;rft.atitle=New+quadratic+polynomials+with+high+densities+of+prime+values&amp;rft.aufirst=M.+J.&amp;rft.au=Jacobson+Jr.%2C+M.+J.&amp;rft.aulast=Jacobson+Jr.&amp;rft.au=Williams%2C+H.+C&amp;rft.date=2003&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1090%2FS0025-5718-02-01418-7&amp;rft.issue=241&amp;rft.jtitle=Mathematics+of+Computation&amp;rft.pages=499-519&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=72" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><span id="CITEREFGuy2004" class="citation">Guy, Richard K. (2004), <a rel="nofollow" class="external text" href="http://books.google.com/?id=1AP2CEGxTkgC&amp;printsec=frontcover"><i>Unsolved problems in number theory</i></a> (3rd ed.), Springer, p.&#160;8, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-387-20860-2" title="Special:BookSources/978-0-387-20860-2">978-0-387-20860-2</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUlam+spiral&amp;rft.aufirst=Richard+K.&amp;rft.au=Guy%2C+Richard+K.&amp;rft.aulast=Guy&amp;rft.btitle=Unsolved+problems+in+number+theory&amp;rft.date=2004&amp;rft.edition=3rd&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2F%3Fid%3D1AP2CEGxTkgC%26printsec%3Dfrontcover&amp;rft.isbn=978-0-387-20860-2&amp;rft.pages=8&amp;rft.pub=Springer&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ulam_spiral&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="refbegin" style="">
+<ul>
+<li><span id="CITEREFGardner1964" class="citation"><a href="/wiki/Martin_Gardner" title="Martin Gardner">Gardner, M.</a> (March 1964), "Mathematical Games: The Remarkable Lore of the Prime Number", <i><a href="/wiki/Scientific_American" title="Scientific American">Scientific American</a></i> <b>210</b>: 120–128, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1038%2Fscientificamerican0364-120">10.1038/scientificamerican0364-120</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUlam+spiral&amp;rft.atitle=Mathematical+Games%3A+The+Remarkable+Lore+of+the+Prime+Number&amp;rft.aufirst=M.&amp;rft.au=Gardner%2C+M.&amp;rft.aulast=Gardner&amp;rft.date=March+1964&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1038%2Fscientificamerican0364-120&amp;rft.jtitle=Scientific+American&amp;rft.pages=120-128&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=210" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span id="CITEREFGardner1971" class="citation"><a href="/wiki/Martin_Gardner" title="Martin Gardner">Gardner, M.</a> (1971), <i>Martin Gardner's Sixth Book of Mathematical Diversions from Scientific American</i>, University of Chicago Press, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-226-28250-3" title="Special:BookSources/978-0-226-28250-3">978-0-226-28250-3</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUlam+spiral&amp;rft.aufirst=M.&amp;rft.au=Gardner%2C+M.&amp;rft.aulast=Gardner&amp;rft.btitle=Martin+Gardner%27s+Sixth+Book+of+Mathematical+Diversions+from+Scientific+American&amp;rft.date=1971&amp;rft.genre=book&amp;rft.isbn=978-0-226-28250-3&amp;rft.pub=University+of+Chicago+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span id="CITEREFHardyLittlewood1923" class="citation">Hardy, G. H.; Littlewood, J. E. (1923), "Some Problems of 'Partitio Numerorum'; III: On the Expression of a Number as a Sum of Primes", <i><a href="/wiki/Acta_Mathematica" title="Acta Mathematica">Acta Mathematica</a></i> <b>44</b>: 1–70, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1007%2FBF02403921">10.1007/BF02403921</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUlam+spiral&amp;rft.atitle=Some+Problems+of+%27Partitio+Numerorum%27%3B+III%3A+On+the+Expression+of+a+Number+as+a+Sum+of+Primes&amp;rft.aufirst=G.+H.&amp;rft.au=Hardy%2C+G.+H.&amp;rft.aulast=Hardy&amp;rft.au=Littlewood%2C+J.+E.&amp;rft.date=1923&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1007%2FBF02403921&amp;rft.jtitle=Acta+Mathematica&amp;rft.pages=1-70&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=44" class="Z3988"><span style="display:none;">&#160;</span></span> <a href="/wiki/Paywall" title="Closed access"><img alt="Closed access" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Closed_Access_logo_alternative.svg/8px-Closed_Access_logo_alternative.svg.png" width="8" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Closed_Access_logo_alternative.svg/12px-Closed_Access_logo_alternative.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Closed_Access_logo_alternative.svg/16px-Closed_Access_logo_alternative.svg.png 2x" data-file-width="640" data-file-height="1000" /></a></li>
+<li><span id="CITEREFHoffman1988" class="citation"><a href="/wiki/Paul_Hoffman_(science_writer)" title="Paul Hoffman (science writer)">Hoffman, Paul</a> (1988), <i>Archimedes' Revenge: The Joys and Perils of Mathematics</i>, New York: Fawcett Colombine, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-449-00089-3" title="Special:BookSources/0-449-00089-3">0-449-00089-3</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUlam+spiral&amp;rft.aufirst=Paul&amp;rft.au=Hoffman%2C+Paul&amp;rft.aulast=Hoffman&amp;rft.btitle=Archimedes%27+Revenge%3A+The+Joys+and+Perils+of+Mathematics&amp;rft.date=1988&amp;rft.genre=book&amp;rft.isbn=0-449-00089-3&amp;rft.place=New+York&amp;rft.pub=Fawcett+Colombine&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span id="CITEREFSteinUlamWells1964" class="citation">Stein, M. L.; Ulam, S. M.; Wells, M. B. (1964), "A Visual Display of Some Properties of the Distribution of Primes", <i><a href="/wiki/American_Mathematical_Monthly" title="American Mathematical Monthly">American Mathematical Monthly</a></i> (Mathematical Association of America) <b>71</b> (5): 516–520, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.2307%2F2312588">10.2307/2312588</a>, <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/2312588">2312588</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUlam+spiral&amp;rft.atitle=A+Visual+Display+of+Some+Properties+of+the+Distribution+of+Primes&amp;rft.aufirst=M.+L.&amp;rft.aulast=Stein&amp;rft.au=Stein%2C+M.+L.&amp;rft.au=Ulam%2C+S.+M.&amp;rft.au=Wells%2C+M.+B.&amp;rft.date=1964&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.2307%2F2312588&amp;rft.issue=5&amp;rft.jstor=2312588&amp;rft.jtitle=American+Mathematical+Monthly&amp;rft.pages=516-520&amp;rft.pub=Mathematical+Association+of+America&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=71" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span id="CITEREFSteinUlam1967" class="citation">Stein, M.; Ulam, S. M. (1967), "An Observation on the Distribution of Primes", <i>American Mathematical Monthly</i> (Mathematical Association of America) <b>74</b> (1): 43–44, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.2307%2F2314055">10.2307/2314055</a>, <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/2314055">2314055</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUlam+spiral&amp;rft.atitle=An+Observation+on+the+Distribution+of+Primes&amp;rft.aufirst=M.&amp;rft.aulast=Stein&amp;rft.au=Stein%2C+M.&amp;rft.au=Ulam%2C+S.+M.&amp;rft.date=1967&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.2307%2F2314055&amp;rft.issue=1&amp;rft.jstor=2314055&amp;rft.jtitle=American+Mathematical+Monthly&amp;rft.pages=43-44&amp;rft.pub=Mathematical+Association+of+America&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=74" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ulam_spiral&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.youtube.com/watch?v=iFuR97YcSLM">Prime Spirals - Numberphile</a>, YouTube video with Dr. James Grime and the <a href="/wiki/University_of_Nottingham" title="University of Nottingham">University of Nottingham</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.youtube.com/watch?v=3K-12i0jclM">41 and more Ulam's Spiral - Numberphile</a>, YouTube video with Dr. James Clewett and the University of Nottingham</li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1209
+CPU time usage: 0.188 seconds
+Real time usage: 0.494 seconds
+Preprocessor visited node count: 785/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 23333/2097152 bytes
+Template argument size: 35/2097152 bytes
+Highest expansion depth: 4/40
+Expensive parser function count: 0/500
+Lua time usage: 0.047/10.000 seconds
+Lua memory usage: 2.12 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  386.914      1 - -total
+ 13.24%   51.244      9 - Template:Citation
+ 12.37%   47.875      1 - Template:Reflist
+  8.73%   33.790      6 - Template:Sfn
+  0.66%    2.558      1 - Template:Refbegin
+  0.61%    2.357      1 - Template:MathWorld
+  0.51%    1.964      1 - Template:Refend
+  0.50%    1.924      1 - Template:Closed_access
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:67378-0!*!0!!en!4!*!math=0 and timestamp 20150123235646 and revision id 627549144
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from &quot;<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Ulam_spiral&amp;oldid=627549144">http://en.wikipedia.org/w/index.php?title=Ulam_spiral&amp;oldid=627549144</a>&quot;					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Prime_numbers" title="Category:Prime numbers">Prime numbers</a></li><li><a href="/wiki/Category:Spirals" title="Category:Spirals">Spirals</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ulam+spiral&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ulam+spiral" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Ulam_spiral"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Ulam_spiral"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Ulam_spiral" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Ulam_spiral&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Ulam_spiral&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Ulam_spiral" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Ulam_spiral" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Ulam_spiral&amp;oldid=627549144" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Ulam_spiral&amp;action=info" title="More information about this page">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q842172" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Ulam_spiral&amp;id=627549144" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Ulam+spiral">Create a book</a></li>
+													<li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Ulam+spiral&amp;oldid=627549144&amp;writer=rdf2latex">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Ulam_spiral&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%AD%D9%84%D8%B2%D9%88%D9%86%D9%8A%D8%A9_%D8%A3%D9%88%D9%84%D8%A7%D9%85" title="حلزونية أولام – Arabic" lang="ar" hreflang="ar">العربية</a></li>
+													<li class="interlanguage-link interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%80%D0%B0%D0%BB%D0%B0_%D0%BD%D0%B0_%D0%A3%D0%BB%D0%B0%D0%BC" title="Спирала на Улам – Bulgarian" lang="bg" hreflang="bg">Български</a></li>
+													<li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Espiral_d%27Ulam" title="Espiral d&#039;Ulam – Catalan" lang="ca" hreflang="ca">Català</a></li>
+													<li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Ulamova_spir%C3%A1la" title="Ulamova spirála – Czech" lang="cs" hreflang="cs">Čeština</a></li>
+													<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Ulam-Spirale" title="Ulam-Spirale – German" lang="de" hreflang="de">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Espiral_de_Ulam" title="Espiral de Ulam – Spanish" lang="es" hreflang="es">Español</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Spirale_d%27Ulam" title="Spirale d&#039;Ulam – French" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Spirale_di_Ulam" title="Spirale di Ulam – Italian" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%A1%D7%A4%D7%99%D7%A8%D7%9C%D7%AA_%D7%90%D7%95%D7%9C%D7%9D" title="ספירלת אולם – Hebrew" lang="he" hreflang="he">עברית</a></li>
+													<li class="interlanguage-link interwiki-lv"><a href="//lv.wikipedia.org/wiki/Ulama_spir%C4%81le" title="Ulama spirāle – Latvian" lang="lv" hreflang="lv">Latviešu</a></li>
+													<li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/Ulam-spir%C3%A1l" title="Ulam-spirál – Hungarian" lang="hu" hreflang="hu">Magyar</a></li>
+													<li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Spiraal_van_Ulam" title="Spiraal van Ulam – Dutch" lang="nl" hreflang="nl">Nederlands</a></li>
+													<li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%A6%E3%83%A9%E3%83%A0%E3%81%AE%E8%9E%BA%E6%97%8B" title="ウラムの螺旋 – Japanese" lang="ja" hreflang="ja">日本語</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Spirala_Ulama" title="Spirala Ulama – Polish" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Espiral_de_Ulam" title="Espiral de Ulam – Portuguese" lang="pt" hreflang="pt">Português</a></li>
+													<li class="interlanguage-link interwiki-ro"><a href="//ro.wikipedia.org/wiki/Spiral%C4%83_Ulam" title="Spirală Ulam – Romanian" lang="ro" hreflang="ro">Română</a></li>
+													<li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A1%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D1%82%D1%8C_%D0%A3%D0%BB%D0%B0%D0%BC%D0%B0" title="Скатерть Улама – Russian" lang="ru" hreflang="ru">Русский</a></li>
+													<li class="interlanguage-link interwiki-scn"><a href="//scn.wikipedia.org/wiki/Spirali_di_Ulam" title="Spirali di Ulam – Sicilian" lang="scn" hreflang="scn">Sicilianu</a></li>
+													<li class="interlanguage-link interwiki-sl"><a href="//sl.wikipedia.org/wiki/Ulamov_prt" title="Ulamov prt – Slovenian" lang="sl" hreflang="sl">Slovenščina</a></li>
+													<li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Ulamin_spiraali" title="Ulamin spiraali – Finnish" lang="fi" hreflang="fi">Suomi</a></li>
+													<li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Ulams_spiral" title="Ulams spiral – Swedish" lang="sv" hreflang="sv">Svenska</a></li>
+													<li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E4%B9%8C%E5%B2%9A%E8%9E%BA%E6%97%8B" title="乌岚螺旋 – Chinese" lang="zh" hreflang="zh">中文</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q842172#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 29 September 2014, at 14:41.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Ulam_spiral&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" srcset="//bits.wikimedia.org/images/wikimedia-button-1.5x.png 1.5x, //bits.wikimedia.org/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.25wmf15/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.eventLogging.subscriber","ext.wikimediaEvents.statsd","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":132,"wgHostname":"mw1112"});
+}</script>
+	</body>
+</html>

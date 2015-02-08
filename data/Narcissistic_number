@@ -1,0 +1,969 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Narcissistic number - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.25wmf15" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Narcissistic_number" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Narcissistic_number&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Narcissistic_number&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Narcissistic_number" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/Narcissistic_number" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.math.styles%7Cext.rtlcite%2Cwikihiero%2CwikimediaBadges%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Narcissistic_number","wgTitle":"Narcissistic number","wgCurRevisionId":641213800,"wgRevisionId":641213800,"wgArticleId":3758667,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Base-dependent integer sequences","Recreational mathematics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Narcissistic_number","wgRelevantArticleId":3758667,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":4096,"namespacesWithSubpages":{"6":0,"8":0,"1":true,"2":true,"3":true,"4":true,"5":true,"7":true,"9":true,"10":true,"11":true,"12":true,"13":true,"14":true,"15":true,"100":true,"101":true,"102":true,"103":true,"104":true,"105":true,"106":true,"107":true,"108":true,"109":true,"110":true,"111":true,"830":true,"831":true,"447":true,"2600":false,"828":true,"829":true}},"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgULSAcceptLanguageList":["en-us","en","hi","es"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q777616"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});},{},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:94007ea073e20ad4a3cdce36b2f2e369 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf15/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Narcissistic_number skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Narcissistic number</span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p>In <a href="/wiki/Recreational_mathematics" title="Recreational mathematics">recreational</a> <a href="/wiki/Number_theory" title="Number theory">number theory</a>, a <b>narcissistic number</b><sup id="cite_ref-mw_1-0" class="reference"><a href="#cite_note-mw-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-moore_2-0" class="reference"><a href="#cite_note-moore-2"><span>[</span>2<span>]</span></a></sup> (also known as a <b>pluperfect digital invariant</b> (<b>PPDI</b>),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> an <b>Armstrong number</b><sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup> (after Michael F. Armstrong)<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> or a <b>plus perfect number</b>)<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup> is a number that is the sum of its own digits each raised to the power of the number of digits. This definition depends on the base <i>b</i> of the number system used, e.g., <i>b</i>&#160;=&#160;10 for the <a href="/wiki/Decimal" title="Decimal">decimal system</a> or <i>b</i>&#160;=&#160;2 for the <a href="/wiki/Binary_numeral_system" title="Binary numeral system" class="mw-redirect">binary system</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Definition"><span class="tocnumber">1</span> <span class="toctext">Definition</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Narcissistic_numbers_in_various_bases"><span class="tocnumber">2</span> <span class="toctext">Narcissistic numbers in various bases</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Related_concepts"><span class="tocnumber">3</span> <span class="toctext">Related concepts</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Definition">Definition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Narcissistic_number&amp;action=edit&amp;section=1" title="Edit section: Definition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The definition of a narcissistic number relies on the decimal representation <i>n</i>&#160;=&#160;<i>d</i><sub><i>k</i></sub><i>d</i><sub><i>k</i>-1</sub>...<i>d</i><sub>1</sub> of a <a href="/wiki/Natural_number" title="Natural number">natural number</a>&#160;<i>n</i>, i.e.,</p>
+<dl>
+<dd><i>n</i>&#160;=&#160;<i>d</i><sub><i>k</i></sub>·10<sup><i>k</i>-1</sup>&#160;+&#160;<i>d</i><sub><i>k</i>-1</sub>·10<sup><i>k</i>-2</sup>&#160;+&#160;...&#160;+&#160;<i>d</i><sub>2</sub>·10&#160;+&#160;<i>d</i><sub>1</sub>,</dd>
+</dl>
+<p>with <i>k</i> digits <i>d</i><sub><i>i</i></sub> satisfying 0&#160;≤&#160;<i>d</i><sub><i>i</i></sub>&#160;≤&#160;9. Such a number <i>n</i> is called narcissistic if it satisfies the condition</p>
+<dl>
+<dd><i>n</i>&#160;=&#160;<i>d</i><sub><i>k</i></sub><sup><i>k</i></sup>&#160;+&#160;<i>d</i><sub><i>k</i>-1</sub><sup><i>k</i></sup>&#160;+&#160;...&#160;+&#160;<i>d</i><sub>2</sub><sup><i>k</i></sup>&#160;+&#160;<i>d</i><sub>1</sub><sup><i>k</i></sup>.</dd>
+</dl>
+<p>For example the 3-digit decimal number 153 is a narcissistic number because 153&#160;=&#160;1<sup>3</sup>&#160;+&#160;5<sup>3</sup>&#160;+&#160;3<sup>3</sup>.</p>
+<p>Narcissistic numbers can also be defined with respect to <a href="/wiki/Numeral_system" title="Numeral system">numeral systems</a> with a base <i>b</i> other than <i>b</i>&#160;=&#160;10. The base-<i>b</i> representation of a natural number <i>n</i> is defined by</p>
+<dl>
+<dd><i>n</i>&#160;=&#160;<i>d</i><sub><i>k</i></sub><i>b</i><sup><i>k</i>-1</sup>&#160;+&#160;<i>d</i><sub><i>k</i>-1</sub><i>b</i><sup><i>k</i>-2</sup>&#160;+&#160;...&#160;+&#160;<i>d</i><sub>2</sub><i>b</i>&#160;+&#160;<i>d</i><sub>1</sub>,</dd>
+</dl>
+<p>where the base-<i>b</i> digits <i>d</i><sub><i>i</i></sub> satisfy the condition 0&#160;≤&#160;<i>d</i><sub>i</sub>&#160;≤&#160;<i>b</i>-1. For example the (decimal) number 17 is a narcissistic number with respect to the numeral system with base <i>b</i>&#160;=&#160;3. Its three base-3 digits are 122, because 17&#160;=&#160;1·3<sup>2</sup>&#160;+&#160;2·3&#160;+&#160;2&#160;, and it satisfies the equation 17&#160;=&#160;1<sup>3</sup>&#160;+&#160;2<sup>3</sup>&#160;+&#160;2<sup>3</sup>.</p>
+<p>If the constraint that the power must equal the number of digits is dropped, so that for some <i>m</i> possibly different from <i>k</i> it happens that</p>
+<dl>
+<dd><i>n</i>&#160;=&#160;<i>d</i><sub><i>k</i></sub><sup><i>m</i></sup>&#160;+&#160;<i>d</i><sub><i>k</i>-1</sub><sup><i>m</i></sup>&#160;+&#160;...&#160;+&#160;<i>d</i><sub>2</sub><sup><i>m</i></sup>&#160;+&#160;<i>d</i><sub>1</sub><sup><i>m</i></sup>,</dd>
+</dl>
+<p>then <i>n</i> is called a <b>perfect digital invariant</b> or <b>PDI</b>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup><sup id="cite_ref-moore_2-1" class="reference"><a href="#cite_note-moore-2"><span>[</span>2<span>]</span></a></sup> For example, the decimal number 4150 has four decimal digits and is the sum of the <i>fifth</i> powers of its decimal digits</p>
+<dl>
+<dd>4150&#160;=&#160;4<sup>5</sup>&#160;+&#160;1<sup>5</sup>&#160;+&#160;5<sup>5</sup>&#160;+&#160;0<sup>5</sup>,</dd>
+</dl>
+<p>so it is a perfect digital invariant but <i>not</i> a narcissistic number.</p>
+<p>In "<a href="/wiki/A_Mathematician%27s_Apology" title="A Mathematician's Apology">A Mathematician's Apology</a>", <a href="/wiki/G._H._Hardy" title="G. H. Hardy">G. H. Hardy</a> wrote:</p>
+<dl>
+<dd><i>There are just four numbers, after unity, which are the sums of the cubes of their digits:</i>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="153=1^3+5^3+3^3" src="//upload.wikimedia.org/math/c/5/0/c5095e120cc95c09d9af463c84d8754b.png" /></dd>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="370=3^3+7^3+0^3" src="//upload.wikimedia.org/math/8/7/0/870620a56f3f1ef0df5c88399247d179.png" /></dd>
+<dd><img class="mwe-math-fallback-image-inline tex" alt=" 371=3^3+7^3+1^3" src="//upload.wikimedia.org/math/0/b/7/0b72f09752c2d1a28c0cab6ef74b608e.png" /></dd>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="407=4^3+0^3+7^3" src="//upload.wikimedia.org/math/9/b/f/9bfe3727f32266e2571e8fe15198097f.png" />.<br /></dd>
+</dl>
+</dd>
+<dd><i>These are odd facts, very suitable for puzzle columns and likely to amuse amateurs, but there is nothing in them which appeals to the mathematician.</i></dd>
+</dl>
+<h2><span class="mw-headline" id="Narcissistic_numbers_in_various_bases">Narcissistic numbers in various bases</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Narcissistic_number&amp;action=edit&amp;section=2" title="Edit section: Narcissistic numbers in various bases">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The sequence of "base 10" narcissistic numbers starts: <a href="/wiki/0_(number)" title="0 (number)">0</a>, <a href="/wiki/1_(number)" title="1 (number)">1</a>, <a href="/wiki/2_(number)" title="2 (number)">2</a>, <a href="/wiki/3_(number)" title="3 (number)">3</a>, <a href="/wiki/4_(number)" title="4 (number)">4</a>, <a href="/wiki/5_(number)" title="5 (number)">5</a>, <a href="/wiki/6_(number)" title="6 (number)">6</a>, <a href="/wiki/7_(number)" title="7 (number)">7</a>, <a href="/wiki/8_(number)" title="8 (number)">8</a>, <a href="/wiki/9_(number)" title="9 (number)">9</a>, <a href="/wiki/153_(number)" title="153 (number)">153</a>, <a href="/wiki/370_(number)" title="370 (number)" class="mw-redirect">370</a>, <a href="/wiki/371_(number)" title="371 (number)" class="mw-redirect">371</a>, <a href="/wiki/407_(number)" title="407 (number)" class="mw-redirect">407</a>, <a href="/w/index.php?title=1634_(number)&amp;action=edit&amp;redlink=1" class="new" title="1634 (number) (page does not exist)">1634</a>, <a href="/w/index.php?title=8208_(number)&amp;action=edit&amp;redlink=1" class="new" title="8208 (number) (page does not exist)">8208</a>, <a href="/w/index.php?title=9474_(number)&amp;action=edit&amp;redlink=1" class="new" title="9474 (number) (page does not exist)">9474</a> ... (sequence <span class="nowrap"><a href="//oeis.org/A005188" class="extiw" title="oeis:A005188">A005188</a></span> in <a href="/wiki/On-Line_Encyclopedia_of_Integer_Sequences" title="On-Line Encyclopedia of Integer Sequences">OEIS</a>)</p>
+<p>The sequence of "base 12" narcissistic numbers starts: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, <a href="/wiki/10_(number)" title="10 (number)">A</a>, <a href="/wiki/11_(number)" title="11 (number)">B</a>, <a href="/wiki/29_(number)" title="29 (number)">25</a>, <a href="/wiki/125_(number)" title="125 (number)">A5</a>, <a href="/wiki/811_(number)" title="811 (number)" class="mw-redirect">577</a>, <a href="/wiki/944_(number)" title="944 (number)" class="mw-redirect">668</a>, <a href="/w/index.php?title=1539_(number)&amp;action=edit&amp;redlink=1" class="new" title="1539 (number) (page does not exist)">A83</a> (sequence <span class="nowrap"><a href="//oeis.org/A161949" class="extiw" title="oeis:A161949">A161949</a></span> in <a href="/wiki/On-Line_Encyclopedia_of_Integer_Sequences" title="On-Line Encyclopedia of Integer Sequences">OEIS</a>)</p>
+<p>The sequence of "base 3" narcissistic numbers starts: 0, 1, 2, <a href="/wiki/5_(number)" title="5 (number)">12</a>, <a href="/wiki/8_(number)" title="8 (number)">22</a>, <a href="/wiki/17_(number)" title="17 (number)">122</a></p>
+<p>The sequence of "base 4" narcissistic numbers starts: 0, 1, 2, 3, <a href="/wiki/28_(number)" title="28 (number)">130</a>, <a href="/wiki/29_(number)" title="29 (number)">131</a>, <a href="/wiki/35_(number)" title="35 (number)">203</a>, <a href="/wiki/43_(number)" title="43 (number)">223</a>, <a href="/wiki/55_(number)" title="55 (number)">313</a> (sequence <span class="nowrap"><a href="//oeis.org/A010344" class="extiw" title="oeis:A010344">A010344</a></span> in <a href="/wiki/On-Line_Encyclopedia_of_Integer_Sequences" title="On-Line Encyclopedia of Integer Sequences">OEIS</a>)</p>
+<p>The number of narcissistic numbers in a given base is finite, since the maximum possible sum of the <i>k</i>th powers of a <i>k</i> digit number in base <i>b</i> is</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="k(b-1)^k\, ," src="//upload.wikimedia.org/math/3/7/e/37efcca92738101871da5f075ff361d6.png" /></dd>
+</dl>
+<p>and if <i>k</i> is large enough then</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="k(b-1)^k&lt;b^{k-1}\, ," src="//upload.wikimedia.org/math/1/5/e/15ef1d3e2763d508a97cfea002e59e57.png" /></dd>
+</dl>
+<p>in which case no base <i>b</i> narcissistic number can have <i>k</i> or more digits. Setting <i>b</i> equal to 10 shows that the largest narcissistic number in base 10 must be less than 10<sup>60</sup>.<sup id="cite_ref-mw_1-1" class="reference"><a href="#cite_note-mw-1"><span>[</span>1<span>]</span></a></sup></p>
+<p>There are only 88 narcissistic numbers in base 10, of which the largest is</p>
+<dl>
+<dd>115,132,219,018,763,992,565,095,597,973,971,522,401</dd>
+</dl>
+<p>with 39 digits.<sup id="cite_ref-mw_1-2" class="reference"><a href="#cite_note-mw-1"><span>[</span>1<span>]</span></a></sup></p>
+<p>Every base n≥3 that is not a multiple of nine has at least one three-digit narcissistic number. The bases that do not are <img class="mwe-math-fallback-image-inline tex" alt="72, 90, 108, 153, 270, 423, 450, 531, 558, 630, 648, 738,..." src="//upload.wikimedia.org/math/2/0/a/20ac081df63dd09c870ede4a9db86c6e.png" /></p>
+<p>Unlike narcissistic numbers, no upper bound can be determined for the size of PDIs in a given base, and it is not currently known whether or not the number of PDIs for an arbitrary base is finite or infinite.<sup id="cite_ref-moore_2-2" class="reference"><a href="#cite_note-moore-2"><span>[</span>2<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Related_concepts">Related concepts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Narcissistic_number&amp;action=edit&amp;section=3" title="Edit section: Related concepts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The term "narcissistic number" is sometimes used in a wider sense to mean a number that is equal to any mathematical manipulation of its own digits. With this wider definition narcisstic numbers include:</p>
+<ul>
+<li><a href="/w/index.php?title=Constant_base_numbers&amp;action=edit&amp;redlink=1" class="new" title="Constant base numbers (page does not exist)">Constant base numbers</a>&#160;: <img class="mwe-math-fallback-image-inline tex" alt="n=m^{d_k} + m^{d_{k-1}} + \dots + m^{d_2} + m^{d_1}" src="//upload.wikimedia.org/math/2/1/7/2173270c69e9cea4acc81ca6a23f3ada.png" /> for some <i>m</i>.</li>
+<li><a href="/wiki/Perfect_digit-to-digit_invariants" title="Perfect digit-to-digit invariants" class="mw-redirect">Perfect digit-to-digit invariants</a> (sequence <span class="nowrap"><a href="//oeis.org/A046253" class="extiw" title="oeis:A046253">A046253</a></span> in <a href="/wiki/On-Line_Encyclopedia_of_Integer_Sequences" title="On-Line Encyclopedia of Integer Sequences">OEIS</a>)&#160;: <img class="mwe-math-fallback-image-inline tex" alt="n = d_k^{d_k} + d_{k-1}^{d_{k-1}} + \dots + d_2^{d_2} + d_1^{d_1}\, ,\text{ e.g. } 3435 = 3^3 + 4^4 + 3^3 + 5^5\, ." src="//upload.wikimedia.org/math/7/b/b/7bb883a314ebf5242b07a9f37bdc46ea.png" /></li>
+<li><a href="/w/index.php?title=Ascending_power_numbers&amp;action=edit&amp;redlink=1" class="new" title="Ascending power numbers (page does not exist)">Ascending power numbers</a> (sequence <span class="nowrap"><a href="//oeis.org/A032799" class="extiw" title="oeis:A032799">A032799</a></span> in <a href="/wiki/On-Line_Encyclopedia_of_Integer_Sequences" title="On-Line Encyclopedia of Integer Sequences">OEIS</a>)&#160;: <img class="mwe-math-fallback-image-inline tex" alt="n = d_k^1 + d_{k-1}^2 + \dots + d_2^{k-1} + d_1^k\, ,\text{ e.g. } 135 = 1^1 + 3^2 + 5^3 \, ." src="//upload.wikimedia.org/math/b/f/1/bf1cc3883ca7492d76d5f8a10baf0228.png" /></li>
+<li><a href="/wiki/Friedman_number" title="Friedman number">Friedman numbers</a> (sequence <span class="nowrap"><a href="//oeis.org/A036057" class="extiw" title="oeis:A036057">A036057</a></span> in <a href="/wiki/On-Line_Encyclopedia_of_Integer_Sequences" title="On-Line Encyclopedia of Integer Sequences">OEIS</a>).</li>
+<li>Radical narcissistic numbers (sequence <span class="nowrap"><a href="//oeis.org/A119710" class="extiw" title="oeis:A119710">A119710</a></span> in <a href="/wiki/On-Line_Encyclopedia_of_Integer_Sequences" title="On-Line Encyclopedia of Integer Sequences">OEIS</a>) <sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup> <img class="mwe-math-fallback-image-inline tex" alt="{ e.g. } 729 = (7+2)^{\sqrt{9}}, \text{  }4096=\sqrt{\sqrt{\sqrt{\sqrt{4}+0}}}^{96}" src="//upload.wikimedia.org/math/f/1/b/f1b1c033b0e3bf4516076498fb7df268.png" /></li>
+<li><a href="/wiki/Sum-product_number" title="Sum-product number">Sum-product numbers</a> (sequence <span class="nowrap"><a href="//oeis.org/A038369" class="extiw" title="oeis:A038369">A038369</a></span> in <a href="/wiki/On-Line_Encyclopedia_of_Integer_Sequences" title="On-Line Encyclopedia of Integer Sequences">OEIS</a>)&#160;: <img class="mwe-math-fallback-image-inline tex" alt="n=\left(\sum_{i=1}^{k}{d_i}\right) \left(\prod_{i=1}^{k}{d_i}\right) \, ,\text{ e.g. } 144 = (1+4+4) \times (1 \times4 \times 4) \, ." src="//upload.wikimedia.org/math/f/1/d/f1d1232a9c8eca74ac191a69095e0f03.png" /></li>
+<li><a href="/wiki/Dudeney_number" title="Dudeney number">Dudeney numbers</a> (sequence <span class="nowrap"><a href="//oeis.org/A061209" class="extiw" title="oeis:A061209">A061209</a></span> in <a href="/wiki/On-Line_Encyclopedia_of_Integer_Sequences" title="On-Line Encyclopedia of Integer Sequences">OEIS</a>)&#160;:<img class="mwe-math-fallback-image-inline tex" alt="n=\left(\sum_{i=1}^{k}{d_i}\right)^3\, ,\text{ e.g. } 512 = (5+1+2)^3 \, ." src="//upload.wikimedia.org/math/2/c/d/2cd2258fc7a4a6c4c09b8fc7fc7983ac.png" /></li>
+<li><a href="/wiki/Factorion" title="Factorion">Factorions</a> (sequence <span class="nowrap"><a href="//oeis.org/A014080" class="extiw" title="oeis:A014080">A014080</a></span> in <a href="/wiki/On-Line_Encyclopedia_of_Integer_Sequences" title="On-Line Encyclopedia of Integer Sequences">OEIS</a>)&#160;:<img class="mwe-math-fallback-image-inline tex" alt="n=\sum_{i=1}^{k}{d_i}!\, ,\text{ e.g. } 145 = 1! + 4! + 5! \, ." src="//upload.wikimedia.org/math/7/1/1/7110789452aad9fee853dba3c7dbd8af.png" /></li>
+</ul>
+<p>where <i>d</i><sub><i>i</i></sub> are the digits of <i>n</i> in some base.</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Narcissistic_number&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-mw-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-mw_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-mw_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-mw_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation mathworld" id="Reference-Mathworld-Narcissistic_Number"><a href="/wiki/Eric_W._Weisstein" title="Eric W. Weisstein">Weisstein, Eric W.</a>, <a rel="nofollow" class="external text" href="http://mathworld.wolfram.com/NarcissisticNumber.html">"Narcissistic Number"</a>, <i><a href="/wiki/MathWorld" title="MathWorld">MathWorld</a></i>.</span></span></li>
+<li id="cite_note-moore-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-moore_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-moore_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-moore_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.cs.umd.edu/Honors/reports/NarcissisticNums/NarcissisticNums.html"><i>Perfect and PluPerfect Digital Invariants</i></a> by Scott Moore</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://web.archive.org/web/20091027123639/http://www.geocities.com/~harveyh/narciss.htm">PPDI (Armstrong) Numbers</a> by Harvey Heinz</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.deimel.org/rec_math/dik1.htm">Armstrong Numbers</a> by Dik T. Winter</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://blog.deimel.org/2010/05/mystery-solved.html">Lionel Deimel’s Web Log</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">(sequence <span class="nowrap"><a href="//oeis.org/A005188" class="extiw" title="oeis:A005188">A005188</a></span> in <a href="/wiki/On-Line_Encyclopedia_of_Integer_Sequences" title="On-Line Encyclopedia of Integer Sequences">OEIS</a>)</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://web.archive.org/web/20091027123639/http://www.geocities.com/~harveyh/narciss.htm">PDIs</a> by Harvey Heinz</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Rose, Colin (2005), Radical Narcissistic Numbers, Journal of Recreational Mathematics, 33(4), pages 250-254.</span></li>
+</ol>
+</div>
+<div class="refbegin" style="">
+<ul>
+<li><a href="/wiki/Joseph_Madachy" title="Joseph Madachy">Joseph S. Madachy</a>, <i>Mathematics on Vacation</i>, Thomas Nelson &amp; Sons Ltd. 1966, pages 163-175.</li>
+<li>Rose, Colin (2005), <i>Radical narcissistic numbers</i>, Journal of Recreational Mathematics, 33(4), 2004-2005, pages 250-254.</li>
+<li><a rel="nofollow" class="external text" href="http://www.mathews-archive.com/digit-related-numbers/pdi.html"><i>Perfect Digital Invariants</i></a> by Walter Schneider</li>
+<li><a rel="nofollow" class="external text" href="http://arxiv.org/abs/0911.3038"><i>On a curious property of 3435</i></a> by Daan van Berkel</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Narcissistic_number&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.deimel.org/rec_math/DI_0.htm">Digital Invariants</a></li>
+<li><a rel="nofollow" class="external text" href="http://everything2.net/index.pl?node_id=1407017&amp;displaytype=printable&amp;lastnode_id=1407017">Armstrong Numbers</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.cs.mtu.edu/~shene/COURSES/cs201/NOTES/chap04/arms.html">Armstrong numbers between 1-999 calculator</a></li>
+<li><span class="citation web">Symonds, Ria. <a rel="nofollow" class="external text" href="http://www.numberphile.com/videos/153_narcissistic.html">"153 ♥ Narcissistic Number"</a>. <i>Numberphile</i>. <a href="/wiki/Brady_Haran" title="Brady Haran">Brady Haran</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANarcissistic+number&amp;rft.atitle=153+%E2%99%A5+Narcissistic+Number&amp;rft.aufirst=Ria&amp;rft.aulast=Symonds&amp;rft.au=Symonds%2C+Ria&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.numberphile.com%2Fvideos%2F153_narcissistic.html&amp;rft.jtitle=Numberphile&amp;rft.pub=Brady+Haran&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Classes_of_natural_numbers" title="Template:Classes of natural numbers"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Classes_of_natural_numbers" title="Template talk:Classes of natural numbers"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Classes_of_natural_numbers&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%">Classes of <a href="/wiki/Natural_number" title="Natural number">natural numbers</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Exponentiation" title="Exponentiation">Powers</a> and<br />
+related numbers</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Achilles_number" title="Achilles number">Achilles numbers</a></li>
+<li><a href="/wiki/Power_of_two" title="Power of two">Powers of two</a></li>
+<li><a href="/wiki/Power_of_10" title="Power of 10">Powers of 10</a></li>
+<li><a href="/wiki/Square_number" title="Square number">Squares</a></li>
+<li><a href="/wiki/Cube_(algebra)" title="Cube (algebra)">Cubes</a></li>
+<li><a href="/wiki/Fourth_power" title="Fourth power">Fourth powers</a></li>
+<li><a href="/wiki/Fifth_power_(algebra)" title="Fifth power (algebra)">Fifth powers</a></li>
+<li><a href="/wiki/Perfect_power" title="Perfect power">Perfect powers</a></li>
+<li><a href="/wiki/Powerful_number" title="Powerful number">Powerful numbers</a></li>
+<li><a href="/wiki/Prime_power" title="Prime power">Prime powers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Of the form<br />
+<i>a</i> × 2<sup><i>b</i></sup> ± 1</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cullen_number" title="Cullen number">Cullen numbers</a></li>
+<li><a href="/wiki/Double_Mersenne_number" title="Double Mersenne number">Double Mersenne numbers</a></li>
+<li><a href="/wiki/Fermat_number" title="Fermat number">Fermat numbers</a></li>
+<li><a href="/wiki/Mersenne_prime" title="Mersenne prime">Mersenne numbers</a></li>
+<li><a href="/wiki/Proth_number" title="Proth number">Proth numbers</a></li>
+<li><a href="/wiki/Thabit_number" title="Thabit number">Thabit numbers</a></li>
+<li><a href="/wiki/Woodall_number" title="Woodall number">Woodall numbers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">other polynomial<br />
+numbers</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carol_number" title="Carol number">Carol numbers</a></li>
+<li><a href="/wiki/Hilbert_number" title="Hilbert number">Hilbert numbers</a></li>
+<li><a href="/wiki/Idoneal_number" title="Idoneal number">Idoneal numbers</a></li>
+<li><a href="/wiki/Kynea_number" title="Kynea number">Kynea numbers</a></li>
+<li><a href="/wiki/Leyland_number" title="Leyland number">Leyland numbers</a></li>
+<li><a href="/wiki/Lucky_numbers_of_Euler" title="Lucky numbers of Euler">Lucky numbers of Euler</a></li>
+<li><a href="/wiki/Repunit" title="Repunit">Repunits</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Recursion" title="Recursion">Recursively</a> defined<br />
+numbers</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Fibonacci_number" title="Fibonacci number">Fibonacci numbers</a></li>
+<li><a href="/wiki/Jacobsthal_number" title="Jacobsthal number">Jacobsthal numbers</a></li>
+<li><a href="/wiki/Leonardo_number" title="Leonardo number">Leonardo numbers</a></li>
+<li><a href="/wiki/Lucas_number" title="Lucas number">Lucas numbers</a></li>
+<li><a href="/wiki/Pell_number" title="Pell number">Pell numbers</a></li>
+<li><a href="/wiki/Perrin_number" title="Perrin number">Perrin numbers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Possessing a<br />
+specific set<br />
+of other numbers</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Kn%C3%B6del_number" title="Knödel number">Knödel numbers</a></li>
+<li><a href="/wiki/Riesel_number" title="Riesel number">Riesel numbers</a></li>
+<li><a href="/wiki/Sierpinski_number" title="Sierpinski number">Sierpinski numbers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Expressible via<br />
+specific sums</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Nonhypotenuse_number" title="Nonhypotenuse number">Nonhypotenuse numbers</a></li>
+<li><a href="/wiki/Polite_number" title="Polite number">Polite numbers</a></li>
+<li><a href="/wiki/Practical_number" title="Practical number">Practical numbers</a></li>
+<li><a href="/wiki/Primary_pseudoperfect_number" title="Primary pseudoperfect number">Primary pseudoperfect numbers</a></li>
+<li><a href="/wiki/Ulam_number" title="Ulam number">Ulam numbers</a></li>
+<li><a href="/wiki/Wolstenholme_number" title="Wolstenholme number">Wolstenholme numbers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Generated<br />
+via a <a href="/wiki/Sieve_theory" title="Sieve theory">sieve</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Lucky_number" title="Lucky number">Lucky numbers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Code" title="Code">Code</a> related</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Meertens_number" title="Meertens number">Meertens numbers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Figurate_number" title="Figurate number">Figurate numbers</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Two-dimensional_space" title="Two-dimensional space">2-dimensional</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Centered_polygonal_number" title="Centered polygonal number">centered</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Centered_triangular_number" title="Centered triangular number">Centered triangular numbers</a></li>
+<li><a href="/wiki/Centered_square_number" title="Centered square number">Centered square numbers</a></li>
+<li><a href="/wiki/Centered_pentagonal_number" title="Centered pentagonal number">Centered pentagonal numbers</a></li>
+<li><a href="/wiki/Centered_hexagonal_number" title="Centered hexagonal number">Centered hexagonal numbers</a></li>
+<li><a href="/wiki/Centered_heptagonal_number" title="Centered heptagonal number">Centered heptagonal numbers</a></li>
+<li><a href="/wiki/Centered_octagonal_number" title="Centered octagonal number">Centered octagonal numbers</a></li>
+<li><a href="/wiki/Centered_nonagonal_number" title="Centered nonagonal number">Centered nonagonal numbers</a></li>
+<li><a href="/wiki/Centered_decagonal_number" title="Centered decagonal number">Centered decagonal numbers</a></li>
+<li><a href="/wiki/Star_number" title="Star number">Star numbers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Polygonal_number" title="Polygonal number">non-centered</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Triangular_number" title="Triangular number">Triangular numbers</a></li>
+<li><a href="/wiki/Pentagonal_number" title="Pentagonal number">Pentagonal numbers</a></li>
+<li><a href="/wiki/Hexagonal_number" title="Hexagonal number">Hexagonal numbers</a></li>
+<li><a href="/wiki/Heptagonal_number" title="Heptagonal number">Heptagonal numbers</a></li>
+<li><a href="/wiki/Octagonal_number" title="Octagonal number">Octagonal numbers</a></li>
+<li><a href="/wiki/Nonagonal_number" title="Nonagonal number">Nonagonal numbers</a></li>
+<li><a href="/wiki/Decagonal_number" title="Decagonal number">Decagonal numbers</a></li>
+<li><a href="/wiki/Dodecagonal_number" title="Dodecagonal number">Dodecagonal numbers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Three-dimensional_space" title="Three-dimensional space">3-dimensional</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Centered_polyhedral_number" title="Centered polyhedral number">centered</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Centered_tetrahedral_number" title="Centered tetrahedral number">Centered tetrahedral numbers</a></li>
+<li><a href="/wiki/Centered_cube_number" title="Centered cube number">Centered cube numbers</a></li>
+<li><a href="/wiki/Centered_octahedral_number" title="Centered octahedral number">Centered octahedral numbers</a></li>
+<li><a href="/wiki/Centered_dodecahedral_number" title="Centered dodecahedral number">Centered dodecahedral numbers</a></li>
+<li><a href="/wiki/Centered_icosahedral_number" title="Centered icosahedral number">Centered icosahedral numbers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Polyhedral_number" title="Polyhedral number" class="mw-redirect">non-centered</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Tetrahedral_number" title="Tetrahedral number">Tetrahedral numbers</a></li>
+<li><a href="/wiki/Octahedral_number" title="Octahedral number">Octahedral numbers</a></li>
+<li><a href="/wiki/Dodecahedral_number" title="Dodecahedral number">Dodecahedral numbers</a></li>
+<li><a href="/wiki/Icosahedral_number" title="Icosahedral number">Icosahedral numbers</a></li>
+<li><a href="/wiki/Stella_octangula_number" title="Stella octangula number">Stella octangula numbers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Pyramidal_number" title="Pyramidal number">pyramidal</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Square_pyramidal_number" title="Square pyramidal number">Square pyramidal numbers</a></li>
+<li><a href="/wiki/Pentagonal_pyramidal_number" title="Pentagonal pyramidal number">Pentagonal pyramidal numbers</a></li>
+<li><a href="/wiki/Hexagonal_pyramidal_number" title="Hexagonal pyramidal number">Hexagonal pyramidal numbers</a></li>
+<li><a href="/wiki/Heptagonal_pyramidal_number" title="Heptagonal pyramidal number">Heptagonal pyramidal numbers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Four-dimensional_space" title="Four-dimensional space">4-dimensional</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;">
+<div style="padding:0em 0.75em;">centered</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Centered_pentachoric_number" title="Centered pentachoric number">Centered pentachoric numbers</a></li>
+<li><a href="/wiki/Squared_triangular_number" title="Squared triangular number">Squared triangular numbers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;">
+<div style="padding:0em 0.75em;">non-centered</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Pentatope_number" title="Pentatope number">Pentatope numbers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Pseudoprime" title="Pseudoprime">Pseudoprimes</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carmichael_number" title="Carmichael number">Carmichael numbers</a></li>
+<li><a href="/wiki/Catalan_pseudoprime" title="Catalan pseudoprime">Catalan pseudoprimes</a></li>
+<li><a href="/wiki/Elliptic_pseudoprime" title="Elliptic pseudoprime">Elliptic pseudoprimes</a></li>
+<li><a href="/wiki/Euler_pseudoprime" title="Euler pseudoprime">Euler pseudoprimes</a></li>
+<li><a href="/wiki/Euler%E2%80%93Jacobi_pseudoprime" title="Euler–Jacobi pseudoprime">Euler–Jacobi pseudoprimes</a></li>
+<li><a href="/wiki/Fermat_pseudoprime" title="Fermat pseudoprime">Fermat pseudoprimes</a></li>
+<li><a href="/wiki/Frobenius_pseudoprime" title="Frobenius pseudoprime">Frobenius pseudoprimes</a></li>
+<li><a href="/wiki/Lucas_pseudoprime" title="Lucas pseudoprime">Lucas pseudoprimes</a></li>
+<li><a href="/wiki/Somer%E2%80%93Lucas_pseudoprime" title="Somer–Lucas pseudoprime">Somer–Lucas pseudoprimes</a></li>
+<li><a href="/wiki/Strong_pseudoprime" title="Strong pseudoprime">Strong pseudoprimes</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Combinatorial<br />
+numbers</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bell_number" title="Bell number">Bell numbers</a></li>
+<li><a href="/wiki/Cake_number" title="Cake number">Cake numbers</a></li>
+<li><a href="/wiki/Catalan_number" title="Catalan number">Catalan numbers</a></li>
+<li><a href="/wiki/Dedekind_number" title="Dedekind number">Dedekind numbers</a></li>
+<li><a href="/wiki/Delannoy_number" title="Delannoy number">Delannoy numbers</a></li>
+<li><a href="/wiki/Fuss%E2%80%93Catalan_number" title="Fuss–Catalan number">Fuss–Catalan numbers</a></li>
+<li><a href="/wiki/Lazy_caterer%27s_sequence" title="Lazy caterer's sequence">Lazy caterer's sequence</a></li>
+<li><a href="/wiki/Lobb_numbers" title="Lobb numbers">Lobb numbers</a></li>
+<li><a href="/wiki/Motzkin_number" title="Motzkin number">Motzkin numbers</a></li>
+<li><a href="/wiki/Narayana_number" title="Narayana number">Narayana numbers</a></li>
+<li><a href="/wiki/Ordered_Bell_number" title="Ordered Bell number">Ordered Bell numbers</a></li>
+<li><a href="/wiki/Schr%C3%B6der_number" title="Schröder number">Schröder numbers</a></li>
+<li><a href="/wiki/Schr%C3%B6der%E2%80%93Hipparchus_number" title="Schröder–Hipparchus number">Schröder–Hipparchus numbers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Arithmetic_function" title="Arithmetic function">Arithmetic functions</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;">
+<div style="padding:0em 0.75em;">By properties of <a href="/wiki/Divisor_function" title="Divisor function">σ(<i>n</i>)</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Abundant_number" title="Abundant number">Abundant numbers</a></li>
+<li><a href="/wiki/Almost_perfect_number" title="Almost perfect number">Almost perfect numbers</a></li>
+<li><a href="/wiki/Arithmetic_number" title="Arithmetic number">Arithmetic numbers</a></li>
+<li><a href="/wiki/Colossally_abundant_number" title="Colossally abundant number">Colossally abundant numbers</a></li>
+<li><a href="/wiki/Descartes_number" title="Descartes number">Descartes numbers</a></li>
+<li><a href="/wiki/Hemiperfect_number" title="Hemiperfect number">Hemiperfect numbers</a></li>
+<li><a href="/wiki/Highly_abundant_number" title="Highly abundant number">Highly abundant numbers</a></li>
+<li><a href="/wiki/Hyperperfect_number" title="Hyperperfect number">Hyperperfect numbers</a></li>
+<li><a href="/wiki/Multiply_perfect_number" title="Multiply perfect number">Multiply perfect numbers</a></li>
+<li><a href="/wiki/Perfect_number" title="Perfect number">Perfect numbers</a></li>
+<li><a href="/wiki/Primitive_abundant_number" title="Primitive abundant number">Primitive abundant numbers</a></li>
+<li><a href="/wiki/Quasiperfect_number" title="Quasiperfect number">Quasiperfect numbers</a></li>
+<li><a href="/wiki/Refactorable_number" title="Refactorable number">Refactorable numbers</a></li>
+<li><a href="/wiki/Sublime_number" title="Sublime number">Sublime numbers</a></li>
+<li><a href="/wiki/Superabundant_number" title="Superabundant number">Superabundant numbers</a></li>
+<li><a href="/wiki/Superior_highly_composite_number" title="Superior highly composite number">Superior highly composite numbers</a></li>
+<li><a href="/wiki/Superperfect_number" title="Superperfect number">Superperfect numbers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;">
+<div style="padding:0em 0.75em;">By properties of <a href="/wiki/Arithmetic_function#.CE.A9.28n.29.2C_.CF.89.28n.29.2C_.CE.BDp.28n.29_.E2.80.93_prime_power_decomposition" title="Arithmetic function">Ω(<i>n</i>)</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Almost_prime" title="Almost prime">Almost primes</a></li>
+<li><a href="/wiki/Semiprime" title="Semiprime">Semiprimes</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;">
+<div style="padding:0em 0.75em;">By properties of <a href="/wiki/Euler%27s_totient_function" title="Euler's totient function">φ(<i>n</i>)</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Highly_cototient_number" title="Highly cototient number">Highly cototient numbers</a></li>
+<li><a href="/wiki/Highly_totient_number" title="Highly totient number">Highly totient numbers</a></li>
+<li><a href="/wiki/Noncototient" title="Noncototient">Noncototients</a></li>
+<li><a href="/wiki/Nontotient" title="Nontotient">Nontotients</a></li>
+<li><a href="/wiki/Perfect_totient_number" title="Perfect totient number">Perfect totient numbers</a></li>
+<li><a href="/wiki/Sparsely_totient_number" title="Sparsely totient number">Sparsely totient numbers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;">
+<div style="padding:0em 0.75em;">By properties of <a href="/wiki/Divisor_function#Definition" title="Divisor function">s(<i>n</i>)</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Amicable_numbers" title="Amicable numbers">Amicable numbers</a></li>
+<li><a href="/wiki/Betrothed_numbers" title="Betrothed numbers">Betrothed numbers</a></li>
+<li><a href="/wiki/Deficient_number" title="Deficient number">Deficient numbers</a></li>
+<li><a href="/wiki/Semiperfect_number" title="Semiperfect number">Semiperfect numbers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<div>
+<ul>
+<li><a href="/wiki/Euclid_number" title="Euclid number">Euclid numbers</a></li>
+<li><a href="/wiki/Fortunate_number" title="Fortunate number">Fortunate numbers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Dividing a quotient</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Wieferich_number" title="Wieferich number" class="mw-redirect">Wieferich numbers</a></li>
+<li><a href="/wiki/Wall-Sun-Sun_prime" title="Wall-Sun-Sun prime" class="mw-redirect">Wall-Sun-Sun numbers</a></li>
+<li><a href="/wiki/Wilson_prime#Wilson_numbers" title="Wilson prime">Wilson numbers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other <a href="/wiki/Prime_factor" title="Prime factor">prime factor</a><br />
+or <a href="/wiki/Divisor" title="Divisor">divisor</a> related<br />
+numbers</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Blum_integer" title="Blum integer">Blum integers</a></li>
+<li><a href="/wiki/Erd%C5%91s%E2%80%93Woods_number" title="Erdős–Woods number">Erdős–Woods numbers</a></li>
+<li><a href="/wiki/Friendly_number" title="Friendly number">Friendly numbers</a></li>
+<li><a href="/wiki/Frugal_number" title="Frugal number">Frugal numbers</a></li>
+<li><a href="/wiki/Giuga_number" title="Giuga number">Giuga numbers</a></li>
+<li><a href="/wiki/Harmonic_divisor_number" title="Harmonic divisor number">Harmonic divisor numbers</a></li>
+<li><a href="/wiki/Highly_composite_number" title="Highly composite number">Highly composite numbers</a></li>
+<li><a href="/wiki/Lucas%E2%80%93Carmichael_number" title="Lucas–Carmichael number">Lucas–Carmichael numbers</a></li>
+<li><a href="/wiki/Pronic_number" title="Pronic number">Pronic numbers</a></li>
+<li><a href="/wiki/Regular_number" title="Regular number">Regular numbers</a></li>
+<li><a href="/wiki/Rough_number" title="Rough number">Rough numbers</a></li>
+<li><a href="/wiki/Smooth_number" title="Smooth number">Smooth numbers</a></li>
+<li><a href="/wiki/Sociable_number" title="Sociable number">Sociable numbers</a></li>
+<li><a href="/wiki/Sphenic_number" title="Sphenic number">Sphenic numbers</a></li>
+<li><a href="/wiki/St%C3%B8rmer_number" title="Størmer number">Størmer numbers</a></li>
+<li><a href="/wiki/Super-Poulet_number" title="Super-Poulet number">Super-Poulet numbers</a></li>
+<li><a href="/wiki/Zeisel_number" title="Zeisel number">Zeisel numbers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Recreational_mathematics" title="Recreational mathematics">Recreational<br />
+mathematics</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;">
+<div style="padding:0em 0.75em;">Base-dependent<br />
+numbers</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Automorphic_number" title="Automorphic number">Automorphic numbers</a></li>
+<li><a href="/wiki/Cyclic_number" title="Cyclic number">Cyclic numbers</a></li>
+<li><a href="/wiki/Digit-reassembly_number" title="Digit-reassembly number">Digit-reassembly numbers</a></li>
+<li><a href="/wiki/Dudeney_number" title="Dudeney number">Dudeney numbers</a></li>
+<li><a href="/wiki/Equidigital_number" title="Equidigital number">Equidigital numbers</a></li>
+<li><a href="/wiki/Extravagant_number" title="Extravagant number">Extravagant numbers</a></li>
+<li><a href="/wiki/Factorion" title="Factorion">Factorions</a></li>
+<li><a href="/wiki/Friedman_number" title="Friedman number">Friedman numbers</a></li>
+<li><a href="/wiki/Happy_number" title="Happy number">Happy numbers</a></li>
+<li><a href="/wiki/Harshad_number" title="Harshad number">Harshad numbers</a></li>
+<li><a href="/wiki/Kaprekar_number" title="Kaprekar number">Kaprekar numbers</a></li>
+<li><a href="/wiki/Keith_number" title="Keith number">Keith numbers</a></li>
+<li><a href="/wiki/Lychrel_number" title="Lychrel number">Lychrel numbers</a></li>
+<li><a href="/wiki/Missing-digit_sum" title="Missing-digit sum">Missing-digit sums</a></li>
+<li><strong class="selflink">Narcissistic numbers</strong></li>
+<li><a href="/wiki/Palindromic_number" title="Palindromic number">Palindromic numbers</a></li>
+<li><a href="/wiki/Pandigital_number" title="Pandigital number">Pandigital numbers</a></li>
+<li><a href="/wiki/Parasitic_number" title="Parasitic number">Parasitic numbers</a></li>
+<li><a href="/wiki/Pernicious_number" title="Pernicious number">Pernicious numbers</a></li>
+<li><a href="/wiki/Polydivisible_number" title="Polydivisible number">Polydivisible numbers</a></li>
+<li><a href="/wiki/Primeval_number" title="Primeval number">Primeval numbers</a></li>
+<li><a href="/wiki/Repdigit" title="Repdigit">Repdigits</a></li>
+<li><a href="/wiki/Repunit" title="Repunit">Repunits</a></li>
+<li><a href="/wiki/Self_number" title="Self number">Self numbers</a></li>
+<li><a href="/wiki/Self-descriptive_number" title="Self-descriptive number">Self-descriptive numbers</a></li>
+<li><a href="/wiki/Smarandache%E2%80%93Wellin_number" title="Smarandache–Wellin number">Smarandache–Wellin numbers</a></li>
+<li><a href="/wiki/Strictly_non-palindromic_number" title="Strictly non-palindromic number">Strictly non-palindromic numbers</a></li>
+<li><a href="/wiki/Strobogrammatic_number" title="Strobogrammatic number">Strobogrammatic numbers</a></li>
+<li><a href="/wiki/Sum-product_number" title="Sum-product number">Sum-product numbers</a></li>
+<li><a href="/wiki/Transposable_integer" title="Transposable integer">Transposable integers</a></li>
+<li><a href="/wiki/Trimorphic_number" title="Trimorphic number">Trimorphic numbers</a></li>
+<li><a href="/wiki/Undulating_number" title="Undulating number">Undulating numbers</a></li>
+<li><a href="/wiki/Vampire_number" title="Vampire number">Vampire numbers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<div>
+<ul>
+<li><a href="/wiki/Aronson%27s_sequence" title="Aronson's sequence">Aronson's sequence</a></li>
+<li><a href="/wiki/Ban_number" title="Ban number">Ban numbers</a></li>
+<li><a href="/wiki/Pancake_sorting" title="Pancake sorting">Pancake numbers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1008
+CPU time usage: 0.321 seconds
+Real time usage: 1.448 seconds
+Preprocessor visited node count: 3143/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 92376/2097152 bytes
+Template argument size: 8061/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 0/500
+Lua time usage: 0.062/10.000 seconds
+Lua memory usage: 1.56 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1032.465      1 - -total
+ 17.31%  178.768      7 - Template:Navbox
+  9.43%   97.363      1 - Template:Classes_of_natural_numbers
+  9.16%   94.552      6 - Template:Navbox_subgroup
+  4.31%   44.527      1 - Template:Cite_web
+  1.96%   20.274      1 - Template:Reflist
+  0.78%    8.018     11 - Template:OEIS
+  0.41%    4.204     11 - Template:Nowrap
+  0.30%    3.047      1 - Template:Refbegin
+  0.24%    2.458      1 - Template:MathWorld
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3758667-0!*!0!!en!*!*!math=0 and timestamp 20150207052812 and revision id 641213800
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from &quot;<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Narcissistic_number&amp;oldid=641213800">http://en.wikipedia.org/w/index.php?title=Narcissistic_number&amp;oldid=641213800</a>&quot;					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Base-dependent_integer_sequences" title="Category:Base-dependent integer sequences">Base-dependent integer sequences</a></li><li><a href="/wiki/Category:Recreational_mathematics" title="Category:Recreational mathematics">Recreational mathematics</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Narcissistic+number&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Narcissistic+number" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Narcissistic_number"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Narcissistic_number"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Narcissistic_number" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Narcissistic_number&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Narcissistic_number&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Narcissistic_number" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Narcissistic_number" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Narcissistic_number&amp;oldid=641213800" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Narcissistic_number&amp;action=info" title="More information about this page">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q777616" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Narcissistic_number&amp;id=641213800" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Narcissistic+number">Create a book</a></li>
+													<li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Narcissistic+number&amp;oldid=641213800&amp;writer=rdf2latex">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Narcissistic_number&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%B9%D8%AF%D8%AF_%D9%86%D8%B1%D8%AC%D8%B3%D9%8A" title="عدد نرجسي – Arabic" lang="ar" hreflang="ar">العربية</a></li>
+													<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Narzisstische_Zahl" title="Narzisstische Zahl – German" lang="de" hreflang="de">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Nombre_narcissique" title="Nombre narcissique – French" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Numero_di_Armstrong" title="Numero di Armstrong – Italian" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/Armstrong-sz%C3%A1m" title="Armstrong-szám – Hungarian" lang="hu" hreflang="hu">Magyar</a></li>
+													<li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Narcistisch_getal" title="Narcistisch getal – Dutch" lang="nl" hreflang="nl">Nederlands</a></li>
+													<li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%8A%E3%83%AB%E3%82%B7%E3%82%B7%E3%82%B9%E3%83%88%E6%95%B0" title="ナルシシスト数 – Japanese" lang="ja" hreflang="ja">日本語</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Liczby_Armstronga" title="Liczby Armstronga – Polish" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A7%D0%B8%D1%81%D0%BB%D0%B0_%D0%90%D1%80%D0%BC%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%B3%D0%B0" title="Числа Армстронга – Russian" lang="ru" hreflang="ru">Русский</a></li>
+													<li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Armstrongin_luku" title="Armstrongin luku – Finnish" lang="fi" hreflang="fi">Suomi</a></li>
+													<li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Armstrongtal" title="Armstrongtal – Swedish" lang="sv" hreflang="sv">Svenska</a></li>
+													<li class="interlanguage-link interwiki-ta"><a href="//ta.wikipedia.org/wiki/%E0%AE%A4%E0%AE%A9%E0%AF%8D%E0%AE%B5%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81_%E0%AE%8E%E0%AE%A3%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D" title="தன்விருப்பு எண்கள் – Tamil" lang="ta" hreflang="ta">தமிழ்</a></li>
+													<li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%A7%D0%B8%D1%81%D0%BB%D0%B0_%D0%90%D1%80%D0%BC%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%B3%D0%B0" title="Числа Армстронга – Ukrainian" lang="uk" hreflang="uk">Українська</a></li>
+													<li class="interlanguage-link interwiki-vi"><a href="//vi.wikipedia.org/wiki/S%E1%BB%91_t%E1%BB%B1_m%C3%A3n" title="Số tự mãn – Vietnamese" lang="vi" hreflang="vi">Tiếng Việt</a></li>
+													<li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E6%B0%B4%E4%BB%99%E8%8A%B1%E6%95%B0" title="水仙花数 – Chinese" lang="zh" hreflang="zh">中文</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q777616#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 6 January 2015, at 09:16.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Narcissistic_number&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" srcset="//bits.wikimedia.org/images/wikimedia-button-1.5x.png 1.5x, //bits.wikimedia.org/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.25wmf15/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.eventLogging.subscriber","ext.wikimediaEvents.statsd","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":78,"wgHostname":"mw1251"});
+}</script>
+	</body>
+</html>

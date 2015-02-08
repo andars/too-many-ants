@@ -1,0 +1,910 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Winchester Mystery House - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.25wmf15" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Winchester_Mystery_House" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Winchester_Mystery_House&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Winchester_Mystery_House&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Winchester_Mystery_House" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/Winchester_Mystery_House" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.rtlcite%2Cwikihiero%2CwikimediaBadges%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Winchester_Mystery_House","wgTitle":"Winchester Mystery House","wgCurRevisionId":645358971,"wgRevisionId":645358971,"wgArticleId":268137,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from May 2013","Articles with dead external links from August 2013","Coordinates on Wikidata","All articles with unsourced statements","Articles with unsourced statements from July 2014","Articles with obsolete information from April 2013","All Wikipedia articles in need of updating","Articles needing additional references from August 2011","All articles needing additional references","All articles with specifically marked weasel-worded phrases","Articles with specifically marked weasel-worded phrases from June 2014","Articles with unsourced statements from January 2010","Commons category template with no category set","Commons category with page title same as on Wikidata","Visitor attractions in Silicon Valley","History of San Jose, California","Folly buildings in the United States","Historic house museums in California","Buildings and structures in San Jose, California","California Historical Landmarks","National Register of Historic Places in Santa Clara County, California","Houses on the National Register of Historic Places in California","Houses completed in 1922","Houses in California","Reportedly haunted locations in California","Unfinished buildings and structures in the United States","Biographical museums in California","Museums in San Jose, California","Queen Anne architecture in California","Victorian architecture in California","American folklore","Houses in Santa Clara County, California","Wooden houses"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Winchester_Mystery_House","wgRelevantArticleId":268137,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":4096,"namespacesWithSubpages":{"6":0,"8":0,"1":true,"2":true,"3":true,"4":true,"5":true,"7":true,"9":true,"10":true,"11":true,"12":true,"13":true,"14":true,"15":true,"100":true,"101":true,"102":true,"103":true,"104":true,"105":true,"106":true,"107":true,"108":true,"109":true,"110":true,"111":true,"830":true,"831":true,"447":true,"2600":false,"828":true,"829":true}},"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgULSAcceptLanguageList":["en-us"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCoordinates":{"lat":37.318361111111,"lon":-121.95076111111},"wgWikibaseItemId":"Q608039"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});},{},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:94007ea073e20ad4a3cdce36b2f2e369 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf15/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Winchester_Mystery_House skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Winchester Mystery House</span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox" style="width:22em;width:250px; border-spacing:1px;">
+<tr>
+<td colspan="2" style="text-align:center;border: 0;">
+<div style="width:100%; text-align:center; font-size:105%; font-weight:bold; background: #A8EDEF; line-height:1.5">Winchester Mystery House</div>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;border: 0;">
+<div style="width:100%; text-align:center; line-height:1.5; background: #A8EDEF;"><a href="/wiki/United_States" title="United States">U.S.</a> <a href="/wiki/National_Register_of_Historic_Places" title="National Register of Historic Places">National Register of Historic Places</a></div>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;border: 0;">
+<div style="width:100%; text-align:center; line-height:1.5; background: #FFC94B"><a href="/wiki/California_Historical_Landmark" title="California Historical Landmark">California Historical Landmark</a>&#160;#868<sup id="cite_ref-CHL_2-0" class="reference"><a href="#cite_note-CHL-2"><span>[</span>2<span>]</span></a></sup></div>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;border: 0;"><a href="/wiki/File:Winchester_House_910px.jpg" class="image"><img alt="Winchester House 910px.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Winchester_House_910px.jpg/250px-Winchester_House_910px.jpg" width="250" height="198" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Winchester_House_910px.jpg/375px-Winchester_House_910px.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/Winchester_House_910px.jpg/500px-Winchester_House_910px.jpg 2x" data-file-width="910" data-file-height="722" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;border: 0;">
+<div style="font-size:90%;">View of the mansion from the southeast</div>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;border: 0;">
+<div class="center">
+<div style="width:240px;float:none;clear:both;margin-left:auto;margin-right:auto">
+<div style="width:240px;padding:0">
+<div style="position:relative;width:240px"><a href="/wiki/File:USA_California_location_map.svg" class="image" title="Winchester Mystery House is located in California"><img alt="Winchester Mystery House is located in California" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/USA_California_location_map.svg/240px-USA_California_location_map.svg.png" width="240" height="275" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/USA_California_location_map.svg/360px-USA_California_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/USA_California_location_map.svg/480px-USA_California_location_map.svg.png 2x" data-file-width="1022" data-file-height="1171" /></a>
+<div style="position:absolute;top:49.309%;left:25.456%;height:0;width:0;margin:0;padding:0">
+<div style="position:absolute;text-align:center;left:-4px;top:-4px;width:7px;font-size:7px;line-height:0"><img alt="Winchester Mystery House" src="//upload.wikimedia.org/wikipedia/en/thumb/0/0c/Red_pog.svg/7px-Red_pog.svg.png" title="Winchester Mystery House" width="7" height="7" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/0c/Red_pog.svg/11px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/0c/Red_pog.svg/14px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div>
+</div>
+</div>
+<div style="font-size:90%;padding-top:3px"></div>
+</div>
+</div>
+</div>
+<div style="font-size:90%;"></div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;font-weight:bold; border: 0;">Location</th>
+<td style="border: 0;"><a href="/wiki/San_Jose,_California" title="San Jose, California">San Jose, California</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;font-weight:bold; border: 0;">Coordinates</th>
+<td style="border: 0;"><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Winchester_Mystery_House&amp;params=37_19_6.10_N_121_57_2.74_W_region:US-CA_type:landmark"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">37°19′6.10″N</span> <span class="longitude">121°57′2.74″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">37.3183611°N 121.9507611°W</span><span style="display:none">﻿ / <span class="geo">37.3183611; -121.9507611</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Winchester_Mystery_House&amp;params=37_19_6.10_N_121_57_2.74_W_region:US-CA_type:landmark"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">37°19′6.10″N</span> <span class="longitude">121°57′2.74″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">37.3183611°N 121.9507611°W</span><span style="display:none">﻿ / <span class="geo">37.3183611; -121.9507611</span></span></span></a></span></span></span></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;font-weight:bold; border: 0;">Built</th>
+<td style="border: 0;">1884-1922</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;font-weight:bold; border: 0;">Architectural&#160;style</th>
+<td style="border: 0;"><a href="/wiki/Queen_Anne_Style_architecture" title="Queen Anne Style architecture" class="mw-redirect">Queen Anne Style</a> Late <a href="/wiki/Victorian_architecture" title="Victorian architecture">Victorian</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;font-weight:bold; border: 0;">Governing body</th>
+<td style="border: 0;"><a href="/w/index.php?title=Winchester_Mystery_House,_LLC&amp;action=edit&amp;redlink=1" class="new" title="Winchester Mystery House, LLC (page does not exist)">Winchester Mystery House, LLC</a><br />
+Partners: Edna May Raney; Gerard Raney; Ray Farris II; Sandra Farris; M. Valerie Bovone"</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;font-weight:bold; border: 0;">NRHP&#160;Reference&#160;#</th>
+<td style="border: 0;">74000559<sup id="cite_ref-nris_1-0" class="reference"><a href="#cite_note-nris-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;font-weight:bold; border: 0;">CHISL&#160;#</th>
+<td style="border: 0;">868<sup id="cite_ref-CHL_2-0" class="reference"><a href="#cite_note-CHL-2"><span>[</span>2<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background: #A8EDEF">Significant dates</th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;font-weight:bold; border: 0;">Added to NRHP</th>
+<td style="border: 0;">August 7, 1974</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;font-weight:bold; border: 0;">Designated&#160;CHISL</th>
+<td style="border: 0;">1974</td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:172px;"><a href="/wiki/File:Windows,_WMH.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Windows%2C_WMH.jpg/170px-Windows%2C_WMH.jpg" width="170" height="255" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Windows%2C_WMH.jpg/255px-Windows%2C_WMH.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Windows%2C_WMH.jpg/340px-Windows%2C_WMH.jpg 2x" data-file-width="2048" data-file-height="3072" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Windows,_WMH.jpg" class="internal" title="Enlarge"></a></div>
+Windows inside the house</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:172px;"><a href="/wiki/File:Toilet_door,_WMH.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Toilet_door%2C_WMH.jpg/170px-Toilet_door%2C_WMH.jpg" width="170" height="255" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Toilet_door%2C_WMH.jpg/255px-Toilet_door%2C_WMH.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Toilet_door%2C_WMH.jpg/340px-Toilet_door%2C_WMH.jpg 2x" data-file-width="2048" data-file-height="3072" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Toilet_door,_WMH.jpg" class="internal" title="Enlarge"></a></div>
+The doors to the bathrooms were solid wood; they were replaced with glass so that tourists would not mistake them for functioning bathrooms, which they are not. The only functioning bathroom was outside Sarah Winchester's bedroom, which had a small window for a nurse to check in on her late in her life.</div>
+</div>
+</div>
+<p>The <b>Winchester Mystery House</b> is a <a href="/wiki/Mansion" title="Mansion">mansion</a> in <a href="/wiki/San_Jose,_California" title="San Jose, California">San Jose, California</a> which was once the personal residence of <a href="/wiki/Sarah_Winchester" title="Sarah Winchester">Sarah Winchester</a>, the widow of gun magnate <a href="/wiki/William_Wirt_Winchester" title="William Wirt Winchester">William Wirt Winchester</a>. Located at 525 South Winchester Blvd. in San Jose, the <a href="/wiki/Queen_Anne_Style_architecture" title="Queen Anne Style architecture" class="mw-redirect">Queen Anne Style</a> <a href="/wiki/Victorian_architecture" title="Victorian architecture">Victorian</a> mansion is renowned for its size, its architectural curiosities, and its lack of any master building plan. It is a designated California historical landmark and is listed on the <a href="/wiki/National_Register_of_Historic_Places_listings_in_Santa_Clara_County,_California" title="National Register of Historic Places listings in Santa Clara County, California">National Register of Historic Places</a>. It is privately owned and serves as a tourist attraction.</p>
+<p>The property and mansion had been claimed to be haunted by ghosts killed with the Winchester rifles, now including Winchester herself, ever since construction commenced in 1884. Under Winchester's day-to-day guidance, its "from-the-ground-up" construction proceeded around the clock, by some accounts, without interruption, until her death on September 5, 1922, at which time work immediately ceased.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> Sarah Winchester's biographer, however, claims that Winchester "routinely dismissed workers for months at a time 'to take such rest as I might.'" and notes that "this flies in the face of claims by today's Mystery House proprietors that work at the ranch was ceaseless for thirty-eight years." <sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Inspiration"><span class="tocnumber">1</span> <span class="toctext">Inspiration</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#In_popular_culture"><span class="tocnumber">2</span> <span class="toctext">In popular culture</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Inspiration">Inspiration</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Winchester_Mystery_House&amp;action=edit&amp;section=1" title="Edit section: Inspiration">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>After her husband's death in 1881, Sarah Winchester inherited more than $20.5 million. She also received nearly fifty percent ownership of the <a href="/wiki/Winchester_Repeating_Arms_Company" title="Winchester Repeating Arms Company">Winchester Repeating Arms Company</a>, giving her an income of roughly $1,000 per day, equivalent to about $30,000 a day in 2012. These inheritances gave her a tremendous amount of wealth which she used to fund the ongoing construction.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></p>
+<p>At some point after her husband's death a Boston medium<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2014)">citation needed</span></a></i>]</sup> told her, while supposedly <a href="/wiki/Channeling_(mediumistic)" title="Channeling (mediumistic)" class="mw-redirect">channeling</a> her late husband, that she should leave her home in <a href="/wiki/New_Haven,_Connecticut" title="New Haven, Connecticut">New Haven</a> and travel <a href="/wiki/Western_United_States" title="Western United States">West</a>, where she must continuously build a home for herself and the spirits of people who had fallen victim to <a href="/wiki/Winchester_rifles" title="Winchester rifles" class="mw-redirect">Winchester rifles</a>.<sup id="cite_ref-web_bio_6-0" class="reference"><a href="#cite_note-web_bio-6"><span>[</span>6<span>]</span></a></sup> Winchester left New Haven and headed for California. Though it is possible she was simply seeking a change of location and a hobby during her lengthy depression, other sources claim that Winchester came to believe her family and fortune were haunted by ghosts, and that only by moving West and continuously building them a house could she appease these spirits.<sup id="cite_ref-web_bio_6-1" class="reference"><a href="#cite_note-web_bio-6"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-Hawes_7-0" class="reference"><a href="#cite_note-Hawes-7"><span>[</span>7<span>]</span></a></sup></p>
+<p>In 1884 she purchased an unfinished farmhouse in the <a href="/wiki/Santa_Clara_Valley" title="Santa Clara Valley">Santa Clara Valley</a> and began building her mansion. Carpenters were hired and worked on the house day and night until it became a seven story mansion. She did not use an architect and added on to the building in a haphazard fashion, so that the home contains numerous oddities like doors or stairs that go nowhere, windows overlooking other rooms, and stairs with odd-sized <a href="/wiki/Stair_riser" title="Stair riser">risers</a>. After her death, many accounts attributed these oddities to her belief in ghosts.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></p>
+<p><br /></p>
+<table class="metadata plainlinks ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div>
+</td>
+<td class="mbox-text">
+<table class="collapsible" style="width:95%; background:transparent;">
+<tr>
+<th style="text-align:left; padding:0.2em 2px 0.2em 0;">This section has multiple issues. <span style="font-weight: normal;">Please help <b><a class="external text" href="//en.wikipedia.org/w/index.php?title=Winchester_Mystery_House&amp;action=edit">improve it</a></b> or discuss these issues on the <b><a href="/wiki/Talk:Winchester_Mystery_House" title="Talk:Winchester Mystery House">talk page</a></b>.</span></th>
+</tr>
+<tr>
+<td>
+<table class="metadata plainlinks ambox ambox-content ambox-Update" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Ambox_current_red.svg" class="image"><img alt="Ambox current red.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ambox_current_red.svg/42px-Ambox_current_red.svg.png" width="42" height="34" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ambox_current_red.svg/63px-Ambox_current_red.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ambox_current_red.svg/84px-Ambox_current_red.svg.png 2x" data-file-width="360" data-file-height="290" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article's <b><a href="/wiki/Wikipedia:Accuracy_dispute" title="Wikipedia:Accuracy dispute">factual accuracy</a> may be compromised due to out-of-date information</b>. <span class="hide-when-compact">Please update this article to reflect recent events or newly available information.</span> <small><i>(April 2013)</i></small></span></td>
+</tr>
+</table>
+<table class="metadata plainlinks ambox ambox-content ambox-Unreferenced" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="Question book-new.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="262" data-file-height="204" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">references or sources</a></b>. <span class="hide-when-compact">Please help improve this section by <a href="/wiki/Help:Introduction_to_referencing/1" title="Help:Introduction to referencing/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small><i>(August 2011)</i></small></span></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Winchester_Mystery_House_2012.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Winchester_Mystery_House_2012.jpg/220px-Winchester_Mystery_House_2012.jpg" width="220" height="101" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Winchester_Mystery_House_2012.jpg/330px-Winchester_Mystery_House_2012.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/Winchester_Mystery_House_2012.jpg/440px-Winchester_Mystery_House_2012.jpg 2x" data-file-width="3011" data-file-height="1377" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Winchester_Mystery_House_2012.jpg" class="internal" title="Enlarge"></a></div>
+A view of the Winchester Mystery House from a highrise building to the south</div>
+</div>
+</div>
+<p>Before the <a href="/wiki/1906_San_Francisco_earthquake" title="1906 San Francisco earthquake">1906 earthquake</a>, the house had been seven stories high, but today it is only four stories. The house is predominantly made of redwood, as Mrs. Winchester preferred the wood; however, she disliked the look of it. She therefore demanded that a faux grain and stain be applied. This is why almost all the wood in the home is covered. Approximately 20,500 US gallons (78,000&#160;l) of paint were required to paint the house. The home itself is built using a <a href="/wiki/Floating_raft_system" title="Floating raft system">floating foundation</a> that is believed to have saved it from total collapse in the 1906 earthquake and the <a href="/wiki/1989_Loma_Prieta_earthquake" title="1989 Loma Prieta earthquake">1989 Loma Prieta earthquake</a>. This type of construction allows the home to shift freely, as it is not completely attached to its brick base. There are roughly 160 rooms, including 40 bedrooms, 2 ballrooms (one completed and one unfinished) as well as 47 fireplaces, over 10,000 panes of glass, 17 <a href="/wiki/Chimney" title="Chimney">chimneys</a> (with evidence of two others), two <a href="/wiki/Basement" title="Basement">basements</a> and three <a href="/wiki/Elevator" title="Elevator">elevators</a>. Winchester's property was about 162 acres (66&#160;ha) at one time, but the estate has since been reduced to 4.5 acres (1.8&#160;ha)&#160;– the minimum necessary to contain the house and nearby outbuildings. It has gold and silver chandeliers and hand-inlaid parquet floors and trim. There are doors and stairways that lead nowhere and a vast array of colors and materials. Due to Mrs Winchester's debilitating arthritis, special "easy riser" stairways were installed as a replacement for her original steep construction. This allowed her to move about her home freely as she was only able to raise her feet a few inches high.</p>
+<p>The home's conveniences were rare at the time of its construction. These included steam and <a href="/wiki/Forced-air_vent" title="Forced-air vent" class="mw-redirect">forced-air heating</a>, modern indoor toilets and plumbing, push-button <a href="/wiki/Gas_lighting" title="Gas lighting">gas lights</a>, Mrs Winchester's personal (and only) hot shower from indoor plumbing. There are also three elevators, one of which was powered by a rare horizontal <a href="/wiki/Hydraulic" title="Hydraulic" class="mw-redirect">hydraulic</a> elevator piston. Most elevator pistons are vertical because a vertical layout takes up less space, but Winchester preferred the improved functionality of the horizontal configuration. Mrs. Winchester never skimped on the many adornments that she believed contributed to its architectural beauty. Many of the stained glass windows were created by the Tiffany Company. Some were designed specifically for her, and others by her, including a "spider web" window that featured her favorite web design and the repetition of the number thirteen, another of her preoccupations. This window was never installed, but exists in the so-called "$25,000 storage room" (so named because its contents were originally appraised at a value of $25,000; the value today is inestimable, but thought to be<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Avoid_weasel_words" title="Wikipedia:Avoid weasel words" class="mw-redirect"><span title="Who says this? (June 2014)">weasel&#160;words</span></a></i>]</sup> at least ten times that). A second window was designed by Tiffany himself, so that when sunlight strikes the prismatic crystals a rainbow is cast across the room. The window was installed in an interior wall in a room with no light exposure, preventing the effect from being seen.</p>
+<p>When Winchester died, all of her possessions (apart from the house) were bequeathed to her niece and personal secretary. Her niece then took everything she wanted and sold the rest in a private auction. It supposedly took six trucks working eight hours a day for six weeks to remove all of the furniture from the home, an account disputed by Winchester's biographer.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup> Mrs Winchester made no mention of the mansion in her will, and appraisers considered the house worthless due to the damage caused by the earthquake, the unfinished design and the impractical nature of its construction. It was sold at auction to a local investor for over $135,000, and subsequently leased for 10 years to John and Mayme Brown,<sup id="cite_ref-ReferenceA_10-0" class="reference"><a href="#cite_note-ReferenceA-10"><span>[</span>10<span>]</span></a></sup> who eventually purchased the house. In February 1923, five months after Winchester's death, the house was opened to the public, with Mayme Brown serving as the first tour guide.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup> <a href="/wiki/Harry_Houdini" title="Harry Houdini">Harry Houdini</a> toured the mansion in 1924, and the newspaper account of his visit, displayed in the rifle museum on the estate, called it the Mystery House.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2010)">citation needed</span></a></i>]</sup></p>
+<p>Today the home is owned by Winchester Investments LLC,<sup id="cite_ref-HouseFront_12-0" class="reference"><a href="#cite_note-HouseFront-12"><span>[</span>12<span>]</span></a></sup> a privately held company representing the descendants of John and Mayme Brown.<sup id="cite_ref-ReferenceA_10-1" class="reference"><a href="#cite_note-ReferenceA-10"><span>[</span>10<span>]</span></a></sup> The home retains unique touches that reflect Mrs Winchester's beliefs and her reported preoccupation with warding off malevolent spirits. These spirits are said to have directly inspired her as to the way the house should be built. The number thirteen and spider web motifs, which carried spiritual significance for her, occur throughout the house. For example, an expensive imported chandelier that originally had 12 candle-holders was altered to accommodate 13 candles, wall clothes hooks are in multiples of 13, and a spider web-patterned stained glass window contains 13 colored stones. The sink's drain covers also have 13 holes. In tribute, the house's current groundskeepers have created a <a href="/wiki/Topiary" title="Topiary">topiary</a> tree shaped like the numeral 13. Also, every Friday the 13th the large bell on the property is rung 13 times at 1300 hours (1 o'clock p.m.) in tribute to Winchester.</p>
+<h2><span class="mw-headline" id="In_popular_culture">In popular culture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Winchester_Mystery_House&amp;action=edit&amp;section=2" title="Edit section: In popular culture">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Shinji_Mikami" title="Shinji Mikami">Shinji Mikami</a>, creator of the survival-horror video game <i><a href="/wiki/The_Evil_Within_(video_game)" title="The Evil Within (video game)" class="mw-redirect">The Evil Within</a></i>, cites the house as an influence.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup></li>
+</ul>
+<ul>
+<li>The house was referenced in the <i><a href="/wiki/Babylon_5" title="Babylon 5">Babylon 5</a></i> episode, "<a href="/wiki/Rumors,_Bargains_and_Lies" title="Rumors, Bargains and Lies">Rumors, Bargains and Lies</a>". <a href="/wiki/Londo_Mollari" title="Londo Mollari">Londo Mollari</a> cites the Winchester mansion as an example of his difficulty in understanding humans.<sup id="cite_ref-IMDb-B5_14-0" class="reference"><a href="#cite_note-IMDb-B5-14"><span>[</span>14<span>]</span></a></sup></li>
+</ul>
+<ul>
+<li>In issue #45 of DC Comics' <i><a href="/wiki/Swamp_Thing" title="Swamp Thing">Swamp Thing</a></i>, <a href="/wiki/Alan_Moore" title="Alan Moore">Alan Moore</a> penned a ghost story featuring a house based on the Winchester mansion. In Moore's story the "Cambridge House" is haunted not only by cowboys, Indians and suicide victims, but also a number of slain animals killed by the rifles.</li>
+</ul>
+<ul>
+<li>The Winchester Mystery House was featured in a season two episode of <i><a href="/wiki/Ghost_Hunters" title="Ghost Hunters">Ghost Hunters</a></i> in which the <a href="/wiki/The_Atlantic_Paranormal_Society" title="The Atlantic Paranormal Society">TAPS</a> team investigated claims of <a href="/wiki/Paranormal_activity" title="Paranormal activity" class="mw-redirect">paranormal activity</a>. TAPS failed to find any evidence of paranormal phenomena in the house.<sup id="cite_ref-Hawes_7-1" class="reference"><a href="#cite_note-Hawes-7"><span>[</span>7<span>]</span></a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup></li>
+</ul>
+<ul>
+<li>For the "<a href="/wiki/MythBusters_(2012_season)#Episode_193_.E2.80.93_Fright_Night" title="MythBusters (2012 season)">Smell of Fear</a>" episode of <i><a href="/wiki/MythBusters" title="MythBusters">MythBusters</a></i>, the build team visited the Winchester Mystery House to look around and later watch "one of the scariest movies of all time" (the title of which wasn't revealed) on a <a href="/wiki/Television" title="Television">television</a> that they set up in the grand ballroom, then gather their sweat samples for testing.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup> (This clip was not seen in full on the American version of the episode.) Later on the "Aftershow" about the episode, <a href="/wiki/Kari_Byron" title="Kari Byron">Kari Byron</a> revealed that after she first visited the Mystery House as a <a href="/wiki/Brownie_(Girl_Guides)" title="Brownie (Girl Guides)">Brownie</a> it had given her nightmares, and that the house was "still creepy".<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup></li>
+</ul>
+<ul>
+<li>In the TV series <i><a href="/wiki/Gilmore_Girls" title="Gilmore Girls">Gilmore Girls</a>'</i> season 1 finale entitled "<a href="/wiki/Love,_Daisies_and_Troubadours" title="Love, Daisies and Troubadours" class="mw-redirect">Love, Daisies and Troubadours</a>", Lorelai Gilmore refers to the house when speaking to her friend, Luke Danes, saying: "And that starts with ceasing work on the Winchester Mystery House here".<sup id="cite_ref-IMDb-Gilmore_18-0" class="reference"><a href="#cite_note-IMDb-Gilmore-18"><span>[</span>18<span>]</span></a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Winchester_Mystery_House&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><i><a href="/wiki/The_Amber_House_Trilogy" title="The Amber House Trilogy" class="mw-redirect">The Amber House Trilogy</a></i>, a young adult book series about a mansion that has been continuously rebuilt and expanded for generations</li>
+<li><i><a href="/wiki/Haunting_of_Winchester_House" title="Haunting of Winchester House">Haunting of Winchester House</a></i>, a film by The Asylum loosely based on the myths surrounding the house</li>
+<li><i><a href="/wiki/Rose_Red_(miniseries)" title="Rose Red (miniseries)">Rose Red</a></i>, a TV miniseries about a haunted mansion kept under continuous construction for decades by eccentric owners</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Winchester_Mystery_House&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-nris-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-nris_1-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://nrhp.focus.nps.gov/natreg/docs/All_Data.html">"National Register Information System"</a>. <i>National Register of Historic Places</i>. <a href="/wiki/National_Park_Service" title="National Park Service">National Park Service</a>. 2007-01-23.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWinchester+Mystery+House&amp;rft.atitle=National+Register+Information+System&amp;rft.date=2007-01-23&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnrhp.focus.nps.gov%2Fnatreg%2Fdocs%2FAll_Data.html&amp;rft.jtitle=National+Register+of+Historic+Places&amp;rft.pub=National+Park+Service&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-CHL-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-CHL_2-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://ohp.parks.ca.gov/ListedResources/Detail/868">"Winchester House"</a>. Office of Historic Preservation, California State Parks<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-10-14</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWinchester+Mystery+House&amp;rft.btitle=Winchester+House&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fohp.parks.ca.gov%2FListedResources%2FDetail%2F868&amp;rft.pub=Office+of+Historic+Preservation%2C+California+State+Parks&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.frommers.com/destinations/sanjoseca/1064024175.html">A Mystery House, Frommer's San Jose, retrieved Oct. 30, 2006.</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;since May 2013">dead link</span></a></i>]</span></sup></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Ignoffo, Mary Jo. "Captive of the Labyrinth: Sarah L. Winchester, Heiress to the Rifle Fortune." Columbia, Mo.&#160;: Univ. of Missouri Press, 2010. See p. 112.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://winchestermysteryhouse.com/sarahwinchester.cfm">Sarah Winchester: the world famous Winchester Mystery House...</a></span></li>
+<li id="cite_note-web_bio-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-web_bio_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-web_bio_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.winchestermysteryhouse.com/sarahwinchester.cfm">"Sarah Winchester: Woman of Mystery"</a>. Winchester Mystery House, LLC. 2003<span class="reference-accessdate">. Retrieved <span class="nowrap">16 August</span> 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWinchester+Mystery+House&amp;rft.btitle=Sarah+Winchester%3A+Woman+of+Mystery&amp;rft.date=2003&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.winchestermysteryhouse.com%2Fsarahwinchester.cfm&amp;rft.pub=Winchester+Mystery+House%2C+LLC&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Hawes-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-Hawes_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Hawes_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation book"><a href="/wiki/Jason_Hawes" title="Jason Hawes">Hawes, Jason</a>; <a href="/wiki/Grant_Wilson" title="Grant Wilson">Wilson, Grant</a>; <a href="/wiki/Michael_Jan_Friedman" title="Michael Jan Friedman">Friedman, Michael Jan</a> (2007). "The Winchester Mystery July 2005". <i>Ghost Hunting: True Stories of Unexplained Phenomena from The Atlantic Paranormal Society</i>. <a href="/wiki/New_York_City" title="New York City">New York</a>: <a href="/wiki/Pocket_Books" title="Pocket Books">Pocket Books</a>. pp.&#160;225–229. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-4165-4113-4" title="Special:BookSources/978-1-4165-4113-4">978-1-4165-4113-4</a>. <a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>&#160;<a rel="nofollow" class="external text" href="http://lccn.loc.gov/2007016062">2007016062</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWinchester+Mystery+House&amp;rft.atitle=The+Winchester+Mystery+July+2005&amp;rft.aufirst=Jason&amp;rft.au=Friedman%2C+Michael+Jan&amp;rft.au=Hawes%2C+Jason&amp;rft.aulast=Hawes&amp;rft.au=Wilson%2C+Grant&amp;rft.btitle=Ghost+Hunting%3A+True+Stories+of+Unexplained+Phenomena+from+The+Atlantic+Paranormal+Society&amp;rft.date=2007&amp;rft.genre=bookitem&amp;rft.isbn=978-1-4165-4113-4&amp;rft.lccn=2007016062&amp;rft.pages=225-229&amp;rft.place=New+York&amp;rft.pub=Pocket+Books&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.yourdiscovery.com/paranormal/most_haunted/winchester_mansion/index.shtml">Discovery Channel Nederland</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;since August 2013">dead link</span></a></i>]</span></sup></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Ignoffo, Mary Jo. "Captive of the Labyrinth: Sarah L. Winchester, Heiress to the Rifle Fortune." Columbia, Mo.&#160;: Univ. of Missouri Press, 2010. See page 207.</span></li>
+<li id="cite_note-ReferenceA-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-ReferenceA_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ReferenceA_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="/wiki/San_Jose_Mercury_News" title="San Jose Mercury News">San Jose Mercury News</a>: "One Less Mystery: Two Prominent Families Own San Jose's Mystery House." April 26, 1997</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Ignoffo, Mary Jo. "Captive of the Labyrinth: Sarah L. Winchester, Heiress to the Rifle Fortune." Columbia, Mo.&#160;: Univ. of Missouri Press, 2010. See page 210.</span></li>
+<li id="cite_note-HouseFront-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-HouseFront_12-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.housefront.com/1976454">HouseFront</a></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ign.com/articles/2013/04/22/the-evil-within-first-look">The Evil Within First Look - IGN</a></span></li>
+<li id="cite_note-IMDb-B5-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-IMDb-B5_14-0">^</a></b></span> <span class="reference-text"><span class="citation web">Staff. <a rel="nofollow" class="external text" href="http://www.imdb.com/title/tt0517684/">"Babylon 5: Season 4, Episode 13 Rumors, Bargains and Lies (12 May 1997) TV Episode - 45 min - Action, Adventure, Drama"</a>. <i>www.imdb.com</i>. Amazon<span class="reference-accessdate">. Retrieved <span class="nowrap">1 November</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWinchester+Mystery+House&amp;rft.atitle=Babylon+5%3A+Season+4%2C+Episode+13+Rumors%2C+Bargains+and+Lies+%2812+May+1997%29+TV+Episode++-++45+min++-++Action%2C+Adventure%2C+Drama&amp;rft.aulast=Staff&amp;rft.au=Staff&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0517684%2F&amp;rft.jtitle=www.imdb.com&amp;rft.pub=Amazon&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><span class="citation episode">"<a href="/wiki/Ghost_Hunters" title="Ghost Hunters">Ghost Hunters</a>". <i><a href="/wiki/Sci_Fi_Channel_(United_States)" title="Sci Fi Channel (United States)" class="mw-redirect">SciFi Channel</a></i>. Season 2. Episode 211. 2005-10-05.</span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.youtube.com/watch?v=S_v6IrXWO9M">"That's Not Cool"</a> originally from discovery.com/mythbusters</span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://dsc.discovery.com/tv-shows/mythbusters/videos/smell-of-fear-aftershow.htm">"Smell of Fear Aftershow"</a></span></li>
+<li id="cite_note-IMDb-Gilmore-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-IMDb-Gilmore_18-0">^</a></b></span> <span class="reference-text"><span class="citation web">Staff. <a rel="nofollow" class="external text" href="http://www.imdb.com/title/tt0588167/?ref_=ttep_ep22">"Gilmore Girls: Season 1, Episode 21 Love, Daisies and Troubadours (10 May 2001) TV Episode - 44 min - Comedy, Drama"</a>. <i>www.imdb.com</i>. Amazon<span class="reference-accessdate">. Retrieved <span class="nowrap">1 November</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWinchester+Mystery+House&amp;rft.atitle=Gilmore+Girls%3A+Season+1%2C+Episode+21+Love%2C+Daisies+and+Troubadours+%2810+May+2001%29+TV+Episode++-++44+min++-++Comedy%2C+Drama&amp;rft.aulast=Staff&amp;rft.au=Staff&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0588167%2F%3Fref_%3Dttep_ep22&amp;rft.jtitle=www.imdb.com&amp;rft.pub=Amazon&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Winchester_Mystery_House&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="//commons.wikimedia.org/wiki/Category:Winchester_Mystery_House" class="extiw" title="commons:Category:Winchester Mystery House">Winchester Mystery House</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.winchestermysteryhouse.com/">Winchester Mystery House website</a></li>
+<li><a rel="nofollow" class="external text" href="http://diva.sfsu.edu/collections/sfbatv/bundles/189349">View KPIX-TV's 1960 documentary about the house, narrated by</a> <a href="/wiki/Lillian_Gish" title="Lillian Gish">Lillian Gish</a>.</li>
+<li><a rel="nofollow" class="external text" href="http://www.youtube.com/watch?v=rgxXdJ-E5Cw">Video Tour and Historic Documentary of The Winchester Mystery House</a> from <a href="/wiki/YouTube" title="YouTube">YouTube</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.prairieghosts.com/winchester.html"><i>The History of One of America's Most Haunted Houses</i></a> by Troy Taylor</li>
+<li><a rel="nofollow" class="external text" href="http://www.nps.gov/history/nr/travel/santaclara/">Santa Clara County: California’s Historic Silicon Valley, a National Park Service Discover Our Shared Heritage Travel Itinerary</a></li>
+<li><a rel="nofollow" class="external text" href="http://abcnews.go.com/GMA/Halloween/winchester-mystery-house-eccentric-mansion-designed-confuse-ghosts/story?id=11834520">The Mystery House</a> featured on <i><a href="/wiki/Good_Morning_America" title="Good Morning America">Good Morning America</a></i></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background-color:#A8EDEF">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:National_Register_of_Historic_Places" title="Template:National Register of Historic Places"><span title="View this template" style=";background-color:#A8EDEF;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:National_Register_of_Historic_Places" title="Template talk:National Register of Historic Places"><span title="Discuss this template" style=";background-color:#A8EDEF;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:National_Register_of_Historic_Places&amp;action=edit"><span title="Edit this template" style=";background-color:#A8EDEF;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/National_Register_of_Historic_Places" title="National Register of Historic Places">U.S. National Register of Historic Places</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A8EDEF">Topics</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/National_Register_of_Historic_Places_architectural_style_categories" title="National Register of Historic Places architectural style categories">Architectural style categories</a></li>
+<li><a href="/wiki/Contributing_property" title="Contributing property">Contributing property</a></li>
+<li><a href="/wiki/Historic_districts_in_the_United_States" title="Historic districts in the United States">Historic district</a></li>
+<li><a href="/wiki/History_of_the_National_Register_of_Historic_Places" title="History of the National Register of Historic Places">History of the National Register of Historic Places</a></li>
+<li><a href="/wiki/Keeper_of_the_Register" title="Keeper of the Register">Keeper of the Register</a></li>
+<li><a href="/wiki/National_Park_Service" title="National Park Service">National Park Service</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_property_types" title="National Register of Historic Places property types">Property types</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A8EDEF">Lists by states</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Alabama" title="National Register of Historic Places listings in Alabama">Alabama</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Alaska" title="National Register of Historic Places listings in Alaska">Alaska</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Arizona" title="National Register of Historic Places listings in Arizona">Arizona</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Arkansas" title="National Register of Historic Places listings in Arkansas">Arkansas</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_California" title="National Register of Historic Places listings in California">California</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Colorado" title="National Register of Historic Places listings in Colorado">Colorado</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Connecticut" title="National Register of Historic Places listings in Connecticut">Connecticut</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Delaware" title="National Register of Historic Places listings in Delaware">Delaware</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Florida" title="National Register of Historic Places listings in Florida">Florida</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Georgia" title="National Register of Historic Places listings in Georgia">Georgia</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Hawaii" title="National Register of Historic Places listings in Hawaii">Hawaii</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Idaho" title="National Register of Historic Places listings in Idaho">Idaho</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Illinois" title="National Register of Historic Places listings in Illinois">Illinois</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Indiana" title="National Register of Historic Places listings in Indiana">Indiana</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Iowa" title="National Register of Historic Places listings in Iowa">Iowa</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Kansas" title="National Register of Historic Places listings in Kansas">Kansas</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Kentucky" title="National Register of Historic Places listings in Kentucky">Kentucky</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Louisiana" title="National Register of Historic Places listings in Louisiana">Louisiana</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Maine" title="National Register of Historic Places listings in Maine">Maine</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Maryland" title="National Register of Historic Places listings in Maryland">Maryland</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Massachusetts" title="National Register of Historic Places listings in Massachusetts">Massachusetts</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Michigan" title="National Register of Historic Places listings in Michigan">Michigan</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Minnesota" title="National Register of Historic Places listings in Minnesota">Minnesota</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Mississippi" title="National Register of Historic Places listings in Mississippi">Mississippi</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Missouri" title="National Register of Historic Places listings in Missouri">Missouri</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Montana" title="National Register of Historic Places listings in Montana">Montana</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Nebraska" title="National Register of Historic Places listings in Nebraska">Nebraska</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Nevada" title="National Register of Historic Places listings in Nevada">Nevada</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_New_Hampshire" title="National Register of Historic Places listings in New Hampshire">New Hampshire</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_New_Jersey" title="National Register of Historic Places listings in New Jersey">New Jersey</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_New_Mexico" title="National Register of Historic Places listings in New Mexico">New Mexico</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_New_York" title="National Register of Historic Places listings in New York">New York</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_North_Carolina" title="National Register of Historic Places listings in North Carolina">North Carolina</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_North_Dakota" title="National Register of Historic Places listings in North Dakota">North Dakota</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Ohio" title="National Register of Historic Places listings in Ohio">Ohio</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Oklahoma" title="National Register of Historic Places listings in Oklahoma">Oklahoma</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Oregon" title="National Register of Historic Places listings in Oregon">Oregon</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Pennsylvania" title="National Register of Historic Places listings in Pennsylvania">Pennsylvania</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Rhode_Island" title="National Register of Historic Places listings in Rhode Island">Rhode Island</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_South_Carolina" title="National Register of Historic Places listings in South Carolina">South Carolina</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_South_Dakota" title="National Register of Historic Places listings in South Dakota">South Dakota</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Tennessee" title="National Register of Historic Places listings in Tennessee">Tennessee</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Texas" title="National Register of Historic Places listings in Texas">Texas</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Utah" title="National Register of Historic Places listings in Utah">Utah</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Vermont" title="National Register of Historic Places listings in Vermont">Vermont</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Virginia" title="National Register of Historic Places listings in Virginia">Virginia</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Washington_state" title="National Register of Historic Places listings in Washington state">Washington</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_West_Virginia" title="National Register of Historic Places listings in West Virginia">West Virginia</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Wisconsin" title="National Register of Historic Places listings in Wisconsin">Wisconsin</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Wyoming" title="National Register of Historic Places listings in Wyoming">Wyoming</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A8EDEF">Lists by insular areas</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_American_Samoa" title="National Register of Historic Places listings in American Samoa">American Samoa</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Guam" title="National Register of Historic Places listings in Guam">Guam</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_the_United_States_Minor_Outlying_Islands" title="National Register of Historic Places listings in the United States Minor Outlying Islands">Minor Outlying Islands</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_the_Northern_Mariana_Islands" title="National Register of Historic Places listings in the Northern Mariana Islands">Northern Mariana Islands</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Puerto_Rico" title="National Register of Historic Places listings in Puerto Rico">Puerto Rico</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_the_United_States_Virgin_Islands" title="National Register of Historic Places listings in the United States Virgin Islands">Virgin Islands</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A8EDEF">Lists by associated states</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_the_Federated_States_of_Micronesia" title="National Register of Historic Places listings in the Federated States of Micronesia">Federated States of Micronesia</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_the_Marshall_Islands" title="National Register of Historic Places listings in the Marshall Islands">Marshall Islands</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Palau" title="National Register of Historic Places listings in Palau">Palau</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A8EDEF">Other areas</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Washington,_D.C." title="National Register of Historic Places listings in Washington, D.C.">District of Columbia</a></li>
+<li><a href="/wiki/American_Legation,_Tangier" title="American Legation, Tangier">Morocco</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background-color:#A8EDEF">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:National_Register_of_Historic_Places" title="Category:National Register of Historic Places">Category</a></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <a href="/wiki/Portal:National_Register_of_Historic_Places" title="Portal:National Register of Historic Places">Portal</a></li>
+<li><img alt="WikiProject" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/16px-People_icon.svg.png" title="WikiProject" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/24px-People_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/32px-People_icon.svg.png 2x" data-file-width="100" data-file-height="100" /> <a href="/wiki/Wikipedia:WikiProject_National_Register_of_Historic_Places" title="Wikipedia:WikiProject National Register of Historic Places">WikiProject</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background: #ffc94b">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:San_Jose_and_Silicon_Valley_attractions" title="Template:San Jose and Silicon Valley attractions"><span title="View this template" style="background: #ffc94b;;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:San_Jose_and_Silicon_Valley_attractions" title="Template talk:San Jose and Silicon Valley attractions"><span title="Discuss this template" style="background: #ffc94b;;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:San_Jose_and_Silicon_Valley_attractions&amp;action=edit"><span title="Edit this template" style="background: #ffc94b;;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/List_of_attractions_in_Silicon_Valley" title="List of attractions in Silicon Valley">San Jose and Silicon Valley attractions</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #ffc94b">Arboreta / Gardens</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Arizona_Cactus_Garden" title="Arizona Cactus Garden">Arizona Cactus Garden</a></li>
+<li><a href="/wiki/Chinese_Cultural_Garden" title="Chinese Cultural Garden">Chinese Cultural Garden</a></li>
+<li><a href="/wiki/Emma_Prusch_Farm_Park" title="Emma Prusch Farm Park">Emma Prusch Farm Park</a></li>
+<li><a href="/wiki/Hakone_Gardens" title="Hakone Gardens">Hakone Gardens</a></li>
+<li><a href="/wiki/Hollyhill_Hummingbird_Farm" title="Hollyhill Hummingbird Farm">Hollyhill Hummingbird Farm</a></li>
+<li><a href="/wiki/Japanese_Friendship_Garden_(Kelley_Park)" title="Japanese Friendship Garden (Kelley Park)">Japanese Friendship Garden</a></li>
+<li><a href="/wiki/Overfelt_Gardens" title="Overfelt Gardens">Overfelt Gardens</a></li>
+<li><a href="/wiki/San_Jose_Municipal_Rose_Garden" title="San Jose Municipal Rose Garden">SJ Municipal Rose Garden</a></li>
+<li><a href="/wiki/Stanford_University_Arboretum" title="Stanford University Arboretum">Stanford Arboretum</a></li>
+<li><a href="/wiki/Villa_Montalvo" title="Villa Montalvo">Villa Montalvo Arboretum</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #ffc94b">Cultural</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/American_Musical_Theatre_of_San_Jose" title="American Musical Theatre of San Jose">American Musical Theatre of SJ</a></li>
+<li><a href="/wiki/Ballet_San_Jose" title="Ballet San Jose">Ballet San Jose</a></li>
+<li><a href="/wiki/Cathedral_Basilica_of_St._Joseph_(San_Jose,_California)" title="Cathedral Basilica of St. Joseph (San Jose, California)">Cathedral Basilica of St. Joseph</a></li>
+<li><a href="/wiki/The_Choral_Project" title="The Choral Project">Choral Project</a></li>
+<li><a href="/wiki/De_Saisset_Museum" title="De Saisset Museum">De Saisset Museum</a></li>
+<li><a href="/wiki/Dr._Martin_Luther_King,_Jr._Library" title="Dr. Martin Luther King, Jr. Library">Dr. Martin Luther King, Jr. Library</a></li>
+<li><a href="/wiki/Gurdwara_Sahib_of_San_Jose" title="Gurdwara Sahib of San Jose">Gurdwara Sahib</a></li>
+<li><a href="/wiki/Ira_F._Brilliant_Center_for_Beethoven_Studies" title="Ira F. Brilliant Center for Beethoven Studies">Ira F. Brilliant Center for Beethoven Studies</a></li>
+<li><a href="/wiki/Mexican_Heritage_Plaza" title="Mexican Heritage Plaza">Mexican Heritage Plaza</a></li>
+<li><a href="/wiki/Opera_San_Jos%C3%A9" title="Opera San José">Opera San José</a></li>
+<li><a href="/wiki/San_Jose_City_Hall" title="San Jose City Hall">SJ City Hall</a></li>
+<li><a href="/wiki/San_Jose_Flea_Market" title="San Jose Flea Market">SJ Flea Market</a></li>
+<li><a href="/wiki/San_Jose_Improv" title="San Jose Improv">SJ Improv</a></li>
+<li><a href="/wiki/San_Jose_Museum_of_Art" title="San Jose Museum of Art">SJ Museum of Art</a></li>
+<li><a href="/wiki/San_Jose_Repertory_Theatre" title="San Jose Repertory Theatre">SJ Rep Theatre</a></li>
+<li><a href="/wiki/SjDANCEco" title="SjDANCEco">sjDANCEco</a></li>
+<li><a href="/wiki/Triton_Museum_of_Art" title="Triton Museum of Art">Triton Museum of Art</a></li>
+<li><a href="/wiki/Viet_Museum" title="Viet Museum">Viet Museum</a></li>
+<li><a href="/wiki/Villa_Montalvo" title="Villa Montalvo">Villa Montalvo</a></li>
+<li><a href="/wiki/Vivace_Youth_Chorus_of_San_Jose" title="Vivace Youth Chorus of San Jose">Vivace Youth Chorus</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #ffc94b">Event venues</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Levi%27s_Stadium" title="Levi's Stadium">Levi's Stadium</a></li>
+<li><a href="/wiki/Buck_Shaw_Stadium" title="Buck Shaw Stadium">Buck Shaw Stadium</a></li>
+<li><a href="/wiki/SAP_Center_at_San_Jose" title="SAP Center at San Jose">SAP Center at San Jose</a></li>
+<li><a href="/wiki/PAL_Stadium" title="PAL Stadium">PAL Stadium</a></li>
+<li><a href="/wiki/Santa_Clara_Convention_Center" title="Santa Clara Convention Center">SC Convention Center</a></li>
+<li><a href="/wiki/San_Jose_Center_for_the_Performing_Arts" title="San Jose Center for the Performing Arts">San Jose Center for the Performing Arts</a></li>
+<li><a href="/wiki/City_National_Civic" title="City National Civic">City National Civic</a></li>
+<li><a href="/wiki/San_Jose_Convention_Center" title="San Jose Convention Center">SJ Convention Center</a></li>
+<li><a href="/wiki/San_Jose_Municipal_Stadium" title="San Jose Municipal Stadium">SJ Municipal Stadium</a></li>
+<li><a href="/wiki/Event_Center_Arena" title="Event Center Arena">SJSU Event Center Arena</a></li>
+<li><a href="/wiki/Shoreline_Amphitheatre" title="Shoreline Amphitheatre">Shoreline Amphitheatre</a></li>
+<li><a href="/wiki/Spartan_Stadium_(San_Jose,_California)" title="Spartan Stadium (San Jose, California)">Spartan Stadium</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #ffc94b">Events</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/BayCon" title="BayCon">BayCon</a></li>
+<li><a href="/wiki/Cinequest_Film_Festival" title="Cinequest Film Festival">Cinequest Film Festival</a></li>
+<li><a href="/wiki/FanimeCon" title="FanimeCon">FanimeCon</a></li>
+<li><a href="/wiki/Livestrong_Foundation#Livestrong_Challenge" title="Livestrong Foundation">LiveStrong Challenge</a></li>
+<li><a href="/wiki/San_Jose_Holiday_Parade" title="San Jose Holiday Parade">SJ Holiday Parade</a></li>
+<li><a href="/wiki/San_Jose_Jazz_Festival" title="San Jose Jazz Festival">SJ Jazz Festival</a></li>
+<li><a href="/wiki/Stanford_Jazz_Workshop" title="Stanford Jazz Workshop">Stanford Jazz Festival</a></li>
+<li><a href="/wiki/Christmas_in_the_Park_(San_Jose)" title="Christmas in the Park (San Jose)">Christmas in the Park</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #ffc94b">Historical</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Circle_of_Palms_Plaza" title="Circle of Palms Plaza">Circle of Palms</a></li>
+<li><a href="/wiki/De_Anza_Hotel" title="De Anza Hotel">De Anza Hotel</a></li>
+<li><a href="/wiki/Hangar_One_(Mountain_View,_California)" title="Hangar One (Mountain View, California)">Hangar One</a></li>
+<li><a href="/wiki/History_Park_at_Kelley_Park" title="History Park at Kelley Park">History Park at Kelley Park</a></li>
+<li><a href="/wiki/HP_Garage" title="HP Garage">HP Garage</a></li>
+<li><a href="/wiki/Japanese_American_Museum_of_San_Jose" title="Japanese American Museum of San Jose">Japanese American Museum</a></li>
+<li><a href="/wiki/New_Almaden" title="New Almaden">New Almaden</a></li>
+<li><a href="/wiki/Peralta_Adobe" title="Peralta Adobe">Peralta Adobe</a></li>
+<li><a href="/wiki/Portuguese_Historical_Museum" title="Portuguese Historical Museum">Portuguese Historical Museum</a></li>
+<li><a href="/wiki/Rengstorff_House" title="Rengstorff House">Rengstorff House</a></li>
+<li><a href="/wiki/Rosicrucian_Egyptian_Museum" title="Rosicrucian Egyptian Museum">Rosicrucian Egyptian Museum</a></li>
+<li><a href="/wiki/San_Jose_Museum_of_Quilts_%26_Textiles" title="San Jose Museum of Quilts &amp; Textiles">SJ Museum of Quilts &amp; Textiles</a></li>
+<li><strong class="selflink">Winchester Mystery House</strong></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #ffc94b">Parks / Trails</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Almaden_Quicksilver_County_Park" title="Almaden Quicksilver County Park">Almaden Quicksilver County Park</a></li>
+<li><a href="/wiki/Alum_Rock_Park" title="Alum Rock Park">Alum Rock Park</a></li>
+<li><a href="/wiki/Anderson_Lake_(California)" title="Anderson Lake (California)">Anderson Lake</a></li>
+<li><a href="/wiki/Bay_Area_Ridge_Trail" title="Bay Area Ridge Trail">Bay Area Ridge Trail</a></li>
+<li><a href="/wiki/Calero_Reservoir" title="Calero Reservoir">Calero Reservoir</a></li>
+<li><a href="/wiki/Castle_Rock_State_Park_(California)" title="Castle Rock State Park (California)">Castle Rock State Park</a></li>
+<li><a href="/wiki/Coyote_Lake_(Santa_Clara_County,_California)" title="Coyote Lake (Santa Clara County, California)">Coyote-Bear</a></li>
+<li><a href="/wiki/Ed_R._Levin_County_Park" title="Ed R. Levin County Park">Ed Levin Park</a></li>
+<li><a href="/wiki/Grant_Ranch_County_Park" title="Grant Ranch County Park">Grant Ranch County Park</a></li>
+<li><a href="/wiki/Guadalupe_River_Trail" title="Guadalupe River Trail">Guadalupe River Trail</a></li>
+<li><a href="/wiki/Henry_W._Coe_State_Park" title="Henry W. Coe State Park">Henry W. Coe State Park</a></li>
+<li><a href="/wiki/Kelley_Park" title="Kelley Park">Kelley Park</a></li>
+<li><a href="/wiki/Lake_Cunningham" title="Lake Cunningham">Lake Cunningham</a></li>
+<li><a href="/wiki/Alamitos_Creek" title="Alamitos Creek">Los Alamitos Creek Trail</a></li>
+<li><a href="/wiki/Los_Gatos_Creek_Trail" title="Los Gatos Creek Trail">Los Gatos Creek Trail</a></li>
+<li><a href="/wiki/Plaza_de_C%C3%A9sar_Ch%C3%A1vez" title="Plaza de César Chávez">Plaza de César Chávez</a></li>
+<li><a href="/wiki/Rancho_San_Antonio_County_Park" title="Rancho San Antonio County Park">Rancho San Antonio</a></li>
+<li><a href="/wiki/Rosicrucian_Park" title="Rosicrucian Park">Rosicrucian Park</a></li>
+<li><a href="/wiki/Sanborn_Park" title="Sanborn Park">Sanborn Park</a></li>
+<li><a href="/wiki/San_Francisco_Bay_Trail" title="San Francisco Bay Trail">SF Bay Trail</a></li>
+<li><a href="/wiki/Shoreline_Park,_Mountain_View" title="Shoreline Park, Mountain View">Shoreline Park</a></li>
+<li><a href="/wiki/Stevens_Creek_(California)" title="Stevens Creek (California)">Stevens Creek Trail</a></li>
+<li><a href="/wiki/Uvas_Canyon_County_Park" title="Uvas Canyon County Park">Uvas Canyon</a></li>
+<li><a href="/wiki/Uvas_Creek_Preserve" title="Uvas Creek Preserve">Uvas Creek Preserve</a></li>
+<li><a href="/wiki/Uvas_Reservoir" title="Uvas Reservoir">Uvas Reservoir</a></li>
+<li><a href="/wiki/Vasona_Park" title="Vasona Park">Vasona Park</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #ffc94b">Science / Tech / Education</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Children%27s_Discovery_Museum_of_San_Jose" title="Children's Discovery Museum of San Jose">Children's Discovery Museum</a></li>
+<li><a href="/wiki/Computer_History_Museum" title="Computer History Museum">Computer History Museum</a></li>
+<li><a href="/wiki/Googleplex" title="Googleplex">Googleplex</a></li>
+<li><a href="/wiki/Intel_Museum" title="Intel Museum">Intel Museum</a></li>
+<li><a href="/wiki/Laser_Quest" title="Laser Quest">Laser Quest</a></li>
+<li><a href="/wiki/Lick_Observatory" title="Lick Observatory">Lick Observatory</a></li>
+<li><a href="/wiki/NASA_Ames_Exploration_Center" title="NASA Ames Exploration Center">NASA Ames Exploration Center</a></li>
+<li><a href="/wiki/San_Jose_State_University" title="San Jose State University">SJSU</a></li>
+<li><a href="/wiki/Santa_Clara_University" title="Santa Clara University">SCU</a></li>
+<li><a href="/wiki/Stanford_University" title="Stanford University">Stanford</a></li>
+<li><a href="/wiki/The_Tech_Museum_of_Innovation" title="The Tech Museum of Innovation">The Tech Museum of Innovation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #ffc94b">Shopping</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Eastridge" title="Eastridge">Eastridge</a></li>
+<li><a href="/wiki/Great_Mall_of_the_Bay_Area" title="Great Mall of the Bay Area">Great Mall</a></li>
+<li><a href="/wiki/Westfield_Oakridge" title="Westfield Oakridge">Oakridge</a></li>
+<li><a href="/wiki/PruneYard_Shopping_Center" title="PruneYard Shopping Center">PruneYard</a></li>
+<li><a href="/wiki/San_Antonio_Shopping_Center" title="San Antonio Shopping Center">San Antonio</a></li>
+<li><a href="/wiki/Santana_Row" title="Santana Row">Santana Row</a></li>
+<li><a href="/wiki/Stanford_Shopping_Center" title="Stanford Shopping Center">Stanford</a></li>
+<li><a href="/wiki/Vallco_Shopping_Mall" title="Vallco Shopping Mall">Vallco</a></li>
+<li><a href="/wiki/Westfield_Valley_Fair" title="Westfield Valley Fair">Valley Fair</a></li>
+<li><a href="/wiki/Westgate_Mall_(San_Jose)" title="Westgate Mall (San Jose)">Westgate</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #ffc94b">Theme parks and tours</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/William_%22Billy%22_Jones#The_.22Wildcat_Railroad.22" title="William &quot;Billy&quot; Jones">Billy Jones Wildcat Railroad</a></li>
+<li><a href="/wiki/California%27s_Great_America" title="California's Great America">California's Great America</a></li>
+<li><a href="/wiki/Gilroy_Gardens" title="Gilroy Gardens">Gilroy Gardens</a></li>
+<li><a href="/wiki/Happy_Hollow_Park_%26_Zoo" title="Happy Hollow Park &amp; Zoo">Happy Hollow Park &amp; Zoo</a></li>
+<li><a href="/wiki/Raging_Waters#Raging_Waters_San_Jose" title="Raging Waters">Raging Waters</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #ffc94b">Vineyards / Wineries</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Byington_Vineyard" title="Byington Vineyard">Byington Vineyard</a></li>
+<li><a href="/wiki/J._Lohr_Vineyards_and_Wines" title="J. Lohr Vineyards and Wines">J Lohr Vineyards and Wines</a></li>
+<li><a href="/wiki/Mountain_Winery" title="Mountain Winery">Mountain Winery</a></li>
+<li><a href="/wiki/Picchetti_Brothers_Winery" title="Picchetti Brothers Winery">Picchetti Brothers Winery</a></li>
+<li><a href="/wiki/Savannah-Chanelle_Vineyards" title="Savannah-Chanelle Vineyards">Savannah-Chanelle Vineyards</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1014
+CPU time usage: 0.876 seconds
+Real time usage: 6.034 seconds
+Preprocessor visited node count: 8779/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 123654/2097152 bytes
+Template argument size: 7163/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 10/500
+Lua time usage: 0.244/10.000 seconds
+Lua memory usage: 4.94 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 5811.528      1 - -total
+ 31.95% 1857.038      1 - Template:Infobox_NRHP
+ 31.66% 1840.090      1 - Template:Infobox
+ 18.91% 1098.898      1 - Template:Multiple_issues
+ 18.78% 1091.408      3 - Template:Ambox
+ 17.01%  988.422      1 - Template:Coord
+ 16.20%  941.536      2 - Template:ConvertAbbrev
+ 15.76%  915.918      1 - Template:Reflist
+ 15.38%  893.538      2 - Template:ConvertAbbrev/ISO_3166-2/US
+ 15.20%  883.632      1 - Template:Update
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:268137-0!*!0!!en!4!* and timestamp 20150206143917 and revision id 645358971
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from &quot;<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Winchester_Mystery_House&amp;oldid=645358971">http://en.wikipedia.org/w/index.php?title=Winchester_Mystery_House&amp;oldid=645358971</a>&quot;					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Visitor_attractions_in_Silicon_Valley" title="Category:Visitor attractions in Silicon Valley">Visitor attractions in Silicon Valley</a></li><li><a href="/wiki/Category:History_of_San_Jose,_California" title="Category:History of San Jose, California">History of San Jose, California</a></li><li><a href="/wiki/Category:Folly_buildings_in_the_United_States" title="Category:Folly buildings in the United States">Folly buildings in the United States</a></li><li><a href="/wiki/Category:Historic_house_museums_in_California" title="Category:Historic house museums in California">Historic house museums in California</a></li><li><a href="/wiki/Category:Buildings_and_structures_in_San_Jose,_California" title="Category:Buildings and structures in San Jose, California">Buildings and structures in San Jose, California</a></li><li><a href="/wiki/Category:California_Historical_Landmarks" title="Category:California Historical Landmarks">California Historical Landmarks</a></li><li><a href="/wiki/Category:National_Register_of_Historic_Places_in_Santa_Clara_County,_California" title="Category:National Register of Historic Places in Santa Clara County, California">National Register of Historic Places in Santa Clara County, California</a></li><li><a href="/wiki/Category:Houses_on_the_National_Register_of_Historic_Places_in_California" title="Category:Houses on the National Register of Historic Places in California">Houses on the National Register of Historic Places in California</a></li><li><a href="/wiki/Category:Houses_completed_in_1922" title="Category:Houses completed in 1922">Houses completed in 1922</a></li><li><a href="/wiki/Category:Houses_in_California" title="Category:Houses in California">Houses in California</a></li><li><a href="/wiki/Category:Reportedly_haunted_locations_in_California" title="Category:Reportedly haunted locations in California">Reportedly haunted locations in California</a></li><li><a href="/wiki/Category:Unfinished_buildings_and_structures_in_the_United_States" title="Category:Unfinished buildings and structures in the United States">Unfinished buildings and structures in the United States</a></li><li><a href="/wiki/Category:Biographical_museums_in_California" title="Category:Biographical museums in California">Biographical museums in California</a></li><li><a href="/wiki/Category:Museums_in_San_Jose,_California" title="Category:Museums in San Jose, California">Museums in San Jose, California</a></li><li><a href="/wiki/Category:Queen_Anne_architecture_in_California" title="Category:Queen Anne architecture in California">Queen Anne architecture in California</a></li><li><a href="/wiki/Category:Victorian_architecture_in_California" title="Category:Victorian architecture in California">Victorian architecture in California</a></li><li><a href="/wiki/Category:American_folklore" title="Category:American folklore">American folklore</a></li><li><a href="/wiki/Category:Houses_in_Santa_Clara_County,_California" title="Category:Houses in Santa Clara County, California">Houses in Santa Clara County, California</a></li><li><a href="/wiki/Category:Wooden_houses" title="Category:Wooden houses">Wooden houses</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_May_2013" title="Category:Articles with dead external links from May 2013">Articles with dead external links from May 2013</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_August_2013" title="Category:Articles with dead external links from August 2013">Articles with dead external links from August 2013</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2014" title="Category:Articles with unsourced statements from July 2014">Articles with unsourced statements from July 2014</a></li><li><a href="/wiki/Category:Articles_with_obsolete_information_from_April_2013" title="Category:Articles with obsolete information from April 2013">Articles with obsolete information from April 2013</a></li><li><a href="/wiki/Category:All_Wikipedia_articles_in_need_of_updating" title="Category:All Wikipedia articles in need of updating">All Wikipedia articles in need of updating</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_August_2011" title="Category:Articles needing additional references from August 2011">Articles needing additional references from August 2011</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:All_articles_with_specifically_marked_weasel-worded_phrases" title="Category:All articles with specifically marked weasel-worded phrases">All articles with specifically marked weasel-worded phrases</a></li><li><a href="/wiki/Category:Articles_with_specifically_marked_weasel-worded_phrases_from_June_2014" title="Category:Articles with specifically marked weasel-worded phrases from June 2014">Articles with specifically marked weasel-worded phrases from June 2014</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2010" title="Category:Articles with unsourced statements from January 2010">Articles with unsourced statements from January 2010</a></li><li><a href="/wiki/Category:Commons_category_template_with_no_category_set" title="Category:Commons category template with no category set">Commons category template with no category set</a></li><li><a href="/wiki/Category:Commons_category_with_page_title_same_as_on_Wikidata" title="Category:Commons category with page title same as on Wikidata">Commons category with page title same as on Wikidata</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Winchester+Mystery+House&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Winchester+Mystery+House" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Winchester_Mystery_House"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Winchester_Mystery_House"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Winchester_Mystery_House" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Winchester_Mystery_House&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Winchester_Mystery_House&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Winchester_Mystery_House" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Winchester_Mystery_House" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Winchester_Mystery_House&amp;oldid=645358971" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Winchester_Mystery_House&amp;action=info" title="More information about this page">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q608039" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Winchester_Mystery_House&amp;id=645358971" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Winchester+Mystery+House">Create a book</a></li>
+													<li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Winchester+Mystery+House&amp;oldid=645358971&amp;writer=rdf2latex">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Winchester_Mystery_House&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Winchester_House" title="Winchester House – German" lang="de" hreflang="de">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Mansi%C3%B3n_Winchester" title="Mansión Winchester – Spanish" lang="es" hreflang="es">Español</a></li>
+													<li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%B9%D9%85%D8%A7%D8%B1%D8%AA_%D9%88%DB%8C%D9%86%DA%86%D8%B3%D8%AA%D8%B1" title="عمارت وینچستر – Persian" lang="fa" hreflang="fa">فارسی</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Myst%C3%A9rieuse_Maison_Winchester" title="Mystérieuse Maison Winchester – French" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EC%9C%88%EC%B2%B4%EC%8A%A4%ED%84%B0_%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC_%ED%95%98%EC%9A%B0%EC%8A%A4" title="윈체스터 미스터리 하우스 – Korean" lang="ko" hreflang="ko">한국어</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Winchester_House" title="Winchester House – Italian" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%91%D7%99%D7%AA_%D7%94%D7%9E%D7%A1%D7%AA%D7%95%D7%A8%D7%99%D7%9F_%D7%A9%D7%9C_%D7%95%D7%99%D7%A0%D7%A6%27%D7%A1%D7%98%D7%A8" title="בית המסתורין של וינצ&#039;סטר – Hebrew" lang="he" hreflang="he">עברית</a></li>
+													<li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Winchester_Mystery_House" title="Winchester Mystery House – Dutch" lang="nl" hreflang="nl">Nederlands</a></li>
+													<li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%81%E3%82%A7%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%BB%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%8F%E3%82%A6%E3%82%B9" title="ウィンチェスター・ミステリー・ハウス – Japanese" lang="ja" hreflang="ja">日本語</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Dom_pani_Winchester" title="Dom pani Winchester – Polish" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Winchester_Mystery_House" title="Winchester Mystery House – Portuguese" lang="pt" hreflang="pt">Português</a></li>
+													<li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BC_%D0%92%D0%B8%D0%BD%D1%87%D0%B5%D1%81%D1%82%D0%B5%D1%80%D0%BE%D0%B2" title="Дом Винчестеров – Russian" lang="ru" hreflang="ru">Русский</a></li>
+													<li class="interlanguage-link interwiki-sr"><a href="//sr.wikipedia.org/wiki/%D0%92%D0%B8%D0%BD%D1%87%D0%B5%D1%81%D1%82%D0%B5%D1%80%D1%81%D0%BAa_%D0%BA%D1%83%D1%9B%D0%B0" title="Винчестерскa кућа – Serbian" lang="sr" hreflang="sr">Српски / srpski</a></li>
+													<li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E6%BA%AB%E5%BE%B9%E6%96%AF%E7%89%B9%E7%A5%9E%E7%A5%95%E5%B1%8B" title="溫徹斯特神祕屋 – Chinese" lang="zh" hreflang="zh">中文</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q608039#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 2 February 2015, at 21:20.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Winchester_Mystery_House&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" srcset="//bits.wikimedia.org/images/wikimedia-button-1.5x.png 1.5x, //bits.wikimedia.org/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.25wmf15/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.eventLogging.subscriber","ext.wikimediaEvents.statsd","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":128,"wgHostname":"mw1086"});
+}</script>
+	</body>
+</html>

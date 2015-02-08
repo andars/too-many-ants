@@ -1,0 +1,941 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Pi Day - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.25wmf15" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Pi_Day" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Pi_Day&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Pi_Day&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Pi_Day" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/Pi_Day" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.rtlcite%2Cwikihiero%2CwikimediaBadges%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Pi_Day","wgTitle":"Pi Day","wgCurRevisionId":642552711,"wgRevisionId":642552711,"wgArticleId":25013,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using web citations with no URL","Pages using citations with accessdate and no URL","Holidays and observances by frequency (annual)","Holidays and observances by duration (1 day)","Holidays and observances by scheduling (same day each year)","Articles with Infobox holidays","Infobox holiday fixed day","Commons category with local link same as on Wikidata","Unofficial observances","March observances","July observances","Pi","Secular holidays","Recurring events established in 1988","Science commemorations","Fixed holidays"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Pi_Day","wgRelevantArticleId":25013,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":4096,"namespacesWithSubpages":{"6":0,"8":0,"1":true,"2":true,"3":true,"4":true,"5":true,"7":true,"9":true,"10":true,"11":true,"12":true,"13":true,"14":true,"15":true,"100":true,"101":true,"102":true,"103":true,"104":true,"105":true,"106":true,"107":true,"108":true,"109":true,"110":true,"111":true,"830":true,"831":true,"447":true,"2600":false,"828":true,"829":true}},"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q179736"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});},{},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:94007ea073e20ad4a3cdce36b2f2e369 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf15/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Pi_Day skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Pi Day</span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">For National Pie Day, see <a href="/wiki/American_Pie_Council" title="American Pie Council">American Pie Council</a>.</div>
+<table class="infobox vevent" style="width:22em">
+<tr>
+<th colspan="2" class="hd" style="text-align:center;font-size:125%;font-weight:bold;background-color: transparent">Pi Day</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Prince-of-pi.jpg" class="image"><img alt="Prince-of-pi.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Prince-of-pi.jpg/240px-Prince-of-pi.jpg" width="240" height="292" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Prince-of-pi.jpg/360px-Prince-of-pi.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/e/e1/Prince-of-pi.jpg 2x" data-file-width="377" data-file-height="459" /></a>
+<div style="caption">Larry Shaw, the organizer of the first Pi Day celebration at the <a href="/wiki/Exploratorium" title="Exploratorium">Exploratorium</a> in <a href="/wiki/San_Francisco" title="San Francisco">San Francisco</a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Significance</th>
+<td class="summary">3, 1, and 4 are the three most significant figures of <span class="texhtml">π</span></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Celebrations</th>
+<td><a href="/wiki/Pie" title="Pie">Pie</a> eating, discussions about <span class="texhtml">π</span><sup id="cite_ref-landau_1-0" class="reference"><a href="#cite_note-landau-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Date</th>
+<td><a href="/wiki/March_14" title="March 14">March 14</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Next&#160;time</th>
+<td><b>14 March 2015</b><span style="display:none">&#160;(<span class="dtstart">2015-03-14</span>)</span></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Frequency</th>
+<td><a href="/wiki/Category:Holidays_and_observances_by_frequency_(annual)" title="Category:Holidays and observances by frequency (annual)">annual</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Related&#160;to</th>
+<td>Pi Approximation Day</td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Pi_pie2.jpg" class="image"><img alt="Pi Pie at Delft University" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Pi_pie2.jpg/220px-Pi_pie2.jpg" width="220" height="220" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Pi_pie2.jpg/330px-Pi_pie2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Pi_pie2.jpg/440px-Pi_pie2.jpg 2x" data-file-width="577" data-file-height="576" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Pi_pie2.jpg" class="internal" title="Enlarge"></a></div>
+Pi Pie at <a href="/wiki/Delft_University" title="Delft University" class="mw-redirect">Delft University</a></div>
+</div>
+</div>
+<table class="vertical-navbox nowraplinks hlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<td style="padding-top:0.4em;line-height:1.2em">Part of <a href="/wiki/Category:Pi" title="Category:Pi">a series of articles</a> on the</td>
+</tr>
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em">mathematical constant <a href="/wiki/Pi" title="Pi"><span class="texhtml">π</span></a></th>
+</tr>
+<tr>
+<td style="padding:0.2em 0 0.4em"><img alt="PI.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/PI.svg/220px-PI.svg.png" width="220" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/PI.svg/330px-PI.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/PI.svg/440px-PI.svg.png 2x" data-file-width="440" data-file-height="100" /></td>
+</tr>
+<tr>
+<th style="padding:0.1em">Uses</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Area_of_a_disk" title="Area of a disk">Area of disk</a></li>
+<li><a href="/wiki/Circumference" title="Circumference">Circumference</a></li>
+<li><a href="/wiki/List_of_formulae_involving_%CF%80" title="List of formulae involving π">Use in other formulae</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em">Properties</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Proof_that_%CF%80_is_irrational" title="Proof that π is irrational">Irrationality</a></li>
+<li><a href="/wiki/Lindemann%E2%80%93Weierstrass_theorem" title="Lindemann–Weierstrass theorem">Transcendence</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em">Value</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Proof_that_22/7_exceeds_%CF%80" title="Proof that 22/7 exceeds π">Less than 22/7</a></li>
+<li><a href="/wiki/Approximations_of_%CF%80" title="Approximations of π">Approximations</a></li>
+<li><a href="/wiki/Piphilology" title="Piphilology">Memorization</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em">People</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Method_of_exhaustion#Use_by_Archimedes" title="Method of exhaustion">Archimedes</a></li>
+<li><a href="/wiki/Liu_Hui%27s_%CF%80_algorithm" title="Liu Hui's π algorithm">Liu Hui</a></li>
+<li><a href="/wiki/Zu_Chongzhi" title="Zu Chongzhi">Zu Chongzhi</a></li>
+<li><a href="/wiki/Aryabhata" title="Aryabhata">Aryabhata</a></li>
+<li><a href="/wiki/Madhava_of_Sangamagrama" title="Madhava of Sangamagrama">Madhava</a></li>
+<li><a href="/wiki/Ludolph_van_Ceulen" title="Ludolph van Ceulen">Ludolph van Ceulen</a></li>
+<li><a href="/wiki/Seki_Takakazu#Calculation_of_Pi" title="Seki Takakazu">Seki Takakazu</a></li>
+<li><a href="/wiki/Takebe_Katahiro#Legacy" title="Takebe Katahiro" class="mw-redirect">Takebe Katahiro</a></li>
+<li><a href="/wiki/William_Jones_(mathematician)" title="William Jones (mathematician)">William Jones</a></li>
+<li><a href="/wiki/John_Machin" title="John Machin">John Machin</a></li>
+<li><a href="/wiki/William_Shanks" title="William Shanks">William Shanks</a></li>
+<li><a href="/wiki/John_Wrench" title="John Wrench">John Wrench</a></li>
+<li><a href="/wiki/Chudnovsky_brothers" title="Chudnovsky brothers">Chudnovsky brothers</a></li>
+<li><a href="/wiki/Yasumasa_Kanada" title="Yasumasa Kanada">Yasumasa Kanada</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em">History</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Chronology_of_computation_of_%CF%80" title="Chronology of computation of π">Chronology</a></li>
+<li><a href="/wiki/A_History_of_Pi" title="A History of Pi">Book</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em">In culture</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Indiana_Pi_Bill" title="Indiana Pi Bill">Legislation</a></li>
+<li><strong class="selflink">Holiday</strong></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em">Related topics</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Squaring_the_circle" title="Squaring the circle">Squaring the circle</a></li>
+<li><a href="/wiki/Basel_problem" title="Basel problem">Basel problem</a></li>
+<li><a href="/wiki/Feynman_point" title="Feynman point">Feynman point</a></li>
+<li><a href="/wiki/List_of_topics_related_to_%CF%80" title="List of topics related to π">Other topics related to <span class="texhtml">π</span></a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Pi_box" title="Template:Pi box"><span title="View this template">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Pi_box" title="Template talk:Pi box"><span title="Discuss this template">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Pi_box&amp;action=edit"><span title="Edit this template">e</span></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p><b>Pi Day</b> is an annual celebration commemorating the <a href="/wiki/Mathematical_constant" title="Mathematical constant">mathematical constant</a> <a href="/wiki/Pi" title="Pi"><span class="texhtml">π</span> (pi)</a>. Pi Day is observed on March 14 (or 3/14 in the <i>month/day</i> <a href="/wiki/Date_format" title="Date format" class="mw-redirect">date format</a>), since 3, 1, and 4 are the first three <a href="/wiki/Significant_figures" title="Significant figures">significant digits</a> of <span class="texhtml">π</span> in decimal form. In 2009, the <a href="/wiki/United_States_House_of_Representatives" title="United States House of Representatives">United States House of Representatives</a> supported the designation of Pi Day.<sup id="cite_ref-HORRes_2-0" class="reference"><a href="#cite_note-HORRes-2"><span>[</span>2<span>]</span></a></sup></p>
+<p><b>Pi Approximation Day</b> is observed on July 22 (or 22/7 in the <i>day/month</i> date format), since the <a href="/wiki/Fraction_(mathematics)" title="Fraction (mathematics)">fraction</a> <sup>22</sup>⁄<sub>7</sub> is a common <a href="/wiki/Approximations_of_%CF%80" title="Approximations of π">approximation of <span class="texhtml">π</span></a>, which is accurate to three decimal places and dates from <a href="/wiki/Archimedes" title="Archimedes">Archimedes</a>.<sup id="cite_ref-VerizonTodayInHistory_3-0" class="reference"><a href="#cite_note-VerizonTodayInHistory-3"><span>[</span>3<span>]</span></a></sup></p>
+<p>A <a href="/wiki/Sequential_time" title="Sequential time">sequential time</a> will occur on 3/14/15 at 9:26:53 following the sequence of pi.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Observance"><span class="tocnumber">2</span> <span class="toctext">Observance</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pi_Day&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The earliest known official or large-scale celebration of Pi Day was organized by Larry Shaw in 1988 at the <a href="/wiki/Exploratorium" title="Exploratorium">San Francisco Exploratorium</a>,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup> where Shaw worked as a <a href="/wiki/Physicist" title="Physicist">physicist</a>,<sup id="cite_ref-ABC_-_Science_-_10_Mar_2011_-_infinite_appeal_of_pi_5-0" class="reference"><a href="#cite_note-ABC_-_Science_-_10_Mar_2011_-_infinite_appeal_of_pi-5"><span>[</span>5<span>]</span></a></sup> with staff and public marching around one of its circular spaces, then consuming fruit pies.<sup id="cite_ref-fresnobee_6-0" class="reference"><a href="#cite_note-fresnobee-6"><span>[</span>6<span>]</span></a></sup> The Exploratorium continues to hold Pi Day celebrations.<sup id="cite_ref-exploratorium_7-0" class="reference"><a href="#cite_note-exploratorium-7"><span>[</span>7<span>]</span></a></sup></p>
+<p>On March 12, 2009, the U.S. House of Representatives passed a <a href="/wiki/Non-binding_resolution" title="Non-binding resolution">non-binding resolution</a> (<a href="//en.wikisource.org/wiki/H._RES._224_Supporting_the_designation_of_Pi_Day,_and_for_other_purposes" class="extiw" title="wikisource:H. RES. 224 Supporting the designation of Pi Day, and for other purposes">HRES 224</a>),<sup id="cite_ref-HORRes_2-1" class="reference"><a href="#cite_note-HORRes-2"><span>[</span>2<span>]</span></a></sup> recognizing March 14, 2009 as National Pi Day.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></p>
+<p>For Pi Day 2010, Google presented a <a href="/wiki/Google_Doodle" title="Google Doodle">Google Doodle</a> celebrating the holiday, with the word Google laid over images of circles and pi symbols.<sup id="cite_ref-GoogleDoodle_9-0" class="reference"><a href="#cite_note-GoogleDoodle-9"><span>[</span>9<span>]</span></a></sup></p>
+<p>The entire month of March 2014 (3/14) has been observed by some to be "Pi Month".<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup></p>
+<p>In the year 2015, Pi Day will have special significance on 3/14/15 at 9:26:53 a.m. and p.m., with the date and time representing the first 10 digits of <span class="texhtml">π</span>.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup> That same second will also contain a precise instant corresponding to <i>all</i> of the digits of <span class="texhtml">π</span>.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup> However, some argue that 9:26:54 a.m. and p.m. on 3/14/15 are more accurate because of the 11th digit of <span class="texhtml">π</span> being 5, which would cause the 10th digit to round up to 4.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Observance">Observance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pi_Day&amp;action=edit&amp;section=2" title="Edit section: Observance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Pi Day has been observed in many ways, including eating <a href="/wiki/Pie" title="Pie">pie</a>, throwing <a href="/wiki/Pieing" title="Pieing">pies</a> and discussing the significance of the number <span class="texhtml">π</span>.<sup id="cite_ref-landau_1-1" class="reference"><a href="#cite_note-landau-1"><span>[</span>1<span>]</span></a></sup> Some schools hold competitions as to which student can recall Pi to the highest number of decimal places.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup></p>
+<p>The <a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">Massachusetts Institute of Technology</a> (MIT) has often mailed its <a href="/wiki/College_admissions_in_the_United_States#Application_process" title="College admissions in the United States">application decision letters</a> to prospective students for delivery on Pi Day.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup> Starting in 2012, MIT has announced it will post those decisions (privately) online on Pi Day at exactly 6:28&#160;pm, which they have called "Tau Time", to honor the rival numbers Pi and <a href="/wiki/Tau_(2%CF%80)" title="Tau (2π)" class="mw-redirect">Tau</a> equally.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>18<span>]</span></a></sup><sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup></p>
+<p>The town of <a href="/wiki/Princeton,_New_Jersey" title="Princeton, New Jersey">Princeton, New Jersey</a>, hosts numerous events in a combined celebration of Pi Day and <a href="/wiki/Albert_Einstein" title="Albert Einstein">Albert Einstein</a>'s birthday, which is also March 14.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>20<span>]</span></a></sup> Einstein lived in Princeton for more than twenty years while working at the <a href="/wiki/Institute_for_Advanced_Study" title="Institute for Advanced Study">Institute for Advanced Study</a>. In addition to pie eating and recitation contests, there is an annual Einstein look-alike contest.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>21<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pi_Day&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Mole_Day" title="Mole Day">Mole Day</a></li>
+<li><a href="/wiki/Square_Root_Day" title="Square Root Day">Square Root Day</a></li>
+<li><a href="/wiki/Sequential_time" title="Sequential time">Sequential time</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pi_Day&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-landau-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-landau_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-landau_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Landau, Elizabeth (2010-03-12). "On Pi Day, one number 'reeks of mystery'", <a href="/wiki/CNN" title="CNN">CNN</a>. Retrieved on 2010-03-14 from <a rel="nofollow" class="external free" href="http://www.cnn.com/2010/TECH/03/12/pi.day.math/index.html">http://www.cnn.com/2010/TECH/03/12/pi.day.math/index.html</a>.</span></li>
+<li id="cite_note-HORRes-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-HORRes_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-HORRes_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">United States. Cong. House. Supporting the designation of Pi Day, and for other purposes. 111th Cong. <a rel="nofollow" class="external text" href="http://thomas.loc.gov/cgi-bin/query/z?c111:H.RES.224:">Library of Congress</a>.</span></li>
+<li id="cite_note-VerizonTodayInHistory-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-VerizonTodayInHistory_3-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.thinkfinity.org/2010-07-22_pi-approximation-day">"Pi Approximation Day is celebrated today."</a>. <i>Today In History</i>. Verizon Foundation<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-01-30</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APi+Day&amp;rft.atitle=Pi+Approximation+Day+is+celebrated+today.&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.thinkfinity.org%2F2010-07-22_pi-approximation-day&amp;rft.jtitle=Today+In+History&amp;rft.pub=Verizon+Foundation&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="citation web">Berton, Justin (March 11, 2009). <a rel="nofollow" class="external text" href="http://articles.sfgate.com/2009-03-11/entertainment/17211858_1_pi-day-pi-shrine-einstein-s-birthday">"Any way you slice it, pi's transcendental"</a>. <i><a href="/wiki/San_Francisco_Chronicle" title="San Francisco Chronicle">San Francisco Chronicle</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-03-18</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APi+Day&amp;rft.atitle=Any+way+you+slice+it%2C+pi%27s+transcendental&amp;rft.au=Berton%2C+Justin&amp;rft.aufirst=Justin&amp;rft.aulast=Berton&amp;rft.date=March+11%2C+2009&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Farticles.sfgate.com%2F2009-03-11%2Fentertainment%2F17211858_1_pi-day-pi-shrine-einstein-s-birthday&amp;rft.jtitle=San+Francisco+Chronicle&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-ABC_-_Science_-_10_Mar_2011_-_infinite_appeal_of_pi-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-ABC_-_Science_-_10_Mar_2011_-_infinite_appeal_of_pi_5-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a href="/wiki/Jonathan_Borwein" title="Jonathan Borwein">Jonathan Borwein</a> (10 March 2011). <a rel="nofollow" class="external text" href="http://www.abc.net.au/science/articles/2011/03/10/3158045.htm?site=science/opinion">"The infinite appeal of pi"</a>. <a href="/wiki/Australian_Broadcasting_Corporation" title="Australian Broadcasting Corporation">Australian Broadcasting Corporation</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-03-13</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APi+Day&amp;rft.au=Jonathan+Borwein&amp;rft.aulast=Jonathan+Borwein&amp;rft.btitle=The+infinite+appeal+of+pi&amp;rft.date=10+March+2011&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.abc.net.au%2Fscience%2Farticles%2F2011%2F03%2F10%2F3158045.htm%3Fsite%3Dscience%2Fopinion&amp;rft.pub=Australian+Broadcasting+Corporation&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-fresnobee-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-fresnobee_6-0">^</a></b></span> <span class="reference-text"><span class="citation news">Adrian Apollo (March 10, 2007). <a rel="nofollow" class="external text" href="http://apollotutoring.com/pi_day.pdf">"A place where learning pi is a piece of cake"</a>. <a href="/wiki/The_Fresno_Bee" title="The Fresno Bee">The Fresno Bee</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APi+Day&amp;rft.au=Adrian+Apollo&amp;rft.aulast=Adrian+Apollo&amp;rft.btitle=A+place+where+learning+pi+is+a+piece+of+cake&amp;rft.date=March+10%2C+2007&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fapollotutoring.com%2Fpi_day.pdf&amp;rft.pub=The+Fresno+Bee&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-exploratorium-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-exploratorium_7-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.exploratorium.edu/pi/index.html">"Exploratorium 22nd Annual Pi Day"</a>. Exploratorium<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-01-31</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APi+Day&amp;rft.btitle=Exploratorium+22nd+Annual+Pi+Day&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.exploratorium.edu%2Fpi%2Findex.html&amp;rft.pub=Exploratorium&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><span class="citation news">McCullagh, Declan (March 11, 2009). <a rel="nofollow" class="external text" href="http://news.cnet.com/8301-13578_3-10194354-38.html?part=rss&amp;subj=news&amp;tag=2547-1_3-0-5">"National Pi Day? Congress makes it official"</a>. <i>Politics and Law</i> (<a href="/wiki/CNET_News" title="CNET News" class="mw-redirect">CNET News</a>)<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-03-14</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APi+Day&amp;rft.atitle=National+Pi+Day%3F+Congress+makes+it+official&amp;rft.aufirst=Declan&amp;rft.aulast=McCullagh&amp;rft.au=McCullagh%2C+Declan&amp;rft.date=March+11%2C+2009&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnews.cnet.com%2F8301-13578_3-10194354-38.html%3Fpart%3Drss%26subj%3Dnews%26tag%3D2547-1_3-0-5&amp;rft.jtitle=Politics+and+Law&amp;rft.pub=CNET+News&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-GoogleDoodle-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-GoogleDoodle_9-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.google.com/doodles/pi-day">"Pi Day"</a>. <i>Google Doodles</i>. Google<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-10-09</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APi+Day&amp;rft.atitle=Pi+Day&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.google.com%2Fdoodles%2Fpi-day&amp;rft.jtitle=Google+Doodles&amp;rft.pub=Google&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><span class="citation web">By Douglas Main (2014-03-14). <a rel="nofollow" class="external text" href="http://www.popsci.com/article/science/its-not-just-pi-day-its-pi-month">"It's Not Just Pi Day, It's Pi Month! | Popular Science"</a>. Popsci.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-07-22</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APi+Day&amp;rft.au=By+Douglas+Main&amp;rft.aulast=By+Douglas+Main&amp;rft.btitle=It%27s+Not+Just+Pi+Day%2C+It%27s+Pi+Month%21+%26%23124%3B+Popular+Science&amp;rft.date=2014-03-14&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.popsci.com%2Farticle%2Fscience%2Fits-not-just-pi-day-its-pi-month&amp;rft.pub=Popsci.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://cmns.umd.edu/news-events/events/1774">"Pi Month Celebration &amp; Circle of Discovery Award Presentation | College of Computer, Mathematical, and Natural Sciences"</a>. Cmns.umd.edu. 2014-03-11<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-07-22</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APi+Day&amp;rft.btitle=Pi+Month+Celebration+%26+Circle+of+Discovery+Award+Presentation+%26%23124%3B+College+of+Computer%2C+Mathematical%2C+and+Natural+Sciences&amp;rft.date=2014-03-11&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fcmns.umd.edu%2Fnews-events%2Fevents%2F1774&amp;rft.pub=Cmns.umd.edu&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><span class="citation web">Ro, Sam (March 13, 2014). <a rel="nofollow" class="external text" href="http://www.businessinsider.com/pi-day-2015-2014-3">"March 14, 2015 Will Be A Once-In-A-Century Thrill For Math Geeks"</a>. <i>Business Insider</i><span class="reference-accessdate">. Retrieved <span class="nowrap">13 March</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APi+Day&amp;rft.atitle=March+14%2C+2015+Will+Be+A+Once-In-A-Century+Thrill+For+Math+Geeks&amp;rft.aufirst=Sam&amp;rft.aulast=Ro&amp;rft.au=Ro%2C+Sam&amp;rft.date=March+13%2C+2014&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.businessinsider.com%2Fpi-day-2015-2014-3&amp;rft.jtitle=Business+Insider&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><span class="citation web">Rosenthal, Jeffrey S. (October 2014). <a rel="nofollow" class="external text" href="http://probability.ca/jeff/writing/PiInstant.html">"Pi Instant"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">23 October</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APi+Day&amp;rft.aufirst=Jeffrey+S.&amp;rft.aulast=Rosenthal&amp;rft.au=Rosenthal%2C+Jeffrey+S.&amp;rft.btitle=Pi+Instant&amp;rft.date=October+2014&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fprobability.ca%2Fjeff%2Fwriting%2FPiInstant.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><span class="citation web">"Happy Pi Day". <i><a rel="nofollow" class="external free" href="http://science.slashdot.org/comments.pl?sid=2036304&amp;cid=35480022">http://science.slashdot.org/comments.pl?sid=2036304&amp;cid=35480022</a></i>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APi+Day&amp;rft.atitle=Happy+Pi+Day&amp;rft.genre=article&amp;rft.jtitle=http%3A%2F%2Fscience.slashdot.org%2Fcomments.pl%3Fsid%3D2036304%26cid%3D35480022&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="display:none;font-size:100%" class="error citation-comment">Missing or empty <code style="color:inherit; border:inherit; padding:inherit;">|url=</code> (<a href="/wiki/Help:CS1_errors#cite_web_url" title="Help:CS1 errors">help</a>);</span> <span style="display:none;font-size:100%" class="error citation-comment"><code style="color:inherit; border:inherit; padding:inherit;">|accessdate=</code> requires <code style="color:inherit; border:inherit; padding:inherit;">|url=</code> (<a href="/wiki/Help:CS1_errors#accessdate_missing_url" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.youtube.com/watch?v=dfM1i9_Un_Y)">"Honiton Community College Pi Day - Jazmin Year 9"</a>. YouTube<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-07-22</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APi+Day&amp;rft.btitle=Honiton+Community+College+Pi+Day+-+Jazmin+Year+9&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdfM1i9_Un_Y%29&amp;rft.pub=YouTube&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.honitoncollege.devon.sch.uk/index.php/about-honiton-community-college/10-honiton-community-college-news/146-hcc-international-pi-day-champions">"HCC Celebrate International Pi Day"</a>. Honitoncollege.devon.sch.uk<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-07-22</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APi+Day&amp;rft.btitle=HCC+Celebrate+International+Pi+Day&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.honitoncollege.devon.sch.uk%2Findex.php%2Fabout-honiton-community-college%2F10-honiton-community-college-news%2F146-hcc-international-pi-day-champions&amp;rft.pub=Honitoncollege.devon.sch.uk&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><span class="citation news">McClan, Erin (March 14, 2007). <a rel="nofollow" class="external text" href="http://www.msnbc.msn.com/id/17605924/">"Pi fans meet March 14 (3.14, get it?)"</a>. <a href="/wiki/Msnbc.com" title="Msnbc.com" class="mw-redirect">msnbc.com</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2008-01-24</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APi+Day&amp;rft.aufirst=Erin&amp;rft.aulast=McClan&amp;rft.au=McClan%2C+Erin&amp;rft.btitle=Pi+fans+meet+March+14+%283.14%2C+get+it%3F%29&amp;rft.date=March+14%2C+2007&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.msnbc.msn.com%2Fid%2F17605924%2F&amp;rft.pub=msnbc.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://mitadmissions.org/blogs/entry/i-have-smashing-news">"I have SMASHING news!"</a>. MIT Admissions<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-03-12</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APi+Day&amp;rft.btitle=I+have+SMASHING+news%21&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fmitadmissions.org%2Fblogs%2Fentry%2Fi-have-smashing-news&amp;rft.pub=MIT+Admissions&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><span class="citation web">McGann, Matt. <a rel="nofollow" class="external text" href="http://mitadmissions.org/blogs/entry/pi-day-tau-time">"Pi Day, Tau Time"</a>. MIT Admissions<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-03-18</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APi+Day&amp;rft.aufirst=Matt&amp;rft.aulast=McGann&amp;rft.au=McGann%2C+Matt&amp;rft.btitle=Pi+Day%2C+Tau+Time&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fmitadmissions.org%2Fblogs%2Fentry%2Fpi-day-tau-time&amp;rft.pub=MIT+Admissions&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.visitprinceton.org/activities/events/piday/">"Princeton Pi Day &amp; Einstein Birthday Party"</a>. <i>Princeton Regional Convention and Visitors Bureau</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-12-27</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APi+Day&amp;rft.atitle=Princeton+Pi+Day+%26+Einstein+Birthday+Party&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.visitprinceton.org%2Factivities%2Fevents%2Fpiday%2F&amp;rft.jtitle=Princeton+Regional+Convention+and+Visitors+Bureau&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.visitprinceton.org/activities/events/piday/">"Princeton Pi Day &amp; Einstein Birthday Party"</a>. <i>Princeton Regional Convention and Visitors Bureau</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-03-14</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APi+Day&amp;rft.atitle=Princeton+Pi+Day+%26+Einstein+Birthday+Party&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.visitprinceton.org%2Factivities%2Fevents%2Fpiday%2F&amp;rft.jtitle=Princeton+Regional+Convention+and+Visitors+Bureau&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pi_Day&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="//commons.wikimedia.org/wiki/Category:Pi_Day" class="extiw" title="commons:Category:Pi Day">Pi Day</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.exploratorium.edu/pi/">Exploratorium's Pi Day Web Site</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.npr.org/blogs/thetwo-way/2010/03/pi_day.html">NPR provides a "Pi Rap" audiovideo</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.piday.org">Pi Day</a></li>
+<li><a rel="nofollow" class="external text" href="http://global.christianpost.com/news/pi-day-how-to-celebrate-3-14-71391/">Pi Day: How to Celebrate 3.14</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible uncollapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Science_commemorative_events" title="Template:Science commemorative events"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Science_commemorative_events" title="Template talk:Science commemorative events"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Science_commemorative_events&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%">Events commemorating achievements in the <a href="/wiki/Science" title="Science">sciences</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Anniversary celebrations</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alfred_Russel_Wallace_centenary" title="Alfred Russel Wallace centenary">Alfred Russel Wallace centenary</a></li>
+<li><a href="/wiki/Darwin_Centennial_Celebration_(1959)" title="Darwin Centennial Celebration (1959)">Darwin Centennial Celebration (1959)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Regular holidays</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ada_Lovelace_Day" title="Ada Lovelace Day" class="mw-redirect">Ada Lovelace Day</a></li>
+<li><a href="/wiki/Darwin_Day" title="Darwin Day">Darwin Day</a></li>
+<li><a href="/wiki/Evolution_Day" title="Evolution Day">Evolution Day</a></li>
+<li><a href="/wiki/Mole_Day" title="Mole Day">Mole Day</a></li>
+<li><strong class="selflink">Pi Day</strong></li>
+<li><a href="/wiki/Yuri%27s_Night" title="Yuri's Night">Yuri's Night</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Year long events</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/International_Year_of_Astronomy" title="International Year of Astronomy">International Year of Astronomy</a></li>
+<li><a href="/wiki/International_Year_of_Chemistry" title="International Year of Chemistry">International Year of Chemistry</a></li>
+<li><a href="/wiki/International_Year_of_Crystallography" title="International Year of Crystallography">International Year of Crystallography</a></li>
+<li><a href="/wiki/International_Year_of_Light" title="International Year of Light">International Year of Light</a></li>
+<li><a href="/wiki/International_Space_Year" title="International Space Year">International Space Year</a></li>
+<li><a href="/wiki/World_Year_of_Physics_2005" title="World Year of Physics 2005">World Year of Physics 2005</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:U.S._holidays" title="Template:U.S. holidays"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:U.S._holidays" title="Template talk:U.S. holidays"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:U.S._holidays&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Public_holidays_in_the_United_States" title="Public holidays in the United States">Holidays, observances, and celebrations in the United States</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">January</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b><a href="/wiki/New_Year%27s_Day" title="New Year's Day">New Year's Day</a> (federal)</b><br /></li>
+<li><a href="/wiki/Martin_Luther_King,_Jr._Day" title="Martin Luther King, Jr. Day">Martin Luther King, Jr. Day</a> (federal)</li>
+<li><a href="/wiki/Confederate_Memorial_Day" title="Confederate Memorial Day">Confederate Heroes Day</a> (TX)</li>
+<li><a href="/wiki/Idaho_Human_Rights_Day" title="Idaho Human Rights Day">Idaho Human Rights Day</a> (ID)</li>
+<li><a href="/wiki/Lee%E2%80%93Jackson_Day" title="Lee–Jackson Day">Lee–Jackson Day</a> (formerly <a href="/wiki/Lee%E2%80%93Jackson%E2%80%93King_Day" title="Lee–Jackson–King Day">Lee–Jackson–King Day</a>) (VA)</li>
+<li><a href="/wiki/Robert_E._Lee_Day" title="Robert E. Lee Day">Robert E. Lee Day</a> (FL, GA)</li>
+<li><a href="/wiki/Stephen_Foster_Memorial_Day" title="Stephen Foster Memorial Day">Stephen Foster Memorial Day</a> (36)</li>
+<li><a href="/wiki/Kansas_Day" title="Kansas Day">Kansas Day</a> (KS)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">February</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b><a href="/wiki/Valentine%27s_Day" title="Valentine's Day">Valentine's Day</a></b><br /></li>
+<li><a href="/wiki/Washington%27s_Birthday" title="Washington's Birthday">Washington's Birthday</a> (federal, also known as "Presidents' Day")</li>
+<li><a href="/wiki/Georgia_Day" title="Georgia Day">Georgia Day</a> (GA)</li>
+<li><a href="/wiki/Lincoln%27s_Birthday" title="Lincoln's Birthday">Lincoln's Birthday</a> (CA, CT, IL, IN, MO, NJ, NY, WV)</li>
+<li>Primary Election Day (WI)</li>
+<li><a href="/wiki/Ronald_Reagan_Day" title="Ronald Reagan Day">Ronald Reagan Day</a> (CA)</li>
+<li><a href="/wiki/Rosa_Parks_Day" title="Rosa Parks Day">Rosa Parks Day</a> (CA, OH)</li>
+<li><a href="/wiki/Susan_B._Anthony_Day" title="Susan B. Anthony Day">Susan B. Anthony Day</a> (CA, FL, NY, WI, WV)</li>
+<li><a href="/wiki/National_Freedom_Day" title="National Freedom Day">National Freedom Day</a> (36)</li>
+<li><a href="/wiki/Ash_Wednesday" title="Ash Wednesday">Ash Wednesday</a> (religious)</li>
+<li><a href="/wiki/Courir_de_Mardi_Gras" title="Courir de Mardi Gras">Courir de Mardi Gras</a> (religious)</li>
+<li><a href="/wiki/Four_Chaplains" title="Four Chaplains">Four Chaplains Day</a></li>
+<li><a href="/wiki/Groundhog_Day" title="Groundhog Day">Groundhog Day</a></li>
+<li><a href="/wiki/American_Heart_Month" title="American Heart Month">American Heart Month</a></li>
+<li><a href="/wiki/Black_History_Month" title="Black History Month">Black History Month</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">March</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b><a href="/wiki/Easter" title="Easter">Easter</a> (religious, sometimes in April)</b></li>
+<li><b><a href="/wiki/Saint_Patrick%27s_Day_(religious)" title="Saint Patrick's Day (religious)" class="mw-redirect">Saint Patrick's Day (religious)</a></b></li>
+<li><b><a href="/wiki/Spring_break" title="Spring break">Spring break</a></b> (week)<br /></li>
+<li><a href="/wiki/Good_Friday" title="Good Friday">Good Friday</a> (CT, NC, PR, religious, sometimes in April)</li>
+<li><a href="/wiki/Casimir_Pulaski_Day" title="Casimir Pulaski Day">Casimir Pulaski Day</a> (IL)</li>
+<li><a href="/wiki/Cesar_Chavez_Day" title="Cesar Chavez Day">Cesar Chavez Day</a> (CA, CO, TX)</li>
+<li><a href="/wiki/Evacuation_Day_(Massachusetts)" title="Evacuation Day (Massachusetts)">Evacuation Day</a> (MA)</li>
+<li><a href="/wiki/Mardi_Gras_in_the_United_States" title="Mardi Gras in the United States">Mardi Gras</a> (AL (in two counties), LA)</li>
+<li><a href="/wiki/Maryland_Day" title="Maryland Day">Maryland Day</a> (MD)</li>
+<li><a href="/wiki/Passover" title="Passover">Passover</a> (religious, sometimes in April)</li>
+<li><a href="/wiki/Prince_K%C5%ABhi%C5%8D_Day" title="Prince Kūhiō Day">Prince Jonah Kuhio Kalanianaole Day</a> (HI)</li>
+<li><a href="/wiki/Seward%27s_Day" title="Seward's Day">Seward's Day</a> (AK)</li>
+<li><a href="/wiki/Texas_Independence_Day" title="Texas Independence Day">Texas Independence Day</a> (TX)</li>
+<li><a href="/wiki/Town_meeting#Vermont" title="Town meeting">Town Meeting Day</a> (VT)</li>
+<li><a href="/wiki/Ash_Wednesday" title="Ash Wednesday">Ash Wednesday</a> (religious)</li>
+<li><a href="/wiki/Courir_de_Mardi_Gras" title="Courir de Mardi Gras">Courir de Mardi Gras</a> (religious)</li>
+<li><a href="/wiki/Easter_Monday" title="Easter Monday">Easter Monday</a> (religious)</li>
+<li><a href="/wiki/Palm_Sunday" title="Palm Sunday">Palm Sunday</a> (religious, week, sometimes in April)</li>
+<li><a href="/wiki/Saint_Joseph%27s_Day" title="Saint Joseph's Day" class="mw-redirect">Saint Joseph's Day</a> (religious)</li>
+<li><a href="/wiki/Women%27s_History_Month" title="Women's History Month">Women's History Month</a></li>
+<li><a href="/wiki/National_Poison_Prevention_Week" title="National Poison Prevention Week">National Poison Prevention Week</a> (week)</li>
+<li><a href="/wiki/Super_Tuesday" title="Super Tuesday">Super Tuesday</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">April</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b><a href="/wiki/Easter" title="Easter">Easter</a> (religious, sometimes in March)</b><br /></li>
+<li><a href="/wiki/April_Fool%27s_Day" title="April Fool's Day" class="mw-redirect">April Fool's Day</a></li>
+<li><a href="/wiki/Arbor_Day" title="Arbor Day">Arbor Day</a></li>
+<li><a href="/wiki/Confederate_Memorial_Day" title="Confederate Memorial Day">Confederate Memorial Day</a> (AL, FL, GA, MS, NC, SC)</li>
+<li><a href="/wiki/Emancipation_Day" title="Emancipation Day">Emancipation Day</a> (DC)</li>
+<li><a href="/wiki/Jefferson%27s_Birthday" title="Jefferson's Birthday">Thomas Jefferson's Birthday</a> (AL)</li>
+<li><a href="/wiki/Patriots%27_Day" title="Patriots' Day">Patriots' Day</a> (MA, ME)</li>
+<li><a href="/wiki/San_Jacinto_Day" title="San Jacinto Day">San Jacinto Day</a> (TX)</li>
+<li><a href="/wiki/Mahavir_Jayanti" title="Mahavir Jayanti">Mahavir Jayanti</a> (religious)</li>
+<li><a href="/wiki/Earth_Day" title="Earth Day">Earth Day</a></li>
+<li><a href="/wiki/Walpurgis_Night" title="Walpurgis Night">Walpurgis Night</a> (religious)</li>
+<li><a href="/wiki/Days_of_Remembrance_of_the_Victims_of_the_Holocaust" title="Days of Remembrance of the Victims of the Holocaust">Days of Remembrance of the Victims of the Holocaust</a> (week)</li>
+<li><a href="/wiki/Confederate_History_Month" title="Confederate History Month">Confederate History Month</a> (month)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">May</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b><a href="/wiki/Memorial_Day" title="Memorial Day">Memorial Day</a> (federal)</b></li>
+<li><b><a href="/wiki/Mother%27s_Day_(United_States)" title="Mother's Day (United States)">Mother's Day</a></b><br /></li>
+<li><a href="/wiki/Cinco_de_Mayo" title="Cinco de Mayo">Cinco de Mayo</a></li>
+<li><a href="/wiki/Harvey_Milk_Day" title="Harvey Milk Day">Harvey Milk Day</a> (CA)</li>
+<li><a href="/wiki/Truman_Day" title="Truman Day">Truman Day</a> (MO)</li>
+<li><a href="/wiki/Malcolm_X_Day" title="Malcolm X Day">Malcolm X Day</a> (Berkeley, CA)</li>
+<li><a href="/wiki/Law_Day,_U.S.A." title="Law Day, U.S.A." class="mw-redirect">Law Day</a> (36)</li>
+<li><a href="/wiki/Loyalty_Day" title="Loyalty Day">Loyalty Day</a> (36)</li>
+<li><a href="/wiki/National_Day_of_Prayer" title="National Day of Prayer">National Day of Prayer</a> (36)</li>
+<li><a href="/wiki/National_Defense_Transportation_Day" title="National Defense Transportation Day">National Defense Transportation Day</a> (36)</li>
+<li><a href="/wiki/United_States_National_Maritime_Day" title="United States National Maritime Day">National Maritime Day</a> (36)</li>
+<li><a href="/wiki/Peace_Officers_Memorial_Day" title="Peace Officers Memorial Day">Peace Officers Memorial Day</a> (36)</li>
+<li><a href="/wiki/Military_Spouse_Day" title="Military Spouse Day">Military Spouse Day</a></li>
+<li><a href="/wiki/May_Day" title="May Day">May Day</a></li>
+<li><a href="/wiki/Asian_Pacific_American_Heritage_Month" title="Asian Pacific American Heritage Month">Asian Pacific American Heritage Month</a> (month)</li>
+<li><a href="/wiki/Jewish_American_Heritage_Month" title="Jewish American Heritage Month">Jewish American Heritage Month</a> (month)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">June</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b><a href="/wiki/Father%27s_Day_(United_States)" title="Father's Day (United States)">Father's Day</a> (36)</b><br /></li>
+<li><a href="/wiki/Flag_Day_(United_States)" title="Flag Day (United States)">Flag Day</a> (FL, PA)</li>
+<li><a href="/wiki/Odunde_Festival" title="Odunde Festival">Odunde Festival</a> (Philadelphia, PA)</li>
+<li><a href="/wiki/Juneteenth" title="Juneteenth">Emancipation Day In Texas / Juneteenth</a> (TX)</li>
+<li><a href="/wiki/Helen_Keller_Day" title="Helen Keller Day" class="mw-redirect">Helen Keller Day</a> (PA)</li>
+<li><a href="/wiki/Jefferson_Davis_Day" title="Jefferson Davis Day" class="mw-redirect">Jefferson Davis Day</a> (AL, FL)</li>
+<li><a href="/wiki/Kamehameha_Day" title="Kamehameha Day">Kamehameha Day</a> (HI)</li>
+<li><a href="/wiki/West_Virginia_Day" title="West Virginia Day">West Virginia Day</a> (WV)</li>
+<li><a href="/wiki/Honor_America_Days" title="Honor America Days">Honor America Days</a> (week)</li>
+<li><a href="/wiki/Senior_Week" title="Senior Week">Senior Week</a> (week)</li>
+<li><a href="/wiki/Carolina_Day" title="Carolina Day" class="mw-redirect">Carolina Day</a> (SC)</li>
+<li><a href="/wiki/Gay_and_Lesbian_Pride_Month" title="Gay and Lesbian Pride Month" class="mw-redirect">Gay and Lesbian Pride Month</a> (month)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">July</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b><a href="/wiki/Independence_Day_(United_States)" title="Independence Day (United States)">Independence Day</a> (federal)</b><br /></li>
+<li><a href="/wiki/Pioneer_Day_(Utah)" title="Pioneer Day (Utah)">Pioneer Day</a> (UT)</li>
+<li><a href="/wiki/Parents%27_Day" title="Parents' Day">Parents' Day</a> (36)</li>
+<li><a href="/wiki/Honor_America_Days" title="Honor America Days">Honor America Days</a> (week)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">August</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b><a href="/wiki/Summer_vacation" title="Summer vacation">Summer vacation</a></b><br /></li>
+<li><a href="/wiki/Bennington_Battle_Day" title="Bennington Battle Day">Bennington Battle Day</a> (VT)</li>
+<li><a href="/wiki/Hawaii_Admission_Day" title="Hawaii Admission Day">Hawaii Admission Day / Statehood Day</a> (HI)</li>
+<li><a href="/wiki/Lyndon_Baines_Johnson_Day" title="Lyndon Baines Johnson Day">Lyndon Baines Johnson Day</a> (TX)</li>
+<li>Service Reduction Day (MD)</li>
+<li><a href="/wiki/Victory_Day_(United_States)" title="Victory Day (United States)">Victory over Japan Day</a> (RI)</li>
+<li><a href="/wiki/National_Aviation_Day" title="National Aviation Day">National Aviation Day</a> (36)</li>
+<li><a href="/wiki/Women%27s_Equality_Day" title="Women's Equality Day">Women's Equality Day</a> (36)</li>
+<li><a href="/wiki/American_Family_Day" title="American Family Day">American Family Day</a> (AZ)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">September</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b><a href="/wiki/Labor_Day" title="Labor Day">Labor Day</a> (federal)</b><br /></li>
+<li><a href="/wiki/Rosh_Hashanah" title="Rosh Hashanah">Rosh Hashanah</a> (religious)</li>
+<li><a href="/wiki/Yom_Kippur" title="Yom Kippur">Yom Kippur</a> (religious)</li>
+<li><a href="/wiki/Native_American_Day" title="Native American Day">Native American Day</a> (CA)</li>
+<li><a href="/wiki/Carl_Garner_Federal_Lands_Cleanup_Day" title="Carl Garner Federal Lands Cleanup Day">Carl Garner Federal Lands Cleanup Day</a> (36)</li>
+<li><a href="/wiki/Constitution_Day_(United_States)" title="Constitution Day (United States)">Constitution Day</a> (36)</li>
+<li><a href="/wiki/Gold_Star_Mothers_Club" title="Gold Star Mothers Club">Gold Star Mothers Day</a> (36)</li>
+<li><a href="/wiki/National_Grandparents_Day" title="National Grandparents Day">National Grandparents Day</a> (36)</li>
+<li><a href="/wiki/Patriot_Day" title="Patriot Day">Patriot Day</a> (36)</li>
+<li><a href="/wiki/Constitution_Week" title="Constitution Week">Constitution Week</a> (week)</li>
+<li><a href="/wiki/National_Payroll_Week" title="National Payroll Week">National Payroll Week</a> (week)</li>
+<li><a href="/wiki/National_Hispanic_Heritage_Month" title="National Hispanic Heritage Month">National Hispanic Heritage Month</a> (month)</li>
+<li>National Prostate Cancer Awareness Month (month)</li>
+<li><a href="/wiki/Eid_al-Fitr" title="Eid al-Fitr">Eid al-Fitr</a> (NY, MI)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">October</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b><a href="/wiki/Halloween" title="Halloween">Halloween</a></b><br /></li>
+<li><a href="/wiki/Columbus_Day" title="Columbus Day">Columbus Day</a> (federal)</li>
+<li><a href="/wiki/Alaska_Day" title="Alaska Day">Alaska Day</a> (AK)</li>
+<li><a href="/wiki/Missouri_Day" title="Missouri Day">Missouri Day</a> (MO)</li>
+<li><a href="/wiki/Native_American_Day" title="Native American Day">Native American Day</a> (SD)</li>
+<li><a href="/wiki/Nevada_Day" title="Nevada Day">Nevada Day</a> (NV)</li>
+<li><a href="/wiki/Child_Health_Day" title="Child Health Day">Child Health Day</a> (36)</li>
+<li><a href="/wiki/Leif_Erikson_Day" title="Leif Erikson Day">Leif Erikson Day</a> (36)</li>
+<li><a href="/wiki/White_Cane_Safety_Day" title="White Cane Safety Day">White Cane Safety Day</a> (36)</li>
+<li><a href="/wiki/Yom_Kippur" title="Yom Kippur">Yom Kippur</a> (religious)</li>
+<li><a href="/wiki/General_Pulaski_Memorial_Day" title="General Pulaski Memorial Day">General Pulaski Memorial Day</a></li>
+<li><a href="/wiki/Sweetest_Day" title="Sweetest Day">Sweetest Day</a></li>
+<li><a href="/wiki/National_School_Lunch_Week" title="National School Lunch Week" class="mw-redirect">National School Lunch Week</a> (week)</li>
+<li><a href="/wiki/Filipino_American_History_Month" title="Filipino American History Month">Filipino American History Month</a> (month)</li>
+<li><a href="/wiki/LGBT_History_Month" title="LGBT History Month">LGBT History Month</a> (month)</li>
+<li><a href="/wiki/National_Breast_Cancer_Awareness_Month" title="National Breast Cancer Awareness Month">National Breast Cancer Awareness Month</a> (month)</li>
+<li><a href="/wiki/National_Disability_Employment_Awareness_Month" title="National Disability Employment Awareness Month">National Disability Employment Awareness Month</a> (month)</li>
+<li><a href="/wiki/National_Hispanic_Heritage_Month" title="National Hispanic Heritage Month">National Hispanic Heritage Month</a> (month)</li>
+<li><a href="/wiki/International_Day_of_Non-Violence" title="International Day of Non-Violence">International Day of Non-Violence</a></li>
+<li><a href="/wiki/German-American_Day" title="German-American Day">German-American Day</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">November</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b><a href="/wiki/Thanksgiving_(United_States)" title="Thanksgiving (United States)">Thanksgiving</a> (federal)</b><br /></li>
+<li><a href="/wiki/Day_after_Thanksgiving" title="Day after Thanksgiving" class="mw-redirect">Day after Thanksgiving</a> (DE)</li>
+<li><a href="/wiki/Veterans_Day_(United_States)" title="Veterans Day (United States)" class="mw-redirect">Veterans Day</a> (federal)</li>
+<li><a href="/wiki/Election_Day_(United_States)" title="Election Day (United States)">Election Day</a> (CA, DE, HI, KY, MT, NJ, NY, OH, PR, WV)</li>
+<li><a href="/wiki/Family_Day" title="Family Day">Family Day</a> (NV)</li>
+<li><a href="/wiki/Native_American_Heritage_Day" title="Native American Heritage Day">Native American Heritage Day</a> (MD)</li>
+<li><a href="/wiki/Obama_Day" title="Obama Day">Obama Day</a> (Perry County, AL)</li>
+<li><a href="/wiki/Hanukkah" title="Hanukkah">Hanukkah</a> (religious)</li>
+<li><a href="/wiki/Native_American_Indian_Heritage_Month" title="Native American Indian Heritage Month">Native American Indian Heritage Month</a> (month)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">December</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b><a href="/wiki/Christmas" title="Christmas">Christmas</a> (religious, federal)</b><br /></li>
+<li><a href="/wiki/Kwanzaa" title="Kwanzaa">Kwanzaa</a> (religious, week)</li>
+<li><a href="/wiki/Christmas_Eve" title="Christmas Eve">Christmas Eve</a> (KY, NC)</li>
+<li><a href="/wiki/New_Year%27s_Eve" title="New Year's Eve">New Year's Eve</a></li>
+<li><a href="/wiki/Hanukkah" title="Hanukkah">Hanukkah</a> (religious, week)</li>
+<li><a href="/wiki/Alabama_Day" title="Alabama Day">Alabama Day</a> (AL)</li>
+<li><a href="/wiki/Indiana_Day" title="Indiana Day">Indiana Day</a> (IN)</li>
+<li><a href="/wiki/New_Year%27s_Eve" title="New Year's Eve">New Year's Eve</a> (KY)</li>
+<li><a href="/wiki/Rosa_Parks_Day" title="Rosa Parks Day">Rosa Parks Day</a> (CA, OH)</li>
+<li><a href="/wiki/National_Pearl_Harbor_Remembrance_Day" title="National Pearl Harbor Remembrance Day">National Pearl Harbor Remembrance Day</a> (36)</li>
+<li><a href="/wiki/Pan_American_Aviation_Day" title="Pan American Aviation Day">Pan American Aviation Day</a> (36)</li>
+<li><a href="/wiki/Wright_Brothers_Day" title="Wright Brothers Day">Wright Brothers Day</a> (36)</li>
+<li><a href="/wiki/Festivus" title="Festivus">Festivus</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Varies</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Eid_al-Adha" title="Eid al-Adha">Eid al-Adha</a> (religious)</li>
+<li><a href="/wiki/Ramadan" title="Ramadan">Ramadan</a> (religious, month)</li>
+<li><a href="/wiki/Eid_al-Fitr" title="Eid al-Fitr">Eid al-Fitr)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>Legend:
+<p>(federal) = federal holidays, (state) = state holidays, (religious) = religious holidays, (week) = weeklong holidays, (month) = monthlong holidays, (36) = <a href="/wiki/Title_36_of_the_United_States_Code" title="Title 36 of the United States Code">Title 36 Observances and Ceremonies</a><br />
+<b>Bolded</b> text indicates major holidays that are commonly celebrated by Americans, which often represent the major celebrations of the month.<a rel="nofollow" class="external autonumber" href="http://www.usa.gov/citizens/holidays.shtml">[1]</a><a rel="nofollow" class="external autonumber" href="http://www.immihelp.com/newcomer/major-holidays-festivals-america.html">[2]</a><br /></p>
+See also: <a href="/wiki/Lists_of_holidays" title="Lists of holidays">Lists of holidays</a>, <a href="/wiki/Hallmark_holiday" title="Hallmark holiday">Hallmark holidays</a>, public holidays in the <a href="/wiki/Public_holidays_in_the_United_States" title="Public holidays in the United States">United States</a>, <a href="/wiki/Public_holidays_in_Puerto_Rico" title="Public holidays in Puerto Rico">Puerto Rico</a>, <a href="/wiki/Public_holidays_in_the_United_States_Virgin_Islands" title="Public holidays in the United States Virgin Islands">United States Virgin Islands</a>, <a href="/wiki/State_holidays_in_New_Jersey" title="State holidays in New Jersey">New Jersey</a> and <a href="/wiki/New_York_State_government_holidays" title="New York State government holidays">New York</a>.</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1253
+CPU time usage: 0.348 seconds
+Real time usage: 0.422 seconds
+Preprocessor visited node count: 2659/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 87127/2097152 bytes
+Template argument size: 1475/2097152 bytes
+Highest expansion depth: 24/40
+Expensive parser function count: 2/500
+Lua time usage: 0.092/10.000 seconds
+Lua memory usage: 3.07 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  314.364      1 - -total
+ 37.36%  117.454      1 - Template:Reflist
+ 22.11%   69.520      1 - Template:Infobox_holiday
+ 19.42%   61.059     16 - Template:Cite_web
+ 16.08%   50.560      1 - Template:Infobox
+ 11.36%   35.727      1 - Template:Commons_category
+  7.82%   24.569      2 - Template:Navbox
+  7.26%   22.832      1 - Template:For
+  6.86%   21.573      1 - Template:US_Holidays
+  6.54%   20.555      1 - Template:Hatnote
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:25013-0!*!0!default!!en!4!* and timestamp 20150207020843 and revision id 642552711
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from &quot;<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Pi_Day&amp;oldid=642552711">http://en.wikipedia.org/w/index.php?title=Pi_Day&amp;oldid=642552711</a>&quot;					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Unofficial_observances" title="Category:Unofficial observances">Unofficial observances</a></li><li><a href="/wiki/Category:March_observances" title="Category:March observances">March observances</a></li><li><a href="/wiki/Category:July_observances" title="Category:July observances">July observances</a></li><li><a href="/wiki/Category:Pi" title="Category:Pi">Pi</a></li><li><a href="/wiki/Category:Secular_holidays" title="Category:Secular holidays">Secular holidays</a></li><li><a href="/wiki/Category:Recurring_events_established_in_1988" title="Category:Recurring events established in 1988">Recurring events established in 1988</a></li><li><a href="/wiki/Category:Science_commemorations" title="Category:Science commemorations">Science commemorations</a></li><li><a href="/wiki/Category:Fixed_holidays" title="Category:Fixed holidays">Fixed holidays</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_web_citations_with_no_URL" title="Category:Pages using web citations with no URL">Pages using web citations with no URL</a></li><li><a href="/wiki/Category:Pages_using_citations_with_accessdate_and_no_URL" title="Category:Pages using citations with accessdate and no URL">Pages using citations with accessdate and no URL</a></li><li><a href="/wiki/Category:Holidays_and_observances_by_frequency_(annual)" title="Category:Holidays and observances by frequency (annual)">Holidays and observances by frequency (annual)</a></li><li><a href="/wiki/Category:Holidays_and_observances_by_duration_(1_day)" title="Category:Holidays and observances by duration (1 day)">Holidays and observances by duration (1 day)</a></li><li><a href="/wiki/Category:Holidays_and_observances_by_scheduling_(same_day_each_year)" title="Category:Holidays and observances by scheduling (same day each year)">Holidays and observances by scheduling (same day each year)</a></li><li><a href="/wiki/Category:Articles_with_Infobox_holidays" title="Category:Articles with Infobox holidays">Articles with Infobox holidays</a></li><li><a href="/wiki/Category:Infobox_holiday_fixed_day" title="Category:Infobox holiday fixed day">Infobox holiday fixed day</a></li><li><a href="/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata" title="Category:Commons category with local link same as on Wikidata">Commons category with local link same as on Wikidata</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Pi+Day&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Pi+Day" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Pi_Day"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Pi_Day"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Pi_Day" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Pi_Day&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Pi_Day&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Pi_Day" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Pi_Day" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Pi_Day&amp;oldid=642552711" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Pi_Day&amp;action=info" title="More information about this page">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q179736" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Pi_Day&amp;id=642552711" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Pi+Day">Create a book</a></li>
+													<li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Pi+Day&amp;oldid=642552711&amp;writer=rdf2latex">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Pi_Day&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D9%8A%D9%88%D9%85_%D8%A7%D9%84%D8%B9%D8%AF%D8%AF_%D8%B7" title="يوم العدد ط – Arabic" lang="ar" hreflang="ar">العربية</a></li>
+													<li class="interlanguage-link interwiki-bn"><a href="//bn.wikipedia.org/wiki/%E0%A6%AA%E0%A6%BE%E0%A6%87_%E0%A6%A6%E0%A6%BF%E0%A6%AC%E0%A6%B8" title="পাই দিবস – Bengali" lang="bn" hreflang="bn">বাংলা</a></li>
+													<li class="interlanguage-link interwiki-be-x-old"><a href="//be-x-old.wikipedia.org/wiki/%D0%94%D0%B7%D0%B5%D0%BD%D1%8C_%D0%9F%D1%96" title="Дзень Пі – беларуская (тарашкевіца)‎" lang="be-x-old" hreflang="be-x-old">Беларуская (тарашкевіца)‎</a></li>
+													<li class="interlanguage-link interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%94%D0%B5%D0%BD%D1%8F%D1%82_%D0%9F%D0%B8" title="Денят Пи – Bulgarian" lang="bg" hreflang="bg">Български</a></li>
+													<li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Dia_Pi" title="Dia Pi – Catalan" lang="ca" hreflang="ca">Català</a></li>
+													<li class="interlanguage-link interwiki-cv"><a href="//cv.wikipedia.org/wiki/%D0%9F%D0%B8_%D1%85%D0%B8%D1%81%D0%B5%D0%BF%C4%95%D0%BD_%D0%BA%D1%83%D0%BD%C4%95" title="Пи хисепĕн кунĕ – Chuvash" lang="cv" hreflang="cv">Чӑвашла</a></li>
+													<li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Den_p%C3%AD" title="Den pí – Czech" lang="cs" hreflang="cs">Čeština</a></li>
+													<li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/Pi-dag" title="Pi-dag – Danish" lang="da" hreflang="da">Dansk</a></li>
+													<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Pi-Tag" title="Pi-Tag – German" lang="de" hreflang="de">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-et"><a href="//et.wikipedia.org/wiki/Pii_p%C3%A4ev" title="Pii päev – Estonian" lang="et" hreflang="et">Eesti</a></li>
+													<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/D%C3%ADa_de_%CF%80" title="Día de π – Spanish" lang="es" hreflang="es">Español</a></li>
+													<li class="interlanguage-link interwiki-eo"><a href="//eo.wikipedia.org/wiki/Pi-tago" title="Pi-tago – Esperanto" lang="eo" hreflang="eo">Esperanto</a></li>
+													<li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%B2_%D9%BE%DB%8C" title="روز پی – Persian" lang="fa" hreflang="fa">فارسی</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Journ%C3%A9e_de_pi" title="Journée de pi – French" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%ED%8C%8C%EC%9D%B4%EC%9D%98_%EB%82%A0" title="파이의 날 – Korean" lang="ko" hreflang="ko">한국어</a></li>
+													<li class="interlanguage-link interwiki-hy"><a href="//hy.wikipedia.org/wiki/%D5%8A%D5%AB_%D5%A9%D5%BE%D5%AB_%D6%85%D6%80%D5%A8" title="Պի թվի օրը – Armenian" lang="hy" hreflang="hy">Հայերեն</a></li>
+													<li class="interlanguage-link interwiki-hr"><a href="//hr.wikipedia.org/wiki/Dan_broja_pi" title="Dan broja pi – Croatian" lang="hr" hreflang="hr">Hrvatski</a></li>
+													<li class="interlanguage-link interwiki-id"><a href="//id.wikipedia.org/wiki/Hari_Pi" title="Hari Pi – Indonesian" lang="id" hreflang="id">Bahasa Indonesia</a></li>
+													<li class="interlanguage-link interwiki-is"><a href="//is.wikipedia.org/wiki/%CE%A0_dagur" title="Π dagur – Icelandic" lang="is" hreflang="is">Íslenska</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Giorno_del_pi_greco" title="Giorno del pi greco – Italian" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%99%D7%95%D7%9D_%D7%A4%D7%90%D7%99" title="יום פאי – Hebrew" lang="he" hreflang="he">עברית</a></li>
+													<li class="interlanguage-link interwiki-ka"><a href="//ka.wikipedia.org/wiki/%E1%83%9E%E1%83%98%E1%83%A1_%E1%83%93%E1%83%A6%E1%83%94" title="პის დღე – Georgian" lang="ka" hreflang="ka">ქართული</a></li>
+													<li class="interlanguage-link interwiki-sw"><a href="//sw.wikipedia.org/wiki/Sikukuu_ya_Pi" title="Sikukuu ya Pi – Swahili" lang="sw" hreflang="sw">Kiswahili</a></li>
+													<li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/Nemzetk%C3%B6zi_%CF%80-nap" title="Nemzetközi π-nap – Hungarian" lang="hu" hreflang="hu">Magyar</a></li>
+													<li class="interlanguage-link interwiki-mk"><a href="//mk.wikipedia.org/wiki/%D0%94%D0%B5%D0%BD_%D0%BD%D0%B0_%D0%B1%D1%80%D0%BE%D1%98%D0%BE%D1%82_%D0%BF%D0%B8" title="Ден на бројот пи – Macedonian" lang="mk" hreflang="mk">Македонски</a></li>
+													<li class="interlanguage-link interwiki-ml"><a href="//ml.wikipedia.org/wiki/%E0%B4%AA%E0%B5%88_%E0%B4%A6%E0%B4%BF%E0%B4%A8%E0%B4%82" title="പൈ ദിനം – Malayalam" lang="ml" hreflang="ml">മലയാളം</a></li>
+													<li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Pi-dag" title="Pi-dag – Dutch" lang="nl" hreflang="nl">Nederlands</a></li>
+													<li class="interlanguage-link interwiki-ne"><a href="//ne.wikipedia.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%87_%E0%A4%A6%E0%A4%BF%E0%A4%B5%E0%A4%B8" title="पाइ दिवस – Nepali" lang="ne" hreflang="ne">नेपाली</a></li>
+													<li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E5%86%86%E5%91%A8%E7%8E%87%E3%81%AE%E6%97%A5" title="円周率の日 – Japanese" lang="ja" hreflang="ja">日本語</a></li>
+													<li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Pi-dagen" title="Pi-dagen – Norwegian (bokmål)" lang="no" hreflang="no">Norsk bokmål</a></li>
+													<li class="interlanguage-link interwiki-nn"><a href="//nn.wikipedia.org/wiki/Pi-dagen" title="Pi-dagen – Norwegian Nynorsk" lang="nn" hreflang="nn">Norsk nynorsk</a></li>
+													<li class="interlanguage-link interwiki-or"><a href="//or.wikipedia.org/wiki/%E0%AC%AA%E0%AC%BE%E0%AC%87_%E0%AC%A6%E0%AC%BF%E0%AC%AC%E0%AC%B8" title="ପାଇ ଦିବସ – Oriya" lang="or" hreflang="or">ଓଡ଼ିଆ</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Dzie%C5%84_Liczby_Pi" title="Dzień Liczby Pi – Polish" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Dia_do_Pi" title="Dia do Pi – Portuguese" lang="pt" hreflang="pt">Português</a></li>
+													<li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%BD%D1%8C_%D1%87%D0%B8%D1%81%D0%BB%D0%B0_%D0%BF%D0%B8" title="День числа пи – Russian" lang="ru" hreflang="ru">Русский</a></li>
+													<li class="interlanguage-link interwiki-sco"><a href="//sco.wikipedia.org/wiki/Pi_Day" title="Pi Day – Scots" lang="sco" hreflang="sco">Scots</a></li>
+													<li class="interlanguage-link interwiki-si"><a href="//si.wikipedia.org/wiki/%E0%B6%B4%E0%B6%BA%E0%B7%92_%E0%B6%AF%E0%B7%92%E0%B6%B1%E0%B6%BA" title="පයි දිනය – Sinhala" lang="si" hreflang="si">සිංහල</a></li>
+													<li class="interlanguage-link interwiki-simple"><a href="//simple.wikipedia.org/wiki/Pi_Day" title="Pi Day – Simple English" lang="simple" hreflang="simple">Simple English</a></li>
+													<li class="interlanguage-link interwiki-sk"><a href="//sk.wikipedia.org/wiki/De%C5%88_p%C3%AD" title="Deň pí – Slovak" lang="sk" hreflang="sk">Slovenčina</a></li>
+													<li class="interlanguage-link interwiki-ckb"><a href="//ckb.wikipedia.org/wiki/%DA%95%DB%86%DA%98%DB%8C_%D9%BE%D8%A7%DB%8C" title="ڕۆژی پای – Sorani Kurdish" lang="ckb" hreflang="ckb">کوردی</a></li>
+													<li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Piin_p%C3%A4iv%C3%A4" title="Piin päivä – Finnish" lang="fi" hreflang="fi">Suomi</a></li>
+													<li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Pi-dagen" title="Pi-dagen – Swedish" lang="sv" hreflang="sv">Svenska</a></li>
+													<li class="interlanguage-link interwiki-ta"><a href="//ta.wikipedia.org/wiki/%E0%AE%AA%E0%AF%88_%E0%AE%A8%E0%AE%BE%E0%AE%B3%E0%AF%8D" title="பை நாள் – Tamil" lang="ta" hreflang="ta">தமிழ்</a></li>
+													<li class="interlanguage-link interwiki-th"><a href="//th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%9E%E0%B8%B2%E0%B8%A2" title="วันพาย – Thai" lang="th" hreflang="th">ไทย</a></li>
+													<li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/Pi_G%C3%BCn%C3%BC" title="Pi Günü – Turkish" lang="tr" hreflang="tr">Türkçe</a></li>
+													<li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%94%D0%B5%D0%BD%D1%8C_%D0%BF%D1%96" title="День пі – Ukrainian" lang="uk" hreflang="uk">Українська</a></li>
+													<li class="interlanguage-link interwiki-vi"><a href="//vi.wikipedia.org/wiki/Ng%C3%A0y_s%E1%BB%91_pi" title="Ngày số pi – Vietnamese" lang="vi" hreflang="vi">Tiếng Việt</a></li>
+													<li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E5%9C%93%E5%91%A8%E7%8E%87%E6%97%A5" title="圓周率日 – Chinese" lang="zh" hreflang="zh">中文</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q179736#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 15 January 2015, at 03:30.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Pi_Day&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" srcset="//bits.wikimedia.org/images/wikimedia-button-1.5x.png 1.5x, //bits.wikimedia.org/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.25wmf15/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.eventLogging.subscriber","ext.wikimediaEvents.statsd","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":111,"wgHostname":"mw1168"});
+}</script>
+	</body>
+</html>

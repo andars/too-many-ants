@@ -1,0 +1,654 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Etaoin shrdlu - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.25wmf15" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Etaoin_shrdlu" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Etaoin_shrdlu&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Etaoin_shrdlu&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Etaoin_shrdlu" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/Etaoin_shrdlu" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.rtlcite%2Cwikihiero%2CwikimediaBadges%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Etaoin_shrdlu","wgTitle":"Etaoin shrdlu","wgCurRevisionId":643961294,"wgRevisionId":643961294,"wgArticleId":198680,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["English phrases","In-jokes","Filler text"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Etaoin_shrdlu","wgRelevantArticleId":198680,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":4096,"namespacesWithSubpages":{"6":0,"8":0,"1":true,"2":true,"3":true,"4":true,"5":true,"7":true,"9":true,"10":true,"11":true,"12":true,"13":true,"14":true,"15":true,"100":true,"101":true,"102":true,"103":true,"104":true,"105":true,"106":true,"107":true,"108":true,"109":true,"110":true,"111":true,"830":true,"831":true,"447":true,"2600":false,"828":true,"829":true}},"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q670443"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});},{},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:94007ea073e20ad4a3cdce36b2f2e369 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf15/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Etaoin_shrdlu skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Etaoin shrdlu</span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">"etaoin" redirects here. It is not to be confused with <a href="/wiki/%C3%89ta%C3%ADn" title="Étaín">Étaín</a>, a figure of Irish mythology.</div>
+<div class="thumb tright" style="background-color:white">
+<div class="thumbinner" style="width:254px;max-width:254px;background-color:white">
+<div style="background-color:white;margin:1px;width:252px;max-width:252px">
+<div class="thumbimage"><a href="/wiki/File:Etaoin_shrdlu.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Etaoin_shrdlu.png/250px-Etaoin_shrdlu.png" width="250" height="142" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Etaoin_shrdlu.png/375px-Etaoin_shrdlu.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Etaoin_shrdlu.png/500px-Etaoin_shrdlu.png 2x" data-file-width="790" data-file-height="449" /></a></div>
+</div>
+<div style="background-color:white;margin:1px;width:252px;max-width:252px">
+<div class="thumbimage"><a href="/wiki/File:Humorous_example_of_etaoin_shrdlu.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Humorous_example_of_etaoin_shrdlu.svg/250px-Humorous_example_of_etaoin_shrdlu.svg.png" width="250" height="157" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Humorous_example_of_etaoin_shrdlu.svg/375px-Humorous_example_of_etaoin_shrdlu.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Humorous_example_of_etaoin_shrdlu.svg/500px-Humorous_example_of_etaoin_shrdlu.svg.png 2x" data-file-width="725" data-file-height="454" /></a></div>
+</div>
+<div style="clear:left"></div>
+<div class="thumbcaption" style="clear:left;text-align:left;background-color:transparent">Top: <i>Etaoin shrdlu</i> appearing in a 1903 publication of <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i> (third line from the bottom). Bottom: A humorous and intentional example of <i>etaoin shrdlu</i> in a 1916 newspaper.</div>
+</div>
+</div>
+<p><b>Etaoin shrdlu</b> (<span class="nowrap"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA_for_English" title="Help:IPA for English">/</a></span><span class="IPA nopopups"><a href="/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ˈ/ primary stress follows" style="border-bottom:1px dotted">ˈ</span></a></span><span class="IPA nopopups"><a href="/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ɛ/ short 'e' in 'bed'" style="border-bottom:1px dotted">ɛ</span></a></span><span class="IPA nopopups"><a href="/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="'t' in 'tie'" style="border-bottom:1px dotted">t</span></a></span><span class="IPA nopopups"><a href="/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/i/ 'y' in 'happy'" style="border-bottom:1px dotted">i</span></a></span><span class="IPA nopopups"><a href="/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ˌ/ secondary stress follows" style="border-bottom:1px dotted">ˌ</span></a></span><span class="IPA nopopups"><a href="/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ɔɪ/ 'oy' in 'boy'" style="border-bottom:1px dotted">ɔɪ</span></a></span><span class="IPA nopopups"><a href="/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="'n' in 'nigh'" style="border-bottom:1px dotted">n</span></a></span><span class="IPA nopopups"><a href="/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ˈ/ primary stress follows" style="border-bottom:1px dotted">ˈ</span></a></span><span class="IPA nopopups"><a href="/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ʃ/ 'sh' in 'shy'" style="border-bottom:1px dotted">ʃ</span></a></span><span class="IPA nopopups"><a href="/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ɜr/ 'ir' in 'bird'" style="border-bottom:1px dotted">ɜr</span></a></span><span class="IPA nopopups"><a href="/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="'d' in 'dye'" style="border-bottom:1px dotted">d</span></a></span><span class="IPA nopopups"><a href="/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="'l' in 'lie'" style="border-bottom:1px dotted">l</span></a></span><span class="IPA nopopups"><a href="/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/uː/ long 'oo' in 'food'" style="border-bottom:1px dotted">uː</span></a></span><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA_for_English" title="Help:IPA for English">/</a></span></span>)<sup id="cite_ref-Dict_1-0" class="reference"><a href="#cite_note-Dict-1"><span>[</span>1<span>]</span></a></sup> is a nonsense phrase that sometimes appeared in print in the days of "<a href="/wiki/Hot_metal_typesetting" title="Hot metal typesetting">hot type</a>" publishing because of a custom of <a href="/wiki/Type_casting_(typography)" title="Type casting (typography)">type-casting machine</a> operators. It appeared often enough to become part of newspaper lore.</p>
+<p>It is the approximate order of <a href="/wiki/Letter_frequency" title="Letter frequency">frequency</a> of the 12 most commonly used letters in the <a href="/wiki/English_language" title="English language">English language</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Appearance_outside_typography"><span class="tocnumber">2</span> <span class="toctext">Appearance outside typography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Computing"><span class="tocnumber">2.1</span> <span class="toctext">Computing</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Literature"><span class="tocnumber">2.2</span> <span class="toctext">Literature</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Notes"><span class="tocnumber">4</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Etaoin_shrdlu&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The letters on <a href="/wiki/Type_casting_(typography)" title="Type casting (typography)">type-casting machine</a> keyboards (such as <a href="/wiki/Linotype_machine" title="Linotype machine">Linotype</a> and <a href="/wiki/Intertype_Corporation" title="Intertype Corporation">Intertype</a>) were arranged by <a href="/wiki/Letter_frequency" title="Letter frequency">letter frequency</a>, so e-t-a-o-i-n s-h-r-d-l-u were the lowercase keys in the first two vertical columns on the left side of the keyboard. When an operator made a mistake in composing, he would often finish the line by running his finger down the first two rows of the keyboard and then start over. Occasionally the faulty line of hot-metal type would be overlooked and be printed erroneously. This happened often enough for "etaoin shrdlu" to be listed in the <i><a href="/wiki/Oxford_English_Dictionary" title="Oxford English Dictionary">Oxford English Dictionary</a></i> and in the <i><a href="/wiki/Random_House_Webster%27s_Unabridged_Dictionary" title="Random House Webster's Unabridged Dictionary">Random House Webster's Unabridged Dictionary</a></i>.</p>
+<p>A documentary about the last issue of <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i> to be composed in the hot-metal printing process (2 July 1978) was titled <i>Farewell, Etaoin Shrdlu</i>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></p>
+<p>In the early days of computer studies of language, an examination of newspaper text and television news copy included a letter frequency count, followed by a journal article. Irving Fang concluded that the linotype machines got it nearly right, but that the actual frequency of letters in the English language is ETAONI RSHDLC.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></p>
+<p><a href="/wiki/Peter_Norvig" title="Peter Norvig">Peter Norvig</a> used the <a href="/wiki/Google_Ngram_Viewer" title="Google Ngram Viewer">Google Books Ngrams</a> corpus in 2013 to determine the frequencies of use, resulting in the order ETAOIN SRHLDCU.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Appearance_outside_typography">Appearance outside typography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Etaoin_shrdlu&amp;action=edit&amp;section=2" title="Edit section: Appearance outside typography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a href="/wiki/File:ClavierLinotype_20041006-163300.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ClavierLinotype_20041006-163300.jpg/200px-ClavierLinotype_20041006-163300.jpg" width="200" height="125" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ClavierLinotype_20041006-163300.jpg/300px-ClavierLinotype_20041006-163300.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ClavierLinotype_20041006-163300.jpg/400px-ClavierLinotype_20041006-163300.jpg 2x" data-file-width="1000" data-file-height="625" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:ClavierLinotype_20041006-163300.jpg" class="internal" title="Enlarge"></a></div>
+A <a href="/wiki/Linotype_machine" title="Linotype machine">Linotype machine</a> keyboard. It has the following alphabet arrangement twice, once for lower case (the black keys) and once for upper case (the white keys), with the keys in the middle for numbers and symbols: <b>etaoin / shrdlu / cmfwyp / vbgkqj / xz</b></div>
+</div>
+</div>
+<p>The phrase has gained enough notability to appear outside typography, including:</p>
+<h3><span class="mw-headline" id="Computing">Computing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Etaoin_shrdlu&amp;action=edit&amp;section=3" title="Edit section: Computing">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/SHRDLU" title="SHRDLU">SHRDLU</a> was used in 1972 by <a href="/wiki/Terry_Winograd" title="Terry Winograd">Terry Winograd</a> as the name for an early artificial-intelligence system in <a href="/wiki/Lisp_programming_language" title="Lisp programming language" class="mw-redirect">Lisp</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></li>
+<li>The ETAOIN SHRDLU Chess Program was written by Garth Courtois Jr. for the Nova 1200 mini-computer, competing in the 6th and 7th ACM North American Computer Chess Championship 1975 and 1976.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></li>
+</ul>
+<h3><span class="mw-headline" id="Literature">Literature</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Etaoin_shrdlu&amp;action=edit&amp;section=4" title="Edit section: Literature">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Etaoin Shrdlu, or a portion of the phrase, is a character in works of fiction, including: <a href="/wiki/Elmer_Rice" title="Elmer Rice">Elmer Rice</a>'s <a href="/wiki/1923_in_literature" title="1923 in literature">1923</a> play <i><a href="/wiki/The_Adding_Machine" title="The Adding Machine">The Adding Machine</a>.</i><sup id="cite_ref-Weird_Words_8-0" class="reference"><a href="#cite_note-Weird_Words-8"><span>[</span>8<span>]</span></a></sup></li>
+<li>In <a href="/wiki/1942_in_literature" title="1942 in literature">1942</a> <i>Etaoin Shrdlu</i> was the title of a short story by <a href="/wiki/Fredric_Brown" title="Fredric Brown">Fredric Brown</a> about a sentient Linotype machine. (A sequel, <i>Son of Etaoin Shrdlu: More Adventures in Typer and Space</i>, was written by others in 1981.)<sup id="cite_ref-Weird_Words_8-1" class="reference"><a href="#cite_note-Weird_Words-8"><span>[</span>8<span>]</span></a></sup></li>
+<li>Anthony Armstrong's <a href="/wiki/1945_in_literature" title="1945 in literature">1945</a> whimsical short story "Etaoin and Shrdlu" ends "And Sir Etaoin and Shrdlu married and lived so happily ever after that whenever you come across Etaoin's name even today it's generally followed by Shrdlu's".<sup id="cite_ref-Weird_Words_8-2" class="reference"><a href="#cite_note-Weird_Words-8"><span>[</span>8<span>]</span></a></sup></li>
+<li>the name of a <a href="/wiki/Science_fiction_fanzine" title="Science fiction fanzine">science fiction fanzine</a> edited by <a href="/wiki/Sheldon_Lee_Glashow" title="Sheldon Lee Glashow">Sheldon Lee Glashow</a> &amp; <a href="/wiki/Steven_Weinberg" title="Steven Weinberg">Steven Weinberg</a><sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Etaoin_shrdlu&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Filler_text" title="Filler text">Filler text</a></li>
+<li><a href="/wiki/Lorem_ipsum" title="Lorem ipsum">Lorem ipsum</a></li>
+<li><a href="/wiki/Qwerty" title="Qwerty" class="mw-redirect">Qwerty</a></li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Etaoin_shrdlu&amp;action=edit&amp;section=6" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;"></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Etaoin_shrdlu&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Dict-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Dict_1-0">^</a></b></span> <span class="reference-text"><span class="citation encyclopaedia"><a rel="nofollow" class="external text" href="http://www.merriam-webster.com/dictionary/etaoin%20shrdlu">"etaoin shrdlu"</a>. <i><a href="/wiki/Merriam-Webster" title="Merriam-Webster">Merriam-Webster</a></i>. <a href="/wiki/Encyclop%C3%A6dia_Britannica" title="Encyclopædia Britannica">Encyclopædia Britannica</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEtaoin+shrdlu&amp;rft.atitle=etaoin+shrdlu&amp;rft.btitle=Merriam-Webster&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fwww.merriam-webster.com%2Fdictionary%2Fetaoin%2520shrdlu&amp;rft.pub=Encyclop%C3%A6dia+Britannica&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span class="citation web">Stoddard, Samuel (2004). <a rel="nofollow" class="external text" href="http://www.rinkworks.com/words/letterfreq.shtml">"Letter Frequency"</a>. <i>Fun With Words</i>. RinkWorks<span class="reference-accessdate">. Retrieved <span class="nowrap">28 June</span> 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEtaoin+shrdlu&amp;rft.atitle=Letter+Frequency&amp;rft.aufirst=Samuel&amp;rft.aulast=Stoddard&amp;rft.au=Stoddard%2C+Samuel&amp;rft.date=2004&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.rinkworks.com%2Fwords%2Fletterfreq.shtml&amp;rft.jtitle=Fun+With+Words&amp;rft.pub=RinkWorks&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation audio-visual"><a rel="nofollow" class="external text" href="http://www.css.washington.edu/emc/title/4558"><i>Farewell, Etaoin Shrdlu</i></a> (Motion picture). New York City: Educational Media Collection/<a href="/wiki/University_of_Washington" title="University of Washington">University of Washington</a><span class="reference-accessdate">. Retrieved <span class="nowrap">28 June</span> 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEtaoin+shrdlu&amp;rft.btitle=Farewell%2C+Etaoin+Shrdlu&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.css.washington.edu%2Femc%2Ftitle%2F4558&amp;rft.place=New+York+City&amp;rft.pub=Educational+Media+Collection%2FUniversity+of+Washington&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://jmq.sagepub.com/content/43/4/761.extract">Irving E. Fang, "It Isn't ETAOIN SHRDLU; It's ETAONI RSHDLC," <i>Journalism Quarterly,</i> December 1966, vol. 43, no. 4, pages 761-762</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://norvig.com/mayzner.html">Peter Norvig "English Letter Frequency Counts: Mayzner Revisited or ETAOIN SRHLDCU"</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><span class="citation web">Winograd, Terry. <a rel="nofollow" class="external text" href="http://hci.stanford.edu/~winograd/shrdlu/name.html">"How SHRDLU got its name"</a>. <i>SHRDLU</i>. <a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a><span class="reference-accessdate">. Retrieved <span class="nowrap">28 June</span> 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEtaoin+shrdlu&amp;rft.atitle=How+SHRDLU+got+its+name&amp;rft.aufirst=Terry&amp;rft.aulast=Winograd&amp;rft.au=Winograd%2C+Terry&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fhci.stanford.edu%2F~winograd%2Fshrdlu%2Fname.html&amp;rft.jtitle=SHRDLU&amp;rft.pub=Stanford+University&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><span class="citation web">Courtois Jr., Garth (7 August 2008). <a rel="nofollow" class="external text" href="http://www.ababsurdo.com/?p=2235#comment-21369">"Am I old enough to remember keypunch cards? Umm, yeah..."</a>. <i>Blog Archives</i>. ababsurdo.com<span class="reference-accessdate">. Retrieved <span class="nowrap">27 June</span> 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEtaoin+shrdlu&amp;rft.atitle=Am+I+old+enough+to+remember+keypunch+cards%3F+Umm%2C+yeah...&amp;rft.au=Courtois+Jr.%2C+Garth&amp;rft.aufirst=Garth&amp;rft.aulast=Courtois+Jr.&amp;rft.date=7+August+2008&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.ababsurdo.com%2F%3Fp%3D2235%23comment-21369&amp;rft.jtitle=Blog+Archives&amp;rft.pub=ababsurdo.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Weird_Words-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-Weird_Words_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Weird_Words_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Weird_Words_8-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Quinion, Michael. <a rel="nofollow" class="external text" href="http://www.worldwidewords.org/weirdwords/ww-eta1.htm">"etaoin shrdlu"</a>. <i>Weird Words</i>. World Wide Words<span class="reference-accessdate">. Retrieved <span class="nowrap">28 June</span> 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEtaoin+shrdlu&amp;rft.atitle=etaoin+shrdlu&amp;rft.aufirst=Michael&amp;rft.aulast=Quinion&amp;rft.au=Quinion%2C+Michael&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.worldwidewords.org%2Fweirdwords%2Fww-eta1.htm&amp;rft.jtitle=Weird+Words&amp;rft.pub=World+Wide+Words&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.gwern.net/docs/2002-radiance#old-legends">"Old Legends"</a>, <a href="/wiki/Gregory_Benford" title="Gregory Benford">Gregory Benford</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Etaoin_shrdlu&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.imdb.com/title/tt2238777/"><i>Farewell, Etaoin Shrdlu</i></a> at the <a href="/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.straightdope.com/classics/a2_262a.html">"What's the origin of the mysterious phrase <i>etaoin shrdlu</i>?"</a> at <a href="/wiki/The_Straight_Dope" title="The Straight Dope">The Straight Dope</a></li>
+<li><a rel="nofollow" class="external text" href="http://vimeo.com/43461598">Excerpt demonstrating <i>etaoin shrdlu</i></a> from the film <a rel="nofollow" class="external text" href="http://www.imdb.com/title/tt2130114/"><i>Linotype: The Film</i></a> at the <a href="/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+<li><a rel="nofollow" class="external text" href="http://chroniclingamerica.loc.gov/search/pages/results/?state=&amp;date1=1836&amp;date2=1922&amp;proxtext=etaoin+shrdlu&amp;x=12&amp;y=12&amp;dateFilterType=yearRange&amp;rows=20&amp;searchType=basic">Over 100 examples of the phrase used in American newspapers from 1836–1922</a> at the <a href="/wiki/Library_of_Congress" title="Library of Congress">Library of Congress</a></li>
+<li><a rel="nofollow" class="external text" href="http://norvig.com/mayzner.html">English Letter Frequency Counts: Mayzner Revisited or ETAOIN SRHLDCU</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Typography_terms" title="Template:Typography terms"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Typography_terms" title="Template talk:Typography terms"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Typography_terms&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Typography" title="Typography">Typography</a> terminology</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Page_(paper)" title="Page (paper)">Page</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Canons_of_page_construction" title="Canons of page construction">Canons of page construction</a></li>
+<li><a href="/wiki/Column_(typography)" title="Column (typography)">Column</a></li>
+<li><a href="/wiki/Margin_(typography)" title="Margin (typography)">Margin</a></li>
+<li><a href="/wiki/Page_numbering" title="Page numbering">Page numbering</a></li>
+<li><a href="/wiki/Pagination" title="Pagination">Pagination</a></li>
+<li><a href="/wiki/Pull_quote" title="Pull quote">Pull quote</a></li>
+<li><a href="/wiki/Recto_and_verso" title="Recto and verso">Recto and verso</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Paragraph" title="Paragraph">Paragraph</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Typographic_alignment" title="Typographic alignment">Alignment</a></li>
+<li><a href="/wiki/Justification_(typesetting)" title="Justification (typesetting)" class="mw-redirect">Justification</a></li>
+<li><a href="/wiki/Leading" title="Leading">Leading</a></li>
+<li><a href="/wiki/River_(typography)" title="River (typography)">River</a></li>
+<li><a href="/wiki/Sentence_spacing" title="Sentence spacing">Sentence spacing</a></li>
+<li><a href="/wiki/Widows_and_orphans" title="Widows and orphans">Widows and orphans</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Glyph" title="Glyph">Character (glyph)</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:5.0em;font-weight:normal;"><a href="/wiki/Typeface_anatomy" title="Typeface anatomy">Anatomy</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Counter_(typography)" title="Counter (typography)">Counter</a></li>
+<li><a href="/wiki/Diacritic" title="Diacritic">Diacritics</a></li>
+<li><a href="/wiki/Dingbat" title="Dingbat">Dingbat</a></li>
+<li><a href="/wiki/Glyph" title="Glyph">Glyph</a></li>
+<li><a href="/wiki/Initial" title="Initial">Initial</a></li>
+<li><a href="/wiki/Kerning" title="Kerning">Kerning</a></li>
+<li><a href="/wiki/Letter-spacing" title="Letter-spacing">Letter-spacing</a></li>
+<li><a href="/wiki/Typographic_ligature" title="Typographic ligature">Ligature</a></li>
+<li><a href="/wiki/Subscript_and_superscript" title="Subscript and superscript">Subscript and superscript</a></li>
+<li><a href="/wiki/Swash_(typography)" title="Swash (typography)">Swash</a></li>
+<li><a href="/wiki/Text_figures" title="Text figures">Text figures</a></li>
+<li><a href="/wiki/Tittle" title="Tittle">Tittle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:5.0em;font-weight:normal;"><a href="/wiki/Letter_case" title="Letter case">Case</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/CamelCase" title="CamelCase">CamelCase</a></li>
+<li><a href="/wiki/Lower_case" title="Lower case" class="mw-redirect">Lower</a></li>
+<li><a href="/wiki/Sentence_case" title="Sentence case" class="mw-redirect">Sentence</a></li>
+<li><a href="/wiki/Title_case" title="Title case" class="mw-redirect">Title</a></li>
+<li><a href="/wiki/Upper_case" title="Upper case" class="mw-redirect">Upper</a></li>
+</ul>
+</div>
+<div class="hlist">
+<ul>
+<li><a href="/wiki/All_caps" title="All caps">All caps</a></li>
+<li><a href="/wiki/Petite_caps" title="Petite caps" class="mw-redirect">Petite caps</a></li>
+<li><a href="/wiki/Small_caps" title="Small caps">Small caps</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:5.0em;font-weight:normal;">Vertical</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ascender_(typography)" title="Ascender (typography)">Ascender</a></li>
+<li><a href="/wiki/Baseline_(typography)" title="Baseline (typography)">Baseline</a></li>
+<li><a href="/wiki/Cap_height" title="Cap height">Cap height</a></li>
+<li><a href="/wiki/Descender" title="Descender">Descender</a></li>
+<li><a href="/wiki/Mean_line" title="Mean line">Median</a></li>
+<li><a href="/wiki/Overshoot_(typography)" title="Overshoot (typography)">Overshoot</a></li>
+<li><a href="/wiki/X-height" title="X-height">x-height</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Typeface" title="Typeface">Classifications</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:5.0em;font-weight:normal;"><a href="/wiki/Roman_type" title="Roman type">Roman</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Antiqua_(typeface_class)" title="Antiqua (typeface class)">Antiqua (Old Style)</a></li>
+<li><a href="/wiki/Didone_(typography)" title="Didone (typography)">Didone (Modern)</a></li>
+<li><a href="/wiki/Sans-serif#Classification" title="Sans-serif">Sans-serif</a></li>
+<li><a href="/wiki/Script_typeface" title="Script typeface">Script</a></li>
+<li><a href="/wiki/Serif" title="Serif">Serif</a></li>
+<li><a href="/wiki/Slab_serif" title="Slab serif">Slab serif</a></li>
+<li><a href="/wiki/Serif#Transitional" title="Serif">Transitional</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:5.0em;font-weight:normal;"><a href="/wiki/Blackletter" title="Blackletter">Blackletter</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Fraktur" title="Fraktur">Fraktur</a></li>
+<li><a href="/wiki/Rotunda_(script)" title="Rotunda (script)">Rotunda</a></li>
+<li><a href="/wiki/Schwabacher" title="Schwabacher">Schwabacher</a></li>
+<li><a href="/wiki/Blackletter#Textualis" title="Blackletter">Textualis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:5.0em;font-weight:normal;"><a href="/wiki/Gaelic_type" title="Gaelic type">Gaelic</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Insular_script" title="Insular script">Angular</a></li>
+<li><a href="/wiki/Uncial_script" title="Uncial script">Uncial</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Punctuation" title="Punctuation">Punctuation</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dash" title="Dash">Dashes</a></li>
+<li><a href="/wiki/Hanging_punctuation" title="Hanging punctuation">Hanging punctuation</a></li>
+<li><a href="/wiki/Hyphen" title="Hyphen">Hyphenation</a></li>
+<li><a href="/wiki/Prime_(symbol)" title="Prime (symbol)">Prime mark</a></li>
+<li><a href="/wiki/Quotation_mark" title="Quotation mark">Quotation mark</a>&#160;(<a href="/wiki/International_variation_in_quotation_marks" title="International variation in quotation marks" class="mw-redirect">variation</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Typesetting" title="Typesetting">Typesetting</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Calligraphy" title="Calligraphy">Calligraphy</a></li>
+<li><strong class="selflink">etaoin shrdlu</strong></li>
+<li><a href="/wiki/Font" title="Font">Font</a>&#160;(<a href="/wiki/Computer_font" title="Computer font">computer</a>)</li>
+<li><a href="/wiki/Font_catalog" title="Font catalog">Font catalog</a></li>
+<li><a href="/wiki/Letterpress_printing" title="Letterpress printing">Letterpress</a></li>
+<li><a href="/wiki/Lorem_ipsum" title="Lorem ipsum">Lorem ipsum</a></li>
+<li><a href="/wiki/Microtypography" title="Microtypography">Microtypography</a></li>
+<li><a href="/wiki/Movable_type" title="Movable type">Movable type</a></li>
+<li><a href="/wiki/Pangram" title="Pangram">Pangram</a></li>
+<li><a href="/wiki/Phototypesetting" title="Phototypesetting">Phototypesetting</a></li>
+<li><a href="/wiki/Punchcutting" title="Punchcutting">Punchcutting</a></li>
+<li><a href="/wiki/Type_color" title="Type color">Type color</a></li>
+<li><a href="/wiki/Type_design" title="Type design">Type design</a></li>
+<li><a href="/wiki/Typeface" title="Typeface">Typeface</a>&#160;(<a href="/wiki/List_of_typefaces" title="List of typefaces">list</a>)</li>
+<li><a href="/wiki/Monospaced_font" title="Monospaced font">Monospaced font</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Typographic_unit" title="Typographic unit">Typographic units</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Agate_(typography)" title="Agate (typography)">Agate</a></li>
+<li><a href="/wiki/Cicero_(typography)" title="Cicero (typography)">Cicero</a></li>
+<li><a href="/wiki/Em_(typography)" title="Em (typography)">Em</a></li>
+<li><a href="/wiki/En_(typography)" title="En (typography)">En</a></li>
+<li><a href="/wiki/Figure_space" title="Figure space">Figure space</a></li>
+<li><a href="/wiki/Measure_(typography)" title="Measure (typography)">Measure</a></li>
+<li><a href="/wiki/Paren_space" title="Paren space">Paren space</a></li>
+<li><a href="/wiki/Pica_(typography)" title="Pica (typography)">Pica</a></li>
+<li><a href="/wiki/Point_(typography)" title="Point (typography)">Point</a></li>
+<li><a href="/wiki/Thin_space" title="Thin space">Thin space</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Category:Digital_typography" title="Category:Digital typography">Digital typography</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Character_encoding" title="Character encoding">Character encoding</a></li>
+<li><a href="/wiki/Category:Font_formats" title="Category:Font formats">Font formats</a></li>
+<li><a href="/wiki/Font_hinting" title="Font hinting">Hinting</a></li>
+<li><a href="/wiki/Font_rasterization" title="Font rasterization">Rasterization</a></li>
+<li><a href="/wiki/Category:Typesetting_software" title="Category:Typesetting software">Typesetting software</a></li>
+<li><a href="/wiki/List_of_typographic_features" title="List of typographic features">List of typographic features</a></li>
+<li><a href="/wiki/Web_typography" title="Web typography">Web typography</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Related topics</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_type_designers" title="List of type designers">List of type designers</a></li>
+<li><a href="/wiki/Style_guide" title="Style guide">Style guide</a></li>
+<li><a href="/wiki/Type_foundry" title="Type foundry">Type foundry</a></li>
+<li><a href="/wiki/Category:Typographers" title="Category:Typographers">Typographers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow hlist" colspan="2" style="font-weight:bold;">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Typography" title="Category:Typography">Category</a></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <a href="/wiki/Portal:Typography" title="Portal:Typography">Portal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1052
+CPU time usage: 0.377 seconds
+Real time usage: 0.439 seconds
+Preprocessor visited node count: 3969/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 54189/2097152 bytes
+Template argument size: 2738/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 1/500
+Lua time usage: 0.074/10.000 seconds
+Lua memory usage: 2.48 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  299.430      1 - -total
+ 28.10%   84.136      2 - Template:Reflist
+ 23.41%   70.098      3 - Template:Navbox
+ 23.38%   70.016      1 - Template:IPAc-en
+ 21.21%   63.519      1 - Template:Nowrap
+ 19.15%   57.355      1 - Template:Typography_terms
+ 16.23%   48.605     13 - Template:H:IPA
+ 11.63%   34.810      2 - Template:IMDb_title
+ 10.79%   32.296      1 - Template:Cite_encyclopedia
+  9.94%   29.771      1 - Template:Redirect-distinguish2
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:198680-0!*!0!!en!4!* and timestamp 20150131224518 and revision id 643961294
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from &quot;<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Etaoin_shrdlu&amp;oldid=643961294">http://en.wikipedia.org/w/index.php?title=Etaoin_shrdlu&amp;oldid=643961294</a>&quot;					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:English_phrases" title="Category:English phrases">English phrases</a></li><li><a href="/wiki/Category:In-jokes" title="Category:In-jokes">In-jokes</a></li><li><a href="/wiki/Category:Filler_text" title="Category:Filler text">Filler text</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Etaoin+shrdlu&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Etaoin+shrdlu" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Etaoin_shrdlu"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Etaoin_shrdlu"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Etaoin_shrdlu" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Etaoin_shrdlu&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Etaoin_shrdlu&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Etaoin_shrdlu" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Etaoin_shrdlu" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Etaoin_shrdlu&amp;oldid=643961294" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Etaoin_shrdlu&amp;action=info" title="More information about this page">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q670443" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Etaoin_shrdlu&amp;id=643961294" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Etaoin+shrdlu">Create a book</a></li>
+													<li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Etaoin+shrdlu&amp;oldid=643961294&amp;writer=rdf2latex">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Etaoin_shrdlu&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/ETAOIN_SHRDLU" title="ETAOIN SHRDLU – German" lang="de" hreflang="de">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/ETAOIN_SHRDLU" title="ETAOIN SHRDLU – French" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/ETAOIN_SHRDLU" title="ETAOIN SHRDLU – Korean" lang="ko" hreflang="ko">한국어</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/ETAOIN_SHRDLU" title="ETAOIN SHRDLU – Italian" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Etaoin_Shrdlu" title="Etaoin Shrdlu – Dutch" lang="nl" hreflang="nl">Nederlands</a></li>
+													<li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/ETAOIN_SHRDLU" title="ETAOIN SHRDLU – Japanese" lang="ja" hreflang="ja">日本語</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/ETAOIN_SHRDLU" title="ETAOIN SHRDLU – Polish" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/ETAOIN_SHRDLU" title="ETAOIN SHRDLU – Russian" lang="ru" hreflang="ru">Русский</a></li>
+													<li class="interlanguage-link interwiki-th"><a href="//th.wikipedia.org/wiki/ETAOIN_SHRDLU" title="ETAOIN SHRDLU – Thai" lang="th" hreflang="th">ไทย</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q670443#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 24 January 2015, at 14:28.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Etaoin_shrdlu&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" srcset="//bits.wikimedia.org/images/wikimedia-button-1.5x.png 1.5x, //bits.wikimedia.org/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.25wmf15/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.eventLogging.subscriber","ext.wikimediaEvents.statsd","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":109,"wgHostname":"mw1059"});
+}</script>
+	</body>
+</html>

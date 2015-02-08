@@ -1,0 +1,1058 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Happy number - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.25wmf15" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Happy_number" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Happy_number&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Happy_number&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Happy_number" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/Happy_number" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.geshi.language.python%7Cext.geshi.local%7Cext.math.styles%7Cext.rtlcite%2Cwikihiero%2CwikimediaBadges%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Happy_number","wgTitle":"Happy number","wgCurRevisionId":645168377,"wgRevisionId":645168377,"wgArticleId":542994,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing potentially dated statements from 2010","All articles containing potentially dated statements","All articles with unsourced statements","Articles with unsourced statements from June 2013","All articles with failed verification","Articles with failed verification from December 2014","Use dmy dates from June 2011","Base-dependent integer sequences","Recreational mathematics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Happy_number","wgRelevantArticleId":542994,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":4096,"namespacesWithSubpages":{"6":0,"8":0,"1":true,"2":true,"3":true,"4":true,"5":true,"7":true,"9":true,"10":true,"11":true,"12":true,"13":true,"14":true,"15":true,"100":true,"101":true,"102":true,"103":true,"104":true,"105":true,"106":true,"107":true,"108":true,"109":true,"110":true,"111":true,"830":true,"831":true,"447":true,"2600":false,"828":true,"829":true}},"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q44535"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});},{},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:94007ea073e20ad4a3cdce36b2f2e369 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf15/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Happy_number skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Happy number</span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">Not to be confused with <a href="/wiki/Harshad_number" title="Harshad number">Harshad number</a> (derived from Sanskrit <i>harsa</i>: "great joy").</div>
+<p>A <b>happy number</b> is a number defined by the following process: Starting with any <a href="/wiki/Positive_number" title="Positive number" class="mw-redirect">positive</a> <a href="/wiki/Integer" title="Integer">integer</a>, replace the number by the <a href="/wiki/Summation" title="Summation">sum</a> of the squares of its <a href="/wiki/Numerical_digit" title="Numerical digit">digits</a>, and repeat the process until the number equals 1 (where it will stay), or it loops endlessly in a cycle which does not include&#160;1. Those numbers for which this process ends in 1 are <b>happy numbers</b>, while those that do not end in 1 are <b>unhappy numbers</b> (or <b>sad numbers</b>).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Sequence_behavior"><span class="tocnumber">2</span> <span class="toctext">Sequence behavior</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Happy_primes"><span class="tocnumber">3</span> <span class="toctext">Happy primes</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Happy_numbers_in_other_bases"><span class="tocnumber">4</span> <span class="toctext">Happy numbers in other bases</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Cubing_the_digits_rather_than_squaring"><span class="tocnumber">5</span> <span class="toctext">Cubing the digits rather than squaring</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Higher_powers"><span class="tocnumber">6</span> <span class="toctext">Higher powers</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Origin"><span class="tocnumber">7</span> <span class="toctext">Origin</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Popular_culture"><span class="tocnumber">8</span> <span class="toctext">Popular culture</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Programming_example"><span class="tocnumber">9</span> <span class="toctext">Programming example</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">10</span> <span class="toctext">References</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Additional_resources"><span class="tocnumber">10.1</span> <span class="toctext">Additional resources</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">11</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Happy_number&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>More formally, given a number <img class="mwe-math-fallback-image-inline tex" alt="n=n_0" src="//upload.wikimedia.org/math/4/c/6/4c6d340767c668c07549c2121b9203ff.png" />, define a sequence <img class="mwe-math-fallback-image-inline tex" alt="n_1" src="//upload.wikimedia.org/math/c/a/2/ca28d2957bcfd844805dfd1c339dfc2f.png" />, <img class="mwe-math-fallback-image-inline tex" alt="n_2" src="//upload.wikimedia.org/math/2/7/e/27e7b1346e011cf2896a04df87832534.png" />, ... where <img class="mwe-math-fallback-image-inline tex" alt="n_{i+1}" src="//upload.wikimedia.org/math/3/8/e/38ebb6652adf4311d6092635e3cc65fb.png" /> is the sum of the squares of the digits of <img class="mwe-math-fallback-image-inline tex" alt="n_i" src="//upload.wikimedia.org/math/f/7/5/f75ef7544498f247df440d828aee41aa.png" />. Then <i>n</i> is happy if and only if there exists <i>i</i> such that <img class="mwe-math-fallback-image-inline tex" alt="n_i = 1" src="//upload.wikimedia.org/math/6/4/8/648b9a5cf18b01aaf6634b28c835f791.png" />.</p>
+<p>If a number is happy, then all members of its sequence are happy; if a number is unhappy, all members of the sequence are unhappy.</p>
+<p>For example, 19 is happy, as the associated sequence is:</p>
+<dl>
+<dd>1<sup>2</sup> + 9<sup>2</sup> = 82</dd>
+<dd>8<sup>2</sup> + 2<sup>2</sup> = 68</dd>
+<dd>6<sup>2</sup> + 8<sup>2</sup> = 100</dd>
+<dd>1<sup>2</sup> + 0<sup>2</sup> + 0<sup>2</sup> = 1.</dd>
+</dl>
+<p>The 143 happy numbers up to 1,000 are:</p>
+<dl>
+<dd>1, 7, 10, 13, 19, 23, 28, 31, 32, 44, 49, 68, 70, 79, 82, 86, 91, 94, 97, 100, 103, 109, 129, 130, 133, 139, 167, 176, 188, 190, 192, 193, 203, 208, 219, 226, 230, 236, 239, 262, 263, 280, 291, 293, 301, 302, 310, 313, 319, 320, 326, 329, 331, 338, 356, 362, 365, 367, 368, 376, 379, 383, 386, 391, 392, 397, 404, 409, 440, 446, 464, 469, 478, 487, 490, 496, 536, 556, 563, 565, 566, 608, 617, 622, 623, 632, 635, 637, 638, 644, 649, 653, 655, 656, 665, 671, 673, 680, 683, 694, 700, 709, 716, 736, 739, 748, 761, 763, 784, 790, 793, 802, 806, 818, 820, 833, 836, 847, 860, 863, 874, 881, 888, 899, 901, 904, 907, 910, 912, 913, 921, 923, 931, 932, 937, 940, 946, 964, 970, 973, 989, 998, 1000 (sequence <span class="nowrap"><a href="//oeis.org/A007770" class="extiw" title="oeis:A007770">A007770</a></span> in <a href="/wiki/On-Line_Encyclopedia_of_Integer_Sequences" title="On-Line Encyclopedia of Integer Sequences">OEIS</a>).</dd>
+</dl>
+<p>The happiness of a number is unaffected by rearranging the digits, and by inserting or removing any number of zeros anywhere in the number.</p>
+<p>The distinct combinations of digits that form happy numbers below 1,000 follow (the rest are just rearrangements and/or insertions of zero digits):</p>
+<dl>
+<dd>1, 7, 13, 19, 23, 28, 44, 49, 68, 79, 129, 133, 139, 167, 188, 226, 236, 239, 338, 356, 367, 368, 379, 446, 469, 478, 556, 566, 888, 899. (sequence <span class="nowrap"><a href="//oeis.org/A124095" class="extiw" title="oeis:A124095">A124095</a></span> in <a href="/wiki/On-Line_Encyclopedia_of_Integer_Sequences" title="On-Line Encyclopedia of Integer Sequences">OEIS</a>).</dd>
+</dl>
+<h2><span class="mw-headline" id="Sequence_behavior">Sequence behavior</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Happy_number&amp;action=edit&amp;section=2" title="Edit section: Sequence behavior">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>If <i>n</i> is not happy, then its sequence does not go to 1. Instead, it ends in the cycle:</p>
+<dl>
+<dd>4, 16, 37, 58, 89, 145, 42, 20, 4, ...</dd>
+</dl>
+<p>To see this fact, first note that if <i>n</i> has <i>m</i> digits, then the sum of the squares of its digits is at most <img class="mwe-math-fallback-image-inline tex" alt="9^2 m" src="//upload.wikimedia.org/math/8/6/d/86d1f2b99ee716acbf494c0d08632ad7.png" />, or <img class="mwe-math-fallback-image-inline tex" alt="81m" src="//upload.wikimedia.org/math/4/c/3/4c302efdfbf2d0ee2dc6dab341b814d0.png" />.</p>
+<p>For <img class="mwe-math-fallback-image-inline tex" alt="m=4" src="//upload.wikimedia.org/math/c/c/2/cc29e84152f151181d4813b7ea8adb81.png" /> and above,</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="n\geq10^{m-1}&gt;81m" src="//upload.wikimedia.org/math/4/c/2/4c2179cb209d6bce6d58dc69efe21b1e.png" /></dd>
+</dl>
+<p>so any number over 1000 gets smaller under this process and in particular becomes a number with strictly fewer digits. Once we are under 1000, the number for which the sum of squares of digits is largest is 999, and the result is 3 times 81, that is, 243.</p>
+<ul>
+<li>In the range 100 to 243, the number 199 produces the largest next value, of 163.</li>
+<li>In the range 100 to 163, the number 159 produces the largest next value, of 107.</li>
+<li>In the range 100 to 107, the number 107 produces the largest next value, of 50.</li>
+</ul>
+<p>Considering more precisely the <a href="/wiki/Interval_(mathematics)" title="Interval (mathematics)">intervals</a> [244,999], [164,243], [108,163] and [100,107], we see that every number above 99 gets strictly smaller under this process. Thus, no matter what number we start with, we eventually drop below 100. An exhaustive search then shows that every number in the interval [1,99] either is happy or goes to the above cycle.</p>
+<p>The above work produces the interesting result that no positive integer other than 1 is the sum of the squares of its own digits, since any such number would be a fixed point of the described process.</p>
+<p>There are infinitely many happy numbers and infinitely many unhappy numbers. Consider the following proof:</p>
+<ul>
+<li>1 is a happy number, and for every <i>n</i>, 10<sup>n</sup> is happy since its sum is 1</li>
+<li>and for every <i>n</i>, 2 × 10<sup>n</sup> is unhappy since its sum is 4 and 4 is an unhappy number.</li>
+</ul>
+<p>Indeed, the <i>happiness</i> of a number is preserved by removing or inserting zeroes at will, since they do not contribute to the cross sum. And as in the proof, especially by appending zeroes on the end of the number (by multiplying with 10<sup>n</sup>).</p>
+<p>The first pair of consecutive happy numbers is 31, 32.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> The first set of triplets is 1880, 1881, and 1882.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></p>
+<p>An interesting question is to wonder about the density of happy numbers. In the interval <img class="mwe-math-fallback-image-inline tex" alt="[1,10^{122}]" src="//upload.wikimedia.org/math/3/2/b/32b136e342286b0b5b6a118f90208794.png" />, 15.5% (to three significant figures) are happy.(sequence <span class="nowrap"><a href="//oeis.org/A068571" class="extiw" title="oeis:A068571">A068571</a></span> in <a href="/wiki/On-Line_Encyclopedia_of_Integer_Sequences" title="On-Line Encyclopedia of Integer Sequences">OEIS</a>)</p>
+<h2><span class="mw-headline" id="Happy_primes">Happy primes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Happy_number&amp;action=edit&amp;section=3" title="Edit section: Happy primes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A <b>happy prime</b> is a number that is both happy and <a href="/wiki/Prime_number" title="Prime number">prime</a>. The happy primes below 500 are</p>
+<blockquote>
+<p>7, 13, 19, 23, 31, 79, 97, 103, 109, 139, 167, 193, 239, 263, 293, 313, 331, 367, 379, 383, 397, 409, 487 (sequence <span class="nowrap"><a href="//oeis.org/A035497" class="extiw" title="oeis:A035497">A035497</a></span> in <a href="/wiki/On-Line_Encyclopedia_of_Integer_Sequences" title="On-Line Encyclopedia of Integer Sequences">OEIS</a>).</p>
+</blockquote>
+<p>All numbers, and therefore all primes, of the form 10<sup><i>n</i></sup> + 3 or 10<sup><i>n</i></sup> + 9 for <i>n</i> greater than 0 are happy (This does not mean that these are the only happy primes, as evidenced by the sequence above). To see this, note that</p>
+<ul>
+<li>All such numbers will have at least two digits;</li>
+<li>The first digit will always be <i>1</i> due to the 10<sup>n</sup></li>
+<li>The last digit will always be either <i>3</i> or <i>9</i>.</li>
+<li>Any other digits will always be <i>0</i> (and therefore will not contribute to the sum of squares of the digits).
+<ul>
+<li>The sequence for numbers ending in 3 is: 1<sup>2</sup> + 3<sup>2</sup> = 10 → 1<sup>2</sup> = 1</li>
+<li>The sequence for numbers ending in 9 is: 1<sup>2</sup> + 9<sup>2</sup> = 82 → 8<sup>2</sup> + 2<sup>2</sup> = 64 + 4 = 68 → 6<sup>2</sup> + 8<sup>2</sup> = 36 + 64 = 100 -&gt; 1</li>
+</ul>
+</li>
+</ul>
+<p>The <a href="/wiki/Palindromic_prime" title="Palindromic prime">palindromic prime</a> 10<sup>150006</sup> + 7426247<span style="margin:0 .15em 0 .25em">×</span>10<sup>75<span style="margin-left:.25em">000</span></sup> + 1 is also a happy prime with 150,007 digits because the many 0's do not contribute to the sum of squared digits, and <img class="mwe-math-fallback-image-inline tex" alt="1^2 + 7^2+4^2+2^2+6^2+2^2+4^2+7^2 + 1^2 = 176" src="//upload.wikimedia.org/math/8/c/1/8c143f6ca7a1f7e70b750e17b4120b88.png" />, which is a happy number. Paul Jobling discovered the prime in 2005.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></p>
+<p>As of 2010<sup class="plainlinks noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Happy_number&amp;action=edit">[update]</a></sup>, the largest known happy prime is <img class="mwe-math-fallback-image-inline tex" alt="2^{42643801}-1" src="//upload.wikimedia.org/math/d/d/2/dd218c84297677e41e6ab24796e1b2c1.png" /> (<a href="/wiki/Mersenne_prime" title="Mersenne prime">Mersenne prime</a>). Its decimal expansion has 12,837,064 digits.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Happy_numbers_in_other_bases">Happy numbers in other bases</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Happy_number&amp;action=edit&amp;section=4" title="Edit section: Happy numbers in other bases">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The definition of happy numbers depends on the decimal (i.e., base 10) representation of the numbers. The definition can be extended to other <a href="/wiki/Radix" title="Radix">bases</a>.</p>
+<p>To represent numbers in other bases, we may use a subscript to the right to indicate the base. For instance, <img class="mwe-math-fallback-image-inline tex" alt="100_2" src="//upload.wikimedia.org/math/c/a/5/ca5a4a6dfbdbde46150bffc8a1027cc4.png" /> represents the number 4, and</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="123_5 = 1 \cdot 5^2 + 2 \cdot 5 + 3 =38." src="//upload.wikimedia.org/math/8/2/c/82c92c3b825e52566b5543bfdf97a6b8.png" /></dd>
+</dl>
+<p>Then, it is easy to see that there are happy numbers in every base. For instance, the numbers</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="1_b,10_b,100_b,1000_b,..." src="//upload.wikimedia.org/math/1/9/6/196fd8d8e6590b8f36378493b862fe4a.png" /></dd>
+</dl>
+<p>are all happy, for any base <i>b</i>.</p>
+<p>By a similar argument to the one above for decimal happy numbers, unhappy numbers in base <i>b</i> lead to cycles of numbers less than <img class="mwe-math-fallback-image-inline tex" alt="1000_b" src="//upload.wikimedia.org/math/9/7/e/97e00766e5f3af97939fd2496658750e.png" />. If <img class="mwe-math-fallback-image-inline tex" alt="n &lt; 1000_b" src="//upload.wikimedia.org/math/0/7/5/0759e917a448abf6ebbc0bbdb726879e.png" />, then the sum of the squares of the base-<i>b</i> digits of <i>n</i> is less than or equal to</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="3(b-1)^2" src="//upload.wikimedia.org/math/e/9/5/e958fa18756899efd841fc3fba77cae9.png" /></dd>
+</dl>
+<p>which can be shown to be less than <img class="mwe-math-fallback-image-inline tex" alt="b^3" src="//upload.wikimedia.org/math/2/9/1/291b69a87f60c88a1b98d6fe7bd74aa1.png" />, for <img class="mwe-math-fallback-image-inline tex" alt="b \geq 5" src="//upload.wikimedia.org/math/a/3/5/a357004080aa138030b5a5d5a58cbdef.png" /> . This shows that once the sequence reaches a number less than <img class="mwe-math-fallback-image-inline tex" alt="1000_b" src="//upload.wikimedia.org/math/9/7/e/97e00766e5f3af97939fd2496658750e.png" />, it stays below <img class="mwe-math-fallback-image-inline tex" alt="1000_b" src="//upload.wikimedia.org/math/9/7/e/97e00766e5f3af97939fd2496658750e.png" />, and hence must cycle or reach 1.</p>
+<p>In base 2, all numbers are happy. All <a href="/wiki/Binary_numeral_system" title="Binary numeral system" class="mw-redirect">binary</a> numbers larger than 1000<sub>2</sub> decay into a value equal to or less than 1000<sub>2</sub>, and all such values are happy: The following four sequences contain all numbers less than <img class="mwe-math-fallback-image-inline tex" alt="1000_2" src="//upload.wikimedia.org/math/f/6/8/f6880e37cebd57507ba3ff60e2c310c5.png" />:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt=" 111_2 \rightarrow 11_2 \rightarrow 10_2 \rightarrow 1 " src="//upload.wikimedia.org/math/c/5/6/c565f853eaa1521351c08f2ab47a9490.png" /></dd>
+<dd><img class="mwe-math-fallback-image-inline tex" alt=" 110_2 \rightarrow 10_2 \rightarrow 1 " src="//upload.wikimedia.org/math/f/3/b/f3ba8f1cb142db1412f20372f444a9b4.png" /></dd>
+<dd><img class="mwe-math-fallback-image-inline tex" alt=" 101_2 \rightarrow 10_2 \rightarrow 1 " src="//upload.wikimedia.org/math/8/0/e/80e20a8d6d149676641f38d061b2b260.png" /></dd>
+<dd><img class="mwe-math-fallback-image-inline tex" alt=" 100_2 \rightarrow 1. " src="//upload.wikimedia.org/math/a/b/c/abce897445c9732f034f68fb7eaf0090.png" /></dd>
+</dl>
+<p>Since all sequences end in 1, we conclude that all numbers are happy in base 2. This makes base 2 a <i>happy base</i>.</p>
+<p>The only known happy bases are 2 and 4. There are no others less than 500,000,000.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></p>
+<p>Base 3 is also a special case in that the Happiness (or Sadness) of a number is an indication also of being odd (or Even). Specifically, because 3 - 1 = 2, the sum of every digit of a base 3 number will indicate divisibility by 2 IFF the sum of digits ends in 0 or 2. This is the general application of the test for 9-divisibility in base 10. Recall too that in <a href="/wiki/Balanced_Ternary" title="Balanced Ternary" class="mw-redirect">Balanced Ternary</a>, the digits are 1, -1 and 0. The square of both 1 and -1 are 1, and 1 + 1 is 2, which is the only Balanced Ternary cycle. For every pair of digits 1 or -1, their sum is 0 and the sum of their squares is 2 and if there are an even number of 1, -1 sets, the number divisible by 2 and Sad and if odd, it's Happy. In this case, the result always end in a one-digit cycle of 0, 1 or 2, repeated infinitely. In <a href="/wiki/Ternary_numeral_system" title="Ternary numeral system">Unbalanced Ternary</a>, the digits square to 1 and 4, and in this case there are 5 loops: 0, 1, 2→4→2, 5 and 8. While all even numbers are Sad because they end in the 0, 2 or 8 cycle, some odd numbers are also Sad because they end in 5 or 1, and are thus occasionally sad.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2013)">citation needed</span></a></i>]</sup></p>
+<h2><span class="mw-headline" id="Cubing_the_digits_rather_than_squaring">Cubing the digits rather than squaring</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Happy_number&amp;action=edit&amp;section=5" title="Edit section: Cubing the digits rather than squaring">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A variation to the happy numbers problem is to find the sum of the cubes of the digits rather than the sum of the squares of the digits. For example, working in base 10, 1579 is happy, since:</p>
+<dl>
+<dd>1<sup>3</sup>+5<sup>3</sup>+7<sup>3</sup>+9<sup>3</sup>=1+125+343+729=1198</dd>
+<dd>1<sup>3</sup>+1<sup>3</sup>+9<sup>3</sup>+8<sup>3</sup>=1+1+729+512=1243</dd>
+<dd>1<sup>3</sup>+2<sup>3</sup>+4<sup>3</sup>+3<sup>3</sup>=1+8+64+27=100</dd>
+<dd>1<sup>3</sup>+0<sup>3</sup>+0<sup>3</sup>=1</dd>
+</dl>
+<p>In the same way that when summing the squares of the digits (and working in base 10) each number above 243(=3*81) produces a number which is strictly smaller, when summing the cubes of the digits each number above 2916(=4*729) produces a number which is strictly smaller.</p>
+<p>By conducting an exhaustive search of [1,2916] one finds that for summing the cubes of digits base 10 there are happy numbers and eight different types of unhappy number:</p>
+<p>those that eventually reach <img class="mwe-math-fallback-image-inline tex" alt=" 153, 370, 371," src="//upload.wikimedia.org/math/f/b/0/fb0e51f88f7090467d3ea36e4479a710.png" /> or <img class="mwe-math-fallback-image-inline tex" alt=" 407 " src="//upload.wikimedia.org/math/f/4/f/f4f6dce2f3a0f9dada0c2b5b66452017.png" /> which perpetually produce themselves.</p>
+<p>those that eventually reach the loops:</p>
+<p><img class="mwe-math-fallback-image-inline tex" alt=" 133 \rightarrow 55 \rightarrow 250 \rightarrow 133 \rightarrow 55 \rightarrow 250 ... " src="//upload.wikimedia.org/math/d/4/9/d49bd07f7ef650ab269c357157abb718.png" /></p>
+<p><img class="mwe-math-fallback-image-inline tex" alt=" 217 \rightarrow 352 \rightarrow 160 \rightarrow 217 \rightarrow 352 \rightarrow 160 ... " src="//upload.wikimedia.org/math/8/4/4/844b27d17baf2ab72a3092189729615e.png" />,</p>
+<p>as well as those that alternate between <img class="mwe-math-fallback-image-inline tex" alt=" 1459 " src="//upload.wikimedia.org/math/1/a/b/1abb1e1ea5f481b589da52303b091cbb.png" /> and <img class="mwe-math-fallback-image-inline tex" alt=" 919 " src="//upload.wikimedia.org/math/3/e/8/3e89ebdb49f712c7d90d1b39e348bbbf.png" /> or between <img class="mwe-math-fallback-image-inline tex" alt=" 136 " src="//upload.wikimedia.org/math/4/2/a/42a0e188f5033bc65bf8d78622277c4e.png" /> and <img class="mwe-math-fallback-image-inline tex" alt=" 244 " src="//upload.wikimedia.org/math/9/1/8/9188905e74c28e489b44e954ec0b9bca.png" />.</p>
+<p>The second type of unhappy number includes all multiples of three. This fact can be proved by the exhaustive search up to 2916 and noting that a number is a multiple of three if and only if the sum of digits is a multiple of three if and only if the sum of its cubed digits are a multiple of three. By similar reasoning, all happy numbers of this type must have a remainder of 1 when dividing by 3.</p>
+<p>The only positive whole numbers which are the sum of the cubes of their digits are 1, 153, 370, 371 and 407 (sequence <span class="nowrap"><a href="//oeis.org/A046197" class="extiw" title="oeis:A046197">A046197</a></span> in <a href="/wiki/On-Line_Encyclopedia_of_Integer_Sequences" title="On-Line Encyclopedia of Integer Sequences">OEIS</a>).</p>
+<h2><span class="mw-headline" id="Higher_powers">Higher powers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Happy_number&amp;action=edit&amp;section=6" title="Edit section: Higher powers">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>For higher powers, not many happy numbers exist.</p>
+<p>For fourth powers, at least, in the range 1 through 100, for example, only 1 and 10 are happy.</p>
+<p>Taking the sum of the fourth powers of the digits, one can find that most of the numbers between 1 and 100 end in the loop:</p>
+<p>13139, 6725, 4338, 4514, 1138, 4179, 9219, 13139, 6725, 4338, 4514, 1138, 4179, 9219, etc.</p>
+<p>as well as those that end in <img class="mwe-math-fallback-image-inline tex" alt=" 1634, 8208 " src="//upload.wikimedia.org/math/6/3/6/6366ff4679c1a4e5e8412997234d1366.png" />, or <img class="mwe-math-fallback-image-inline tex" alt=" 9474 " src="//upload.wikimedia.org/math/7/e/a/7eab47bf3a57db8e440e5a788467c37f.png" /> which perpetually produce themselves.</p>
+<p>For fifth powers, 1 through 100 all end in loops except 1 and 10; 2 and 6 end in one loop of 28 numbers. 3, 6, 9, and almost all multiples of three end in another, 4 ends in a 4-number loop, and 5 and 8 end in another.</p>
+<h2><span class="mw-headline" id="Origin">Origin</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Happy_number&amp;action=edit&amp;section=7" title="Edit section: Origin">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The origin of happy numbers is not clear. Happy numbers were brought to the attention of <a href="/w/index.php?title=Reg_Allenby&amp;action=edit&amp;redlink=1" class="new" title="Reg Allenby (page does not exist)">Reg Allenby</a> (a British author and Senior Lecturer in <a href="/wiki/Pure_mathematics" title="Pure mathematics">pure mathematics</a> at <a href="/wiki/Leeds_University" title="Leeds University" class="mw-redirect">Leeds University</a>) by his daughter, who had learned of them at school. However, they "may have originated in Russia" (<a href="#CITEREFGuy2004">Guy 2004</a>:§E34).</p>
+<h2><span class="mw-headline" id="Popular_culture">Popular culture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Happy_number&amp;action=edit&amp;section=8" title="Edit section: Popular culture">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the 2007 <i><a href="/wiki/Doctor_Who" title="Doctor Who">Doctor Who</a></i> episode "<a href="/wiki/42_(Doctor_Who)" title="42 (Doctor Who)">42</a>", a sequence of happy primes (313, 331, 367, 379) is used as a <a href="/wiki/Code" title="Code">code</a> for unlocking a sealed door on a spaceship about to collide with a star. When the Doctor learns that nobody on the spaceship besides himself has heard of happy numbers, he asks, "Don't they teach <a href="/wiki/Recreational_mathematics" title="Recreational mathematics">recreational mathematics</a> anymore?"</p>
+<p>The contestants in the 2012 <a href="/wiki/University_Challenge" title="University Challenge">University Challenge</a> final were asked to identify a sequence of numbers as happy primes in a picture round.</p>
+<h2><span class="mw-headline" id="Programming_example">Programming example</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Happy_number&amp;action=edit&amp;section=9" title="Edit section: Programming example">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The examples below apply the 'happy' process described in the definition of happy given at the top of this article, repeatedly; after each time, they check for both halt conditions: reaching 1, and repeating a number. Everything else is book-keeping (for example, the Python example precomputes the squares of all 10 digits).</p>
+<p>A simple test in <a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a> to check if a number is happy:<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup><sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability"><span title="The material near this tag failed verification of its source citation(s). (December 2014)">not in citation given</span></a></i>]</sup></p>
+<div dir="ltr" class="mw-geshi mw-code mw-content-ltr">
+<div class="python source-python">
+<pre class="de1">
+SQUARE <span class="sy0">=</span> <span class="kw2">dict</span><span class="br0">(</span><span class="br0">[</span><span class="br0">(</span>c<span class="sy0">,</span> <span class="kw2">int</span><span class="br0">(</span>c<span class="br0">)</span>**<span class="nu0">2</span><span class="br0">)</span> <span class="kw1">for</span> c <span class="kw1">in</span> <span class="st0">"0123456789"</span><span class="br0">]</span><span class="br0">)</span>
+<span class="kw1">def</span> is_happy<span class="br0">(</span>n<span class="br0">)</span>:
+  s <span class="sy0">=</span> <span class="kw2">set</span><span class="br0">(</span><span class="br0">)</span>
+  <span class="kw1">while</span> <span class="br0">(</span>n <span class="sy0">&gt;</span> <span class="nu0">1</span><span class="br0">)</span> <span class="kw1">and</span> <span class="br0">(</span>n <span class="kw1">not</span> <span class="kw1">in</span> s<span class="br0">)</span>:
+    s.<span class="me1">add</span><span class="br0">(</span>n<span class="br0">)</span>
+    n <span class="sy0">=</span> <span class="kw2">sum</span><span class="br0">(</span>SQUARE<span class="br0">[</span>d<span class="br0">]</span> <span class="kw1">for</span> d <span class="kw1">in</span> <span class="kw2">str</span><span class="br0">(</span>n<span class="br0">)</span><span class="br0">)</span>
+  <span class="kw1">return</span> n <span class="sy0">==</span> <span class="nu0">1</span>
+</pre></div>
+</div>
+<p>When the algorithm ends in a cycle of repeating numbers, this cycle always includes the number 4, so it is not even necessary to store previous numbers in the sequence:</p>
+<div dir="ltr" class="mw-geshi mw-code mw-content-ltr">
+<div class="python source-python">
+<pre class="de1">
+SQUARE <span class="sy0">=</span> <span class="kw2">dict</span><span class="br0">(</span><span class="br0">[</span><span class="br0">(</span>c<span class="sy0">,</span> <span class="kw2">int</span><span class="br0">(</span>c<span class="br0">)</span>**<span class="nu0">2</span><span class="br0">)</span> <span class="kw1">for</span> c <span class="kw1">in</span> <span class="st0">"0123456789"</span><span class="br0">]</span><span class="br0">)</span>
+<span class="kw1">def</span> is_happy<span class="br0">(</span>n<span class="br0">)</span>:
+  <span class="kw1">while</span> <span class="br0">(</span>n <span class="sy0">&gt;</span> <span class="nu0">1</span><span class="br0">)</span> <span class="kw1">and</span> <span class="br0">(</span>n <span class="sy0">!=</span> <span class="nu0">4</span><span class="br0">)</span>:
+    n <span class="sy0">=</span> <span class="kw2">sum</span><span class="br0">(</span>SQUARE<span class="br0">[</span>d<span class="br0">]</span> <span class="kw1">for</span> d <span class="kw1">in</span> <span class="kw2">str</span><span class="br0">(</span>n<span class="br0">)</span><span class="br0">)</span>
+  <span class="kw1">return</span> n <span class="sy0">==</span> <span class="nu0">1</span>
+</pre></div>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Happy_number&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://mathworld.wolfram.com/SadNumber.html">"Sad Number"</a>. Wolfram Research, Inc<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-09-16</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHappy+number&amp;rft.btitle=Sad+Number&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fmathworld.wolfram.com%2FSadNumber.html&amp;rft.pub=Wolfram+Research%2C+Inc.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://oeis.org/A035502">"Lower of pair of consecutive happy numbers"</a>. <i>Online Encyclopedia of Integer Sequences</i><span class="reference-accessdate">. Retrieved <span class="nowrap">8 April</span> 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHappy+number&amp;rft.atitle=Lower+of+pair+of+consecutive+happy+numbers&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Foeis.org%2FA035502&amp;rft.jtitle=Online+Encyclopedia+of+Integer+Sequences&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://oeis.org/A072494">"First of triples of consecutive happy numbers"</a>. <i>Online Encyclopedia of Integer Sequences</i><span class="reference-accessdate">. Retrieved <span class="nowrap">8 April</span> 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHappy+number&amp;rft.atitle=First+of+triples+of+consecutive+happy+numbers&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Foeis.org%2FA072494&amp;rft.jtitle=Online+Encyclopedia+of+Integer+Sequences&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://primes.utm.edu/primes/page.php?id=76550">The Prime Database: 10^150006+7426247*10^75000+1</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://primes.utm.edu/primes/page.php?id=88847">Prime Pages entry for 2<sup>42643801</sup> - 1</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://oeis.org/A161872">Sloane's A161872 : Smallest unhappy number in base n</a>", <i>The <a href="/wiki/On-Line_Encyclopedia_of_Integer_Sequences" title="On-Line Encyclopedia of Integer Sequences">On-Line Encyclopedia of Integer Sequences</a></i>. OEIS Foundation.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://rosettacode.org/wiki/Happy_Number">Happy Number</a> Rosetta Code</span></li>
+</ol>
+</div>
+<h3><span class="mw-headline" id="Additional_resources">Additional resources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Happy_number&amp;action=edit&amp;section=11" title="Edit section: Additional resources">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Walter Schneider, <a rel="nofollow" class="external text" href="http://web.archive.org/web/20060204094653/http://www.wschnei.de/digit-related-numbers/happy-numbers.html">Mathews: Happy Numbers</a>.</li>
+<li><span class="citation mathworld" id="Reference-Mathworld-Happy_Number"><a href="/wiki/Eric_W._Weisstein" title="Eric W. Weisstein">Weisstein, Eric W.</a>, <a rel="nofollow" class="external text" href="http://mathworld.wolfram.com/HappyNumber.html">"Happy Number"</a>, <i><a href="/wiki/MathWorld" title="MathWorld">MathWorld</a></i>.</span></li>
+<li><a rel="nofollow" class="external text" href="http://mathforum.org/library/drmath/view/55856.html">Happy Numbers</a> at The Math Forum.</li>
+<li><a rel="nofollow" class="external text" href="http://numberphile.com/videos/melancoil.html">145 and the Melancoil</a> at Numberphile</li>
+<li><span id="CITEREFGuy2004" class="citation book"><a href="/wiki/Richard_K._Guy" title="Richard K. Guy">Guy, Richard</a> (2004). <i>Unsolved Problems in Number Theory</i> (3rd ed.). <a href="/wiki/Springer-Verlag" title="Springer-Verlag" class="mw-redirect">Springer-Verlag</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-387-20860-7" title="Special:BookSources/0-387-20860-7">0-387-20860-7</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHappy+number&amp;rft.aufirst=Richard&amp;rft.au=Guy%2C+Richard&amp;rft.aulast=Guy&amp;rft.btitle=Unsolved+Problems+in+Number+Theory&amp;rft.date=2004&amp;rft.edition=3rd&amp;rft.genre=book&amp;rft.isbn=0-387-20860-7&amp;rft.pub=Springer-Verlag&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Happy_number&amp;action=edit&amp;section=12" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><span class="citation web">Symonds, Ria. <a rel="nofollow" class="external text" href="http://www.numberphile.com/videos/7happy.html">"7 and Happy Numbers"</a>. <i>Numberphile</i>. <a href="/wiki/Brady_Haran" title="Brady Haran">Brady Haran</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHappy+number&amp;rft.atitle=7+and+Happy+Numbers&amp;rft.aufirst=Ria&amp;rft.aulast=Symonds&amp;rft.au=Symonds%2C+Ria&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.numberphile.com%2Fvideos%2F7happy.html&amp;rft.jtitle=Numberphile&amp;rft.pub=Brady+Haran&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Classes_of_natural_numbers" title="Template:Classes of natural numbers"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Classes_of_natural_numbers" title="Template talk:Classes of natural numbers"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Classes_of_natural_numbers&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%">Classes of <a href="/wiki/Natural_number" title="Natural number">natural numbers</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Exponentiation" title="Exponentiation">Powers</a> and<br />
+related numbers</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Achilles_number" title="Achilles number">Achilles numbers</a></li>
+<li><a href="/wiki/Power_of_two" title="Power of two">Powers of two</a></li>
+<li><a href="/wiki/Power_of_10" title="Power of 10">Powers of 10</a></li>
+<li><a href="/wiki/Square_number" title="Square number">Squares</a></li>
+<li><a href="/wiki/Cube_(algebra)" title="Cube (algebra)">Cubes</a></li>
+<li><a href="/wiki/Fourth_power" title="Fourth power">Fourth powers</a></li>
+<li><a href="/wiki/Fifth_power_(algebra)" title="Fifth power (algebra)">Fifth powers</a></li>
+<li><a href="/wiki/Perfect_power" title="Perfect power">Perfect powers</a></li>
+<li><a href="/wiki/Powerful_number" title="Powerful number">Powerful numbers</a></li>
+<li><a href="/wiki/Prime_power" title="Prime power">Prime powers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Of the form<br />
+<i>a</i> × 2<sup><i>b</i></sup> ± 1</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cullen_number" title="Cullen number">Cullen numbers</a></li>
+<li><a href="/wiki/Double_Mersenne_number" title="Double Mersenne number">Double Mersenne numbers</a></li>
+<li><a href="/wiki/Fermat_number" title="Fermat number">Fermat numbers</a></li>
+<li><a href="/wiki/Mersenne_prime" title="Mersenne prime">Mersenne numbers</a></li>
+<li><a href="/wiki/Proth_number" title="Proth number">Proth numbers</a></li>
+<li><a href="/wiki/Thabit_number" title="Thabit number">Thabit numbers</a></li>
+<li><a href="/wiki/Woodall_number" title="Woodall number">Woodall numbers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">other polynomial<br />
+numbers</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carol_number" title="Carol number">Carol numbers</a></li>
+<li><a href="/wiki/Hilbert_number" title="Hilbert number">Hilbert numbers</a></li>
+<li><a href="/wiki/Idoneal_number" title="Idoneal number">Idoneal numbers</a></li>
+<li><a href="/wiki/Kynea_number" title="Kynea number">Kynea numbers</a></li>
+<li><a href="/wiki/Leyland_number" title="Leyland number">Leyland numbers</a></li>
+<li><a href="/wiki/Lucky_numbers_of_Euler" title="Lucky numbers of Euler">Lucky numbers of Euler</a></li>
+<li><a href="/wiki/Repunit" title="Repunit">Repunits</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Recursion" title="Recursion">Recursively</a> defined<br />
+numbers</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Fibonacci_number" title="Fibonacci number">Fibonacci numbers</a></li>
+<li><a href="/wiki/Jacobsthal_number" title="Jacobsthal number">Jacobsthal numbers</a></li>
+<li><a href="/wiki/Leonardo_number" title="Leonardo number">Leonardo numbers</a></li>
+<li><a href="/wiki/Lucas_number" title="Lucas number">Lucas numbers</a></li>
+<li><a href="/wiki/Pell_number" title="Pell number">Pell numbers</a></li>
+<li><a href="/wiki/Perrin_number" title="Perrin number">Perrin numbers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Possessing a<br />
+specific set<br />
+of other numbers</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Kn%C3%B6del_number" title="Knödel number">Knödel numbers</a></li>
+<li><a href="/wiki/Riesel_number" title="Riesel number">Riesel numbers</a></li>
+<li><a href="/wiki/Sierpinski_number" title="Sierpinski number">Sierpinski numbers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Expressible via<br />
+specific sums</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Nonhypotenuse_number" title="Nonhypotenuse number">Nonhypotenuse numbers</a></li>
+<li><a href="/wiki/Polite_number" title="Polite number">Polite numbers</a></li>
+<li><a href="/wiki/Practical_number" title="Practical number">Practical numbers</a></li>
+<li><a href="/wiki/Primary_pseudoperfect_number" title="Primary pseudoperfect number">Primary pseudoperfect numbers</a></li>
+<li><a href="/wiki/Ulam_number" title="Ulam number">Ulam numbers</a></li>
+<li><a href="/wiki/Wolstenholme_number" title="Wolstenholme number">Wolstenholme numbers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Generated<br />
+via a <a href="/wiki/Sieve_theory" title="Sieve theory">sieve</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Lucky_number" title="Lucky number">Lucky numbers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Code" title="Code">Code</a> related</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Meertens_number" title="Meertens number">Meertens numbers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Figurate_number" title="Figurate number">Figurate numbers</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Two-dimensional_space" title="Two-dimensional space">2-dimensional</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Centered_polygonal_number" title="Centered polygonal number">centered</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Centered_triangular_number" title="Centered triangular number">Centered triangular numbers</a></li>
+<li><a href="/wiki/Centered_square_number" title="Centered square number">Centered square numbers</a></li>
+<li><a href="/wiki/Centered_pentagonal_number" title="Centered pentagonal number">Centered pentagonal numbers</a></li>
+<li><a href="/wiki/Centered_hexagonal_number" title="Centered hexagonal number">Centered hexagonal numbers</a></li>
+<li><a href="/wiki/Centered_heptagonal_number" title="Centered heptagonal number">Centered heptagonal numbers</a></li>
+<li><a href="/wiki/Centered_octagonal_number" title="Centered octagonal number">Centered octagonal numbers</a></li>
+<li><a href="/wiki/Centered_nonagonal_number" title="Centered nonagonal number">Centered nonagonal numbers</a></li>
+<li><a href="/wiki/Centered_decagonal_number" title="Centered decagonal number">Centered decagonal numbers</a></li>
+<li><a href="/wiki/Star_number" title="Star number">Star numbers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Polygonal_number" title="Polygonal number">non-centered</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Triangular_number" title="Triangular number">Triangular numbers</a></li>
+<li><a href="/wiki/Pentagonal_number" title="Pentagonal number">Pentagonal numbers</a></li>
+<li><a href="/wiki/Hexagonal_number" title="Hexagonal number">Hexagonal numbers</a></li>
+<li><a href="/wiki/Heptagonal_number" title="Heptagonal number">Heptagonal numbers</a></li>
+<li><a href="/wiki/Octagonal_number" title="Octagonal number">Octagonal numbers</a></li>
+<li><a href="/wiki/Nonagonal_number" title="Nonagonal number">Nonagonal numbers</a></li>
+<li><a href="/wiki/Decagonal_number" title="Decagonal number">Decagonal numbers</a></li>
+<li><a href="/wiki/Dodecagonal_number" title="Dodecagonal number">Dodecagonal numbers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Three-dimensional_space" title="Three-dimensional space">3-dimensional</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Centered_polyhedral_number" title="Centered polyhedral number">centered</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Centered_tetrahedral_number" title="Centered tetrahedral number">Centered tetrahedral numbers</a></li>
+<li><a href="/wiki/Centered_cube_number" title="Centered cube number">Centered cube numbers</a></li>
+<li><a href="/wiki/Centered_octahedral_number" title="Centered octahedral number">Centered octahedral numbers</a></li>
+<li><a href="/wiki/Centered_dodecahedral_number" title="Centered dodecahedral number">Centered dodecahedral numbers</a></li>
+<li><a href="/wiki/Centered_icosahedral_number" title="Centered icosahedral number">Centered icosahedral numbers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Polyhedral_number" title="Polyhedral number" class="mw-redirect">non-centered</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Tetrahedral_number" title="Tetrahedral number">Tetrahedral numbers</a></li>
+<li><a href="/wiki/Octahedral_number" title="Octahedral number">Octahedral numbers</a></li>
+<li><a href="/wiki/Dodecahedral_number" title="Dodecahedral number">Dodecahedral numbers</a></li>
+<li><a href="/wiki/Icosahedral_number" title="Icosahedral number">Icosahedral numbers</a></li>
+<li><a href="/wiki/Stella_octangula_number" title="Stella octangula number">Stella octangula numbers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Pyramidal_number" title="Pyramidal number">pyramidal</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Square_pyramidal_number" title="Square pyramidal number">Square pyramidal numbers</a></li>
+<li><a href="/wiki/Pentagonal_pyramidal_number" title="Pentagonal pyramidal number">Pentagonal pyramidal numbers</a></li>
+<li><a href="/wiki/Hexagonal_pyramidal_number" title="Hexagonal pyramidal number">Hexagonal pyramidal numbers</a></li>
+<li><a href="/wiki/Heptagonal_pyramidal_number" title="Heptagonal pyramidal number">Heptagonal pyramidal numbers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Four-dimensional_space" title="Four-dimensional space">4-dimensional</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;">
+<div style="padding:0em 0.75em;">centered</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Centered_pentachoric_number" title="Centered pentachoric number">Centered pentachoric numbers</a></li>
+<li><a href="/wiki/Squared_triangular_number" title="Squared triangular number">Squared triangular numbers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;">
+<div style="padding:0em 0.75em;">non-centered</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Pentatope_number" title="Pentatope number">Pentatope numbers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Pseudoprime" title="Pseudoprime">Pseudoprimes</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carmichael_number" title="Carmichael number">Carmichael numbers</a></li>
+<li><a href="/wiki/Catalan_pseudoprime" title="Catalan pseudoprime">Catalan pseudoprimes</a></li>
+<li><a href="/wiki/Elliptic_pseudoprime" title="Elliptic pseudoprime">Elliptic pseudoprimes</a></li>
+<li><a href="/wiki/Euler_pseudoprime" title="Euler pseudoprime">Euler pseudoprimes</a></li>
+<li><a href="/wiki/Euler%E2%80%93Jacobi_pseudoprime" title="Euler–Jacobi pseudoprime">Euler–Jacobi pseudoprimes</a></li>
+<li><a href="/wiki/Fermat_pseudoprime" title="Fermat pseudoprime">Fermat pseudoprimes</a></li>
+<li><a href="/wiki/Frobenius_pseudoprime" title="Frobenius pseudoprime">Frobenius pseudoprimes</a></li>
+<li><a href="/wiki/Lucas_pseudoprime" title="Lucas pseudoprime">Lucas pseudoprimes</a></li>
+<li><a href="/wiki/Somer%E2%80%93Lucas_pseudoprime" title="Somer–Lucas pseudoprime">Somer–Lucas pseudoprimes</a></li>
+<li><a href="/wiki/Strong_pseudoprime" title="Strong pseudoprime">Strong pseudoprimes</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Combinatorial<br />
+numbers</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bell_number" title="Bell number">Bell numbers</a></li>
+<li><a href="/wiki/Cake_number" title="Cake number">Cake numbers</a></li>
+<li><a href="/wiki/Catalan_number" title="Catalan number">Catalan numbers</a></li>
+<li><a href="/wiki/Dedekind_number" title="Dedekind number">Dedekind numbers</a></li>
+<li><a href="/wiki/Delannoy_number" title="Delannoy number">Delannoy numbers</a></li>
+<li><a href="/wiki/Fuss%E2%80%93Catalan_number" title="Fuss–Catalan number">Fuss–Catalan numbers</a></li>
+<li><a href="/wiki/Lazy_caterer%27s_sequence" title="Lazy caterer's sequence">Lazy caterer's sequence</a></li>
+<li><a href="/wiki/Lobb_numbers" title="Lobb numbers">Lobb numbers</a></li>
+<li><a href="/wiki/Motzkin_number" title="Motzkin number">Motzkin numbers</a></li>
+<li><a href="/wiki/Narayana_number" title="Narayana number">Narayana numbers</a></li>
+<li><a href="/wiki/Ordered_Bell_number" title="Ordered Bell number">Ordered Bell numbers</a></li>
+<li><a href="/wiki/Schr%C3%B6der_number" title="Schröder number">Schröder numbers</a></li>
+<li><a href="/wiki/Schr%C3%B6der%E2%80%93Hipparchus_number" title="Schröder–Hipparchus number">Schröder–Hipparchus numbers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Arithmetic_function" title="Arithmetic function">Arithmetic functions</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;">
+<div style="padding:0em 0.75em;">By properties of <a href="/wiki/Divisor_function" title="Divisor function">σ(<i>n</i>)</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Abundant_number" title="Abundant number">Abundant numbers</a></li>
+<li><a href="/wiki/Almost_perfect_number" title="Almost perfect number">Almost perfect numbers</a></li>
+<li><a href="/wiki/Arithmetic_number" title="Arithmetic number">Arithmetic numbers</a></li>
+<li><a href="/wiki/Colossally_abundant_number" title="Colossally abundant number">Colossally abundant numbers</a></li>
+<li><a href="/wiki/Descartes_number" title="Descartes number">Descartes numbers</a></li>
+<li><a href="/wiki/Hemiperfect_number" title="Hemiperfect number">Hemiperfect numbers</a></li>
+<li><a href="/wiki/Highly_abundant_number" title="Highly abundant number">Highly abundant numbers</a></li>
+<li><a href="/wiki/Hyperperfect_number" title="Hyperperfect number">Hyperperfect numbers</a></li>
+<li><a href="/wiki/Multiply_perfect_number" title="Multiply perfect number">Multiply perfect numbers</a></li>
+<li><a href="/wiki/Perfect_number" title="Perfect number">Perfect numbers</a></li>
+<li><a href="/wiki/Primitive_abundant_number" title="Primitive abundant number">Primitive abundant numbers</a></li>
+<li><a href="/wiki/Quasiperfect_number" title="Quasiperfect number">Quasiperfect numbers</a></li>
+<li><a href="/wiki/Refactorable_number" title="Refactorable number">Refactorable numbers</a></li>
+<li><a href="/wiki/Sublime_number" title="Sublime number">Sublime numbers</a></li>
+<li><a href="/wiki/Superabundant_number" title="Superabundant number">Superabundant numbers</a></li>
+<li><a href="/wiki/Superior_highly_composite_number" title="Superior highly composite number">Superior highly composite numbers</a></li>
+<li><a href="/wiki/Superperfect_number" title="Superperfect number">Superperfect numbers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;">
+<div style="padding:0em 0.75em;">By properties of <a href="/wiki/Arithmetic_function#.CE.A9.28n.29.2C_.CF.89.28n.29.2C_.CE.BDp.28n.29_.E2.80.93_prime_power_decomposition" title="Arithmetic function">Ω(<i>n</i>)</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Almost_prime" title="Almost prime">Almost primes</a></li>
+<li><a href="/wiki/Semiprime" title="Semiprime">Semiprimes</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;">
+<div style="padding:0em 0.75em;">By properties of <a href="/wiki/Euler%27s_totient_function" title="Euler's totient function">φ(<i>n</i>)</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Highly_cototient_number" title="Highly cototient number">Highly cototient numbers</a></li>
+<li><a href="/wiki/Highly_totient_number" title="Highly totient number">Highly totient numbers</a></li>
+<li><a href="/wiki/Noncototient" title="Noncototient">Noncototients</a></li>
+<li><a href="/wiki/Nontotient" title="Nontotient">Nontotients</a></li>
+<li><a href="/wiki/Perfect_totient_number" title="Perfect totient number">Perfect totient numbers</a></li>
+<li><a href="/wiki/Sparsely_totient_number" title="Sparsely totient number">Sparsely totient numbers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;">
+<div style="padding:0em 0.75em;">By properties of <a href="/wiki/Divisor_function#Definition" title="Divisor function">s(<i>n</i>)</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Amicable_numbers" title="Amicable numbers">Amicable numbers</a></li>
+<li><a href="/wiki/Betrothed_numbers" title="Betrothed numbers">Betrothed numbers</a></li>
+<li><a href="/wiki/Deficient_number" title="Deficient number">Deficient numbers</a></li>
+<li><a href="/wiki/Semiperfect_number" title="Semiperfect number">Semiperfect numbers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<div>
+<ul>
+<li><a href="/wiki/Euclid_number" title="Euclid number">Euclid numbers</a></li>
+<li><a href="/wiki/Fortunate_number" title="Fortunate number">Fortunate numbers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Dividing a quotient</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Wieferich_number" title="Wieferich number" class="mw-redirect">Wieferich numbers</a></li>
+<li><a href="/wiki/Wall-Sun-Sun_prime" title="Wall-Sun-Sun prime" class="mw-redirect">Wall-Sun-Sun numbers</a></li>
+<li><a href="/wiki/Wilson_prime#Wilson_numbers" title="Wilson prime">Wilson numbers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other <a href="/wiki/Prime_factor" title="Prime factor">prime factor</a><br />
+or <a href="/wiki/Divisor" title="Divisor">divisor</a> related<br />
+numbers</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Blum_integer" title="Blum integer">Blum integers</a></li>
+<li><a href="/wiki/Erd%C5%91s%E2%80%93Woods_number" title="Erdős–Woods number">Erdős–Woods numbers</a></li>
+<li><a href="/wiki/Friendly_number" title="Friendly number">Friendly numbers</a></li>
+<li><a href="/wiki/Frugal_number" title="Frugal number">Frugal numbers</a></li>
+<li><a href="/wiki/Giuga_number" title="Giuga number">Giuga numbers</a></li>
+<li><a href="/wiki/Harmonic_divisor_number" title="Harmonic divisor number">Harmonic divisor numbers</a></li>
+<li><a href="/wiki/Highly_composite_number" title="Highly composite number">Highly composite numbers</a></li>
+<li><a href="/wiki/Lucas%E2%80%93Carmichael_number" title="Lucas–Carmichael number">Lucas–Carmichael numbers</a></li>
+<li><a href="/wiki/Pronic_number" title="Pronic number">Pronic numbers</a></li>
+<li><a href="/wiki/Regular_number" title="Regular number">Regular numbers</a></li>
+<li><a href="/wiki/Rough_number" title="Rough number">Rough numbers</a></li>
+<li><a href="/wiki/Smooth_number" title="Smooth number">Smooth numbers</a></li>
+<li><a href="/wiki/Sociable_number" title="Sociable number">Sociable numbers</a></li>
+<li><a href="/wiki/Sphenic_number" title="Sphenic number">Sphenic numbers</a></li>
+<li><a href="/wiki/St%C3%B8rmer_number" title="Størmer number">Størmer numbers</a></li>
+<li><a href="/wiki/Super-Poulet_number" title="Super-Poulet number">Super-Poulet numbers</a></li>
+<li><a href="/wiki/Zeisel_number" title="Zeisel number">Zeisel numbers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Recreational_mathematics" title="Recreational mathematics">Recreational<br />
+mathematics</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;">
+<div style="padding:0em 0.75em;">Base-dependent<br />
+numbers</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Automorphic_number" title="Automorphic number">Automorphic numbers</a></li>
+<li><a href="/wiki/Cyclic_number" title="Cyclic number">Cyclic numbers</a></li>
+<li><a href="/wiki/Digit-reassembly_number" title="Digit-reassembly number">Digit-reassembly numbers</a></li>
+<li><a href="/wiki/Dudeney_number" title="Dudeney number">Dudeney numbers</a></li>
+<li><a href="/wiki/Equidigital_number" title="Equidigital number">Equidigital numbers</a></li>
+<li><a href="/wiki/Extravagant_number" title="Extravagant number">Extravagant numbers</a></li>
+<li><a href="/wiki/Factorion" title="Factorion">Factorions</a></li>
+<li><a href="/wiki/Friedman_number" title="Friedman number">Friedman numbers</a></li>
+<li><strong class="selflink">Happy numbers</strong></li>
+<li><a href="/wiki/Harshad_number" title="Harshad number">Harshad numbers</a></li>
+<li><a href="/wiki/Kaprekar_number" title="Kaprekar number">Kaprekar numbers</a></li>
+<li><a href="/wiki/Keith_number" title="Keith number">Keith numbers</a></li>
+<li><a href="/wiki/Lychrel_number" title="Lychrel number">Lychrel numbers</a></li>
+<li><a href="/wiki/Missing-digit_sum" title="Missing-digit sum">Missing-digit sums</a></li>
+<li><a href="/wiki/Narcissistic_number" title="Narcissistic number">Narcissistic numbers</a></li>
+<li><a href="/wiki/Palindromic_number" title="Palindromic number">Palindromic numbers</a></li>
+<li><a href="/wiki/Pandigital_number" title="Pandigital number">Pandigital numbers</a></li>
+<li><a href="/wiki/Parasitic_number" title="Parasitic number">Parasitic numbers</a></li>
+<li><a href="/wiki/Pernicious_number" title="Pernicious number">Pernicious numbers</a></li>
+<li><a href="/wiki/Polydivisible_number" title="Polydivisible number">Polydivisible numbers</a></li>
+<li><a href="/wiki/Primeval_number" title="Primeval number">Primeval numbers</a></li>
+<li><a href="/wiki/Repdigit" title="Repdigit">Repdigits</a></li>
+<li><a href="/wiki/Repunit" title="Repunit">Repunits</a></li>
+<li><a href="/wiki/Self_number" title="Self number">Self numbers</a></li>
+<li><a href="/wiki/Self-descriptive_number" title="Self-descriptive number">Self-descriptive numbers</a></li>
+<li><a href="/wiki/Smarandache%E2%80%93Wellin_number" title="Smarandache–Wellin number">Smarandache–Wellin numbers</a></li>
+<li><a href="/wiki/Strictly_non-palindromic_number" title="Strictly non-palindromic number">Strictly non-palindromic numbers</a></li>
+<li><a href="/wiki/Strobogrammatic_number" title="Strobogrammatic number">Strobogrammatic numbers</a></li>
+<li><a href="/wiki/Sum-product_number" title="Sum-product number">Sum-product numbers</a></li>
+<li><a href="/wiki/Transposable_integer" title="Transposable integer">Transposable integers</a></li>
+<li><a href="/wiki/Trimorphic_number" title="Trimorphic number">Trimorphic numbers</a></li>
+<li><a href="/wiki/Undulating_number" title="Undulating number">Undulating numbers</a></li>
+<li><a href="/wiki/Vampire_number" title="Vampire number">Vampire numbers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<div>
+<ul>
+<li><a href="/wiki/Aronson%27s_sequence" title="Aronson's sequence">Aronson's sequence</a></li>
+<li><a href="/wiki/Ban_number" title="Ban number">Ban numbers</a></li>
+<li><a href="/wiki/Pancake_sorting" title="Pancake sorting">Pancake numbers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1187
+CPU time usage: 0.391 seconds
+Real time usage: 0.514 seconds
+Preprocessor visited node count: 3781/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 103293/2097152 bytes
+Template argument size: 9507/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 4/500
+Lua time usage: 0.086/10.000 seconds
+Lua memory usage: 3.25 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  401.473      1 - -total
+ 31.26%  125.486      7 - Template:Navbox
+ 18.05%   72.482      1 - Template:Classes_of_natural_numbers
+ 16.65%   66.863      6 - Template:Navbox_subgroup
+ 14.13%   56.724      1 - Template:Cn
+ 12.56%   50.410      2 - Template:Fix
+ 11.88%   47.690      1 - Template:Reflist
+ 11.11%   44.592      3 - Template:Category_handler
+  8.82%   35.395      4 - Template:Cite_web
+  6.70%   26.914      1 - Template:Distinguish2
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:542994-0!*!0!!en!*!*!math=0 and timestamp 20150201163636 and revision id 645168377
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from &quot;<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Happy_number&amp;oldid=645168377">http://en.wikipedia.org/w/index.php?title=Happy_number&amp;oldid=645168377</a>&quot;					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Base-dependent_integer_sequences" title="Category:Base-dependent integer sequences">Base-dependent integer sequences</a></li><li><a href="/wiki/Category:Recreational_mathematics" title="Category:Recreational mathematics">Recreational mathematics</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_2010" title="Category:Articles containing potentially dated statements from 2010">Articles containing potentially dated statements from 2010</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_June_2013" title="Category:Articles with unsourced statements from June 2013">Articles with unsourced statements from June 2013</a></li><li><a href="/wiki/Category:All_articles_with_failed_verification" title="Category:All articles with failed verification">All articles with failed verification</a></li><li><a href="/wiki/Category:Articles_with_failed_verification_from_December_2014" title="Category:Articles with failed verification from December 2014">Articles with failed verification from December 2014</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_June_2011" title="Category:Use dmy dates from June 2011">Use dmy dates from June 2011</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Happy+number&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Happy+number" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Happy_number"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Happy_number"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Happy_number" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Happy_number&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Happy_number&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Happy_number" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Happy_number" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Happy_number&amp;oldid=645168377" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Happy_number&amp;action=info" title="More information about this page">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q44535" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Happy_number&amp;id=645168377" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Happy+number">Create a book</a></li>
+													<li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Happy+number&amp;oldid=645168377&amp;writer=rdf2latex">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Happy_number&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-ang"><a href="//ang.wikipedia.org/wiki/%C4%92adig_get%C3%A6l" title="Ēadig getæl – Old English" lang="ang" hreflang="ang">Ænglisc</a></li>
+													<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%B9%D8%AF%D8%AF_%D8%B3%D8%B9%D9%8A%D8%AF" title="عدد سعيد – Arabic" lang="ar" hreflang="ar">العربية</a></li>
+													<li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Nombre_feli%C3%A7" title="Nombre feliç – Catalan" lang="ca" hreflang="ca">Català</a></li>
+													<li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/%C5%A0%C5%A5astn%C3%A9_%C4%8D%C3%ADslo" title="Šťastné číslo – Czech" lang="cs" hreflang="cs">Čeština</a></li>
+													<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Fr%C3%B6hliche_Zahl" title="Fröhliche Zahl – German" lang="de" hreflang="de">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/N%C3%BAmero_feliz" title="Número feliz – Spanish" lang="es" hreflang="es">Español</a></li>
+													<li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%A7%D8%B9%D8%AF%D8%A7%D8%AF_%D8%AE%D9%88%D8%B4%D8%AD%D8%A7%D9%84" title="اعداد خوشحال – Persian" lang="fa" hreflang="fa">فارسی</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Nombre_heureux" title="Nombre heureux – French" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Numero_felice" title="Numero felice – Italian" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%9E%D7%A1%D7%A4%D7%A8_%D7%A9%D7%9E%D7%97" title="מספר שמח – Hebrew" lang="he" hreflang="he">עברית</a></li>
+													<li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/Boldog_sz%C3%A1m" title="Boldog szám – Hungarian" lang="hu" hreflang="hu">Magyar</a></li>
+													<li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Gelukkig_getal" title="Gelukkig getal – Dutch" lang="nl" hreflang="nl">Nederlands</a></li>
+													<li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%8F%E3%83%83%E3%83%94%E3%83%BC%E6%95%B0" title="ハッピー数 – Japanese" lang="ja" hreflang="ja">日本語</a></li>
+													<li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Lykkelig_tall" title="Lykkelig tall – Norwegian (bokmål)" lang="no" hreflang="no">Norsk bokmål</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Liczba_weso%C5%82a" title="Liczba wesoła – Polish" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/N%C3%BAmero_feliz" title="Número feliz – Portuguese" lang="pt" hreflang="pt">Português</a></li>
+													<li class="interlanguage-link interwiki-sl"><a href="//sl.wikipedia.org/wiki/Veselo_%C5%A1tevilo" title="Veselo število – Slovenian" lang="sl" hreflang="sl">Slovenščina</a></li>
+													<li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Onnellinen_luku" title="Onnellinen luku – Finnish" lang="fi" hreflang="fi">Suomi</a></li>
+													<li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Glada_tal" title="Glada tal – Swedish" lang="sv" hreflang="sv">Svenska</a></li>
+													<li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%A9%D0%B0%D1%81%D0%BB%D0%B8%D0%B2%D0%B5_%D1%87%D0%B8%D1%81%D0%BB%D0%BE" title="Щасливе число – Ukrainian" lang="uk" hreflang="uk">Українська</a></li>
+													<li class="interlanguage-link interwiki-vi"><a href="//vi.wikipedia.org/wiki/S%E1%BB%91_may_m%E1%BA%AFn" title="Số may mắn – Vietnamese" lang="vi" hreflang="vi">Tiếng Việt</a></li>
+													<li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E5%BF%AB%E6%A8%82%E6%95%B8" title="快樂數 – Chinese" lang="zh" hreflang="zh">中文</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q44535#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 1 February 2015, at 15:49.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Happy_number&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" srcset="//bits.wikimedia.org/images/wikimedia-button-1.5x.png 1.5x, //bits.wikimedia.org/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.25wmf15/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.eventLogging.subscriber","ext.wikimediaEvents.statsd","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":118,"wgHostname":"mw1058"});
+}</script>
+	</body>
+</html>
