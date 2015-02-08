@@ -3,7 +3,8 @@ class Scout():
         self.group = group
         self.target = target
 
-    def searchFile(self, filePath):
+    def getFileData(self, filePath):
         fileHandler = open(filePath, "r")
         fileData = fileHandler.read()
         fileHandler.close()
+        return fileData
