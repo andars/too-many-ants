@@ -36,6 +36,7 @@ class Scout(multiprocessing.Process):
         return self.index
 
     def run(self, **args):
+        self.traverse_assignment()
         self.queue.put((self.group, self.messages))
         self.clear_messages()
         
