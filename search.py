@@ -10,7 +10,9 @@ class WorkerController():
 
     def read_worker_messages(self):
         worker_messages = {}
-        
+        for worker in self.workers:
+            worker_message = self.worker_message_queue.get()
+            
 
         return worker_messages
 
